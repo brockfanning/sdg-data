@@ -48,8 +48,12 @@ def get_metadata(csv_filename):
             print(e)
 
 def fix_data_issues(df):
-    df[HEADER_VALUE_TIDY].replace('yes', 1, inplace=True)
-    df[HEADER_VALUE_TIDY].replace('no', 0, inplace=True)
+    changes = {
+        'yes': 1,
+        'no': 0,
+        'not_applicable': 0
+    }
+    df[HEADER_VALUE_TIDY].replace(changes, inplace=True)
     return df
 
 def tidy_dataframe(df, indicator_variable):
@@ -123,8 +127,8 @@ def tidy_dataframe(df, indicator_variable):
     # Fix any data issues.
     tidy = fix_data_issues(tidy)
 
-    # Remove any rows with no value.
-    tidy = tidy.dropna(subset=[HEADER_VALUE_TIDY])
+    # For rows with no value, use 0.
+    tidy[HEADER_VALUE_TIDY].fillna(0, inplace=True)
 
     return tidy
 
