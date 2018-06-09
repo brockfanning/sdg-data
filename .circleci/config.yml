@@ -20,6 +20,11 @@ jobs:
           paths:
             - ./venv
       - run:
+          name: Convert wide data to tidy
+          command: |
+            . venv/bin/activate
+            python3 scripts/wide_to_tidy.py
+      - run:
           name: Check data
           command: |
             . venv/bin/activate

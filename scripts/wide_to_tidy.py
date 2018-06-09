@@ -15,7 +15,7 @@ HEADER_YEAR_TIDY = 'Year'
 HEADER_VALUE_TIDY = 'Value'
 FOLDER_DATA_CSV_TIDY = 'data'
 FOLDER_DATA_CSV_WIDE = 'data-wide'
-FOLDER_META = 'meta-us'
+FOLDER_META = 'meta'
 
 def tidy_blank_dataframe():
     """This starts a blank dataframe with our required tidy columns."""
