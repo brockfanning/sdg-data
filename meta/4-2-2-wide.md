@@ -2,11 +2,13 @@
 title: >-
   Participation rate in organized learning (one year before the official primary
   entry age), by sex
-permalink: /4-2-2/
+permalink: /4-2-2-wide/
 sdg_goal: 4
-layout: indicator
-indicator: 4.2.2
+layout: indicator-beta
+indicator: 4.2.2.wide
 indicator_variable: total
+indicator_variable_2: gender:male
+indicator_variable_3: gender:female
 graph: longitudinal
 graph_type_description: Line graph
 graph_status_notes: Graphed
@@ -31,17 +33,17 @@ published: true
 actual_indicator_available: >-
   Percentage of 5 years olds enrolled in organized learning (prekindergarten,
   kindergarten, or first or higher grade
-time_period: October 2000 through October 2016
+time_period: October 2007 through October 2015
 unit_of_measure: Child
 disaggregation_categories: Data provided by gender and by family income quintile (lowest and higest)
 periodicity: Annual
 comments_and_limitations: Samples are based on CPS and are relatively small.
 us_method_of_computation: Weighted number of 5-year-olds enrolled divided by 5-year-old population
-date_of_national_source_publication: 'October Current Population Survey, 2000 through 2016'
-date_metadata_updated: '2017-10-13'
+date_of_national_source_publication: 'October Current Population Survey, 2007 through 2015'
+date_metadata_updated: October 2016
 source_agency_staff_name: Tom Snyder
 source_agency_staff_email: tom.snyder@ed.gov
-source_url: 'http://nces.ed.gov/programs/digest/d16/tables/dt16_202.20.asp?current=yes'
+source_url: 'http://nces.ed.gov/programs/digest/d15/tables/dt15_202.20.asp?current=yes'
 source_agency_survey_dataset: >-
   National Center for Education Statistics tabulation of Census Bureau Current
   Population Survey
@@ -49,6 +51,4 @@ actual_indicator_available_description: "Variable name           Label i4_2_2_to
 graph_title: >-
   Percentage of 5 years olds enrolled in prekindergarten, kindergarten, or first
   or higher grade in the US
-scheduled_update_by_national_source: October 2018
-scheduled_update_by_SDG_team: October 2018
 ---
