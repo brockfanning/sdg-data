@@ -56,11 +56,21 @@ def tidy_dataframe(df, indicator_variable):
     """This converts the data from wide to tidy, based on the column names."""
 
     tidy = tidy_blank_dataframe()
-    for column in df.columns.tolist():
-        if indicator_variable is None and column != HEADER_YEAR_WIDE:
+    columns = df.columns.tolist()
+    # If the indicator specifies an 'indicator_variable' that does not actually
+    # exist in the CSV, treat it as None.
+    if indicator_variable is not None and indicator_variable not in columns:
+        indicator_variable = None
+    # In some cases we just have to guess at the main column, and we don't
+    # want to guess twice.
+    main_column_picked = False
+    # Loop through each column in the CSV file.
+    for column in columns:
+        if indicator_variable is None and column != HEADER_YEAR_WIDE and not main_column_picked:
             # If the indicator doesn't specify an indicator variable, and this
             # is not the Year column, then assume it's the main column. The
             # main column gets converted into rows without any categories.
+            main_column_picked = True
             melted = tidy_melt(df, column, column)
             del melted[column]
             tidy = tidy.append(melted)
