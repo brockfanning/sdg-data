@@ -52,8 +52,16 @@ def tidy_dataframe(df, indicator_variable):
 
     tidy = tidy_blank_dataframe()
     for column in df.columns.tolist():
-        if column == indicator_variable:
-            # The main column gets converted into rows without any categories.
+        if indicator_variable is None and column != HEADER_YEAR_WIDE:
+            # If the indicator doesn't specify an indicator variable, and this
+            # is not the Year column, then assume it's the main column. The
+            # main column gets converted into rows without any categories.
+            melted = tidy_melt(df, column, column)
+            del melted[column]
+            tidy = tidy.append(melted)
+        elif column == indicator_variable:
+            # Otherwise if this is the indicator variable, use this as the main
+            # column.
             melted = tidy_melt(df, indicator_variable, indicator_variable)
             del melted[indicator_variable]
             tidy = tidy.append(melted)
@@ -107,10 +115,6 @@ def tidy_csv(csv):
 
     csv_filename = os.path.split(csv)[-1]
     metadata = get_metadata(csv_filename)
-
-    # If there is no 'indicator_variable' then we can skip this one.
-    if metadata['indicator_variable'] is None:
-        return True
 
     try:
         df = pd.read_csv(csv, dtype=str)
