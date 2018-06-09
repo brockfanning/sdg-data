@@ -47,6 +47,11 @@ def get_metadata(csv_filename):
         except yaml.YAMLError as e:
             print(e)
 
+def fix_data_issues(df):
+    df[HEADER_VALUE_TIDY].replace('yes', 1, inplace=True)
+    df[HEADER_VALUE_TIDY].replace('no', 0, inplace=True)
+    return df
+
 def tidy_dataframe(df, indicator_variable):
     """This converts the data from wide to tidy, based on the column names."""
 
@@ -104,6 +109,9 @@ def tidy_dataframe(df, indicator_variable):
     cols.pop(cols.index(HEADER_VALUE_TIDY))
     cols = [HEADER_YEAR_TIDY] + cols + [HEADER_VALUE_TIDY]
     tidy = tidy[cols]
+
+    # Fix any data issues.
+    tidy = fix_data_issues(tidy)
 
     # Remove any rows with no value.
     tidy = tidy.dropna(subset=[HEADER_VALUE_TIDY])
