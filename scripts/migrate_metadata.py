@@ -51,6 +51,7 @@ def update_metadata(indicator):
     with open(indicator, 'w') as f:
         f.write(frontmatter.dumps(post))
 
+
     return True
 
 def main():
