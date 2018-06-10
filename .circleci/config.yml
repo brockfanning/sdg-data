@@ -8,7 +8,7 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: test-dependencies-{{ checksum "scripts/requirements.txt" }}
+          key: test-dependencies-v3-{{ checksum "scripts/requirements.txt" }}
       - run:
           name: Install Python dependencies
           command: |
@@ -16,9 +16,14 @@ jobs:
             . venv/bin/activate
             pip install -r scripts/requirements.txt
       - save_cache:
-          key: test-dependencies-{{ checksum "scripts/requirements.txt" }}
+          key: test-dependencies-v3-{{ checksum "scripts/requirements.txt" }}
           paths:
             - ./venv
+      - run:
+          name: Convert wide data to tidy
+          command: |
+            . venv/bin/activate
+            python3 scripts/wide_to_tidy.py
       - run:
           name: Check data
           command: |
@@ -31,7 +36,7 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: test-dependencies-{{ checksum "scripts/requirements.txt" }}
+          key: test-dependencies-v3-{{ checksum "scripts/requirements.txt" }}
       - run:
           name: Install Python dependencies
           command: |
@@ -39,9 +44,14 @@ jobs:
             . venv/bin/activate
             pip install -r scripts/requirements.txt
       - save_cache:
-          key: test-dependencies-{{ checksum "scripts/requirements.txt" }}
+          key: test-dependencies-v3-{{ checksum "scripts/requirements.txt" }}
           paths:
             - ./venv
+      - run:
+          name: Convert wide data to tidy
+          command: |
+            . venv/bin/activate
+            python3 scripts/wide_to_tidy.py
       - run:
           name: Build data
           command: |
