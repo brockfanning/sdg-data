@@ -12,7 +12,7 @@ output the main data, edges, and headline in csv and json format.
 from sdg.build import build_data
 
 if __name__ == '__main__':
-    status = build_data(git_data_dir='data-wide')
+    status = build_data(git=False)
     if(not status):
         raise RuntimeError("Failed data build")
     else:
