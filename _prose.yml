@@ -51,12 +51,12 @@ prose:
             label: "Global indicator description"
             scope: global
       - name: "un_designated_tier"
-        field: 
+        field:
             element: text
             label: "UN designated tier"
             scope: global
       - name: "un_custodian_agency"
-        field: 
+        field:
             element: text
             label: "UN custodian agency"
             scope: global
@@ -65,6 +65,11 @@ prose:
             element: text
             label: "Link to UN metadata"
             scope: global
+      - name: "goal_meta_link_page"
+        field:
+            element: text
+            label: "Page in link to UN metadata"
+            scope: global
       - name: "goal_meta_link_text"
         field:
             element: text
@@ -72,65 +77,135 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
-      - name: "national_indicator_available"
+      - name: actual_indicator_available
         field:
             element: text
-            label: "Indicator available"
-            scope: national
-      - name: "national_indicator_description"
-        field:
-            element: text
-            label: "Indicator description"
-            scope: national
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: national
-      - name: "computation_units"
-        field:
-            element: text
-            label: "Unit of measurement"
-            scope: national
-      - name: "computation_definitions"
+            label: Actual indicator available
+            scope: "national"
+      - name: actual_indicator_available_description
         field:
             element: textarea
-            label: "Definitions"
-            scope: national
-      - name: "computation_calculations"
+            label: Actual indicator available - description
+            scope: "national"
+      - name: date_of_national_source_publication
         field:
             element: text
-            label: "Calculations"
-            scope: national
-      - name: "comments_limitations"
+            label: Date of national source publication
+            scope: "national"
+      - name: graph_status_notes
         field:
             element: text
-            label: "Other information"
-            scope: national
-      - name: "national_data_update_url"
+            label: Graph status notes
+            scope: "national"
+      - name: graph_type_description
         field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_data_update_url_text"
+            element: text
+            label: Graph type description
+            scope: "national"
+      - name: method_of_computation
         field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_metadata_update_url"
+            element: text
+            label: Method of computation
+            scope: "national"
+      - name: periodicity
         field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
-      - name: "national_metadata_update_url_text"
+            element: text
+            label: Periodicity
+            scope: "national"
+      - name: scheduled_update_by_national_source
         field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
+            element: text
+            label: Scheduled update by national source
+            scope: "national"
+      - name: us_method_of_computation
+        field:
+            element: text
+            label: U.S. method of computation
+            scope: "national"
+      - name: indicator_variable
+        field:
+            element: text
+            label: Indicator variable
+            scope: "national"
+      - name: variable_description
+        field:
+            element: textarea
+            label: Variable description
+            scope: "national"
+      - name: variable_notes
+        field:
+            element: textarea
+            label: Variable notes
+            scope: "national"
+      - name: indicator_variable_2
+        field:
+            element: text
+            label: Indicator variable 2
+            scope: "national"
+      - name: indicator_variable_3
+        field:
+            element: text
+            label: Indicator variable 3
+            scope: "national"
+      - name: comments_and_limitations
+        field:
+            element: textarea
+            label: Comments and limitations
+            scope: "national"
+      - name: date_metadata_updated
+        field:
+            element: text
+            label: Date metadata updated
+            scope: "national"
+      - name: disaggregation_geography
+        field:
+            element: text
+            label: Disaggregation geography
+            scope: "national"
+      - name: rationale_interpretation
+        field:
+            element: textarea
+            label: Rationale interpretation
+            scope: "national"
+      - name: unit_of_measure
+        field:
+            element: text
+            label: Unit of measure
+            scope: "national"
+      - name: disaggregation_categories
+        field:
+            element: textarea
+            label: Disaggregation categories
+            scope: "national"
+      - name: international_and_national_references
+        field:
+            element: textarea
+            label: International and national references
+            scope: "national"
+      - name: time_period
+        field:
+            element: text
+            label: Time period
+            scope: "national"
+      - name: scheduled_update_by_SDG_team
+        field:
+            element: text
+            label: Scheduled update by SDG team
+            scope: "national"
+      - name: graph_negative
+        field:
+            element: text
+            label: Graph negative
+            scope: "national"
+      - name: variable_unit_label
+        field:
+            element: text
+            label: Variable unit label
+            scope: "national"
        ######### Data Info #########
       - name: "reporting_status"
-        field: 
-            element: select 
+        field:
+            element: select
             label: "Reporting status"
             options:
               - name: 'notstarted'
@@ -174,8 +249,8 @@ prose:
             scope: data
       ######### Chart Info #########
       - name: "graph_type"
-        field: 
-            element: select 
+        field:
+            element: select
             label: "Graph type"
             options:
               - name: 'line'
@@ -184,7 +259,7 @@ prose:
                 value: 'bar'
             scope: graph
       - name: "graph_title"
-        field: 
+        field:
             element: text
             label: "Graph Title"
             scope: graph
@@ -196,398 +271,58 @@ prose:
             label: Source 1 active
             help: Whether or not to display this source
             value: true
-      - name: source_organisation_1
+      - name: source_agency_staff_email_1
         field:
             element: text
-            label: "Organisation"
-            scope: source_1
-      - name: "source_periodicity_1"
+            label: Source 1 Agency Staff Email
+      - name: source_agency_staff_name_1
         field:
             element: text
-            label: "Periodicity"
-            scope: source_1
-      - name: "source_earliest_available_1"
+            label: Source 1 Agency Staff Name
+      - name: source_agency_survey_dataset_1
         field:
             element: text
-            label: "Earliest available data"
-            scope: source_1
-      - name: "source_geographical_coverage_1"
+            label: Source 1 Agency Survey Dataset
+      - name: source_notes_1
         field:
             element: text
-            label: "Geographical coverage"
-            scope: source_1
-      - name: "source_url_1"
+            label: Source 1 Notes
+      - name: source_title_1
         field:
             element: text
-            label: "Link to data source"
-            scope: source_1
-      - name: "source_url_text_1"
+            label: Source 1 Title
+      - name: source_url_1
         field:
             element: text
-            label: "Link to data source text"
-            value: "Link to source"
-            scope: source_1
-      - name: "source_release_date_1"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_1
-      - name: "source_next_release_1"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_1
-      - name: "source_statistical_classification_1"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_1
-      - name: "source_contact_1"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_1
-      - name: "source_other_info_1"
-        field:
-            element: textarea
-            label: "Other information"
-            scope: source_1
+            label: Source 1 URL
       ## Source 2
       - name: source_active_2
         field:
             element: checkbox
             label: Source 2 active
             help: Whether or not to display this source
-            value: false
-      - name: source_organisation_2
-        field:
-            element: text
-            label: "Organisation"
-            scope: source_2
-      - name: "source_periodicity_2"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_2
-      - name: "source_earliest_available_2"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_2
-      - name: "source_geographical_coverage_2"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_2
-      - name: "source_url_2"
-        field:
-            element: text
-            label: "Link to data source"
-            scope: source_2
-      - name: "source_url_text_2"
-        field:
-            element: text
-            label: "Link to data source text"
-            value: "Link to Source"
-            scope: source_2
-      - name: "source_release_date_2"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_2
-      - name: "source_next_release_2"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_2
-      - name: "source_statistical_classification_2"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_2
-      - name: "source_contact_2"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_2
-      - name: "source_other_info_2"
-        field:
-            element: textarea
-            label: "Other information"
-            scope: source_2
-      ## Source 3
-      - name: source_active_3
-        field:
-            element: checkbox
-            label: Source 3 active
-            help: Whether or not to display this source
-            value: false
-      - name: source_organisation_3
-        field:
-            element: text
-            label: "Organisation"
-            scope: source_3
-      - name: "source_periodicity_3"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_3
-      - name: "source_earliest_available_3"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_3
-      - name: "source_geographical_coverage_3"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_3
-      - name: "source_url_3"
-        field:
-            element: text
-            label: "Link to data source"
-            value: "Link to source"
-            scope: source_3
-      - name: "source_url_text_3"
-        field:
-            element: text
-            label: "Link to data source text"
-            scope: source_3
-      - name: "source_release_date_3"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_3
-      - name: "source_next_release_3"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_3
-      - name: "source_statistical_classification_3"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_3
-      - name: "source_contact_3"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_3
-      - name: "source_other_info_3"
-        field:
-            element: textarea
-            label: "Other information"
-            scope: source_3
-      ## Source 4
-      - name: source_active_4
-        field:
-            element: checkbox
-            label: Source 4 active
-            help: Whether or not to display this source
             value: true
-      - name: source_organisation_4
+      - name: source_agency_staff_email_2
         field:
             element: text
-            label: "Organisation"
-            scope: source_4
-      - name: "source_periodicity_4"
+            label: Source 2 Agency Staff Email
+      - name: source_agency_staff_name_2
         field:
             element: text
-            label: "Periodicity"
-            scope: source_4
-      - name: "source_earliest_available_4"
+            label: Source 2 Agency Staff Name
+      - name: source_agency_survey_dataset_2
         field:
             element: text
-            label: "Earliest available data"
-            scope: source_4
-      - name: "source_geographical_coverage_4"
+            label: Source 2 Agency Survey Dataset
+      - name: source_notes_2
         field:
             element: text
-            label: "Geographical coverage"
-            scope: source_4
-      - name: "source_url_4"
+            label: Source 2 Notes
+      - name: source_title_2
         field:
             element: text
-            label: "Link to data source"
-            scope: source_4
-      - name: "source_url_text_4"
+            label: Source 2 Title
+      - name: source_url_2
         field:
             element: text
-            label: "Link to data source text"
-            value: "Link to source"
-            scope: source_4
-      - name: "source_release_date_4"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_4
-      - name: "source_next_release_4"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_4
-      - name: "source_statistical_classification_4"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_4
-      - name: "source_contact_4"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_4
-      - name: "source_other_info_4"
-        field:
-            element: textarea
-            label: "Other information"
-            scope: source_4
-## Source 5
-      - name: source_active_5
-        field:
-            element: checkbox
-            label: Source 5 active
-            help: Whether or not to display this source
-            value: true
-      - name: source_organisation_5
-        field:
-            element: text
-            label: "Organisation"
-            scope: source_5
-      - name: "source_periodicity_5"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_5
-      - name: "source_earliest_available_5"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_5
-      - name: "source_geographical_coverage_5"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_5
-      - name: "source_url_5"
-        field:
-            element: text
-            label: "Link to data source"
-            scope: source_5
-      - name: "source_url_text_5"
-        field:
-            element: text
-            label: "Link to data source text"
-            value: "Link to source"
-            scope: source_5
-      - name: "source_release_date_5"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_5
-      - name: "source_next_release_5"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_5
-      - name: "source_statistical_classification_5"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_5
-      - name: "source_contact_5"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_5
-      - name: "source_other_info_5"
-        field:
-            element: textarea
-            label: "Other information"
-            scope: source_5
-## Source 6
-      - name: source_active_6
-        field:
-            element: checkbox
-            label: Source 6 active
-            help: Whether or not to display this source
-            value: true
-      - name: source_organisation_6
-        field:
-            element: text
-            label: "Organisation"
-            scope: source_6
-      - name: "source_periodicity_6"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_6
-      - name: "source_earliest_available_6"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_6
-      - name: "source_geographical_coverage_6"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_6
-      - name: "source_url_6"
-        field:
-            element: text
-            label: "Link to data source"
-            scope: source_6
-      - name: "source_url_text_6"
-        field:
-            element: text
-            label: "Link to data source text"
-            value: "Link to source"
-            scope: source_6
-      - name: "source_release_date_6"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_6
-      - name: "source_next_release_6"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_6
-      - name: "source_statistical_classification_6"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_6
-      - name: "source_contact_6"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_6
-      - name: "source_other_info_6"
-        field:
-            element: textarea
-            label: "Other information"
-            scope: source_6
+            label: Source 2 URL
