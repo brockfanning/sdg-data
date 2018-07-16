@@ -8,23 +8,22 @@ platform.
 import glob
 import os.path
 import frontmatter
-from io import BytesIO
 
 # For more readable code below.
 FOLDER_META = 'meta'
-FOLDER_DATA_WIDE = 'data-wide'
 
 def update_metadata(indicator):
     with open(indicator, 'r') as f:
         post = frontmatter.load(f)
 
         # Figure out the reporting_status.
-        reporting_status = 'notstarted'
-        if 'source_url' in post.metadata and post['source_url'] is not None and post['source_url'] is not '':
-            reporting_status = 'inprogress'
-            if 'graph' in post.metadata and post['graph'] is not None and post['graph'] is not '':
-                reporting_status = 'complete'
-        post.metadata['reporting_status'] = reporting_status
+        if 'reporting_status' not in post.metadata:
+            reporting_status = 'notstarted'
+            if 'source_url' in post.metadata and post['source_url'] is not None and post['source_url'] is not '':
+                reporting_status = 'inprogress'
+                if 'graph' in post.metadata and post['graph'] is not None and post['graph'] is not '':
+                    reporting_status = 'complete'
+            post.metadata['reporting_status'] = reporting_status
 
         # Make sure it has a published key.
         if 'published' not in post.metadata:
@@ -48,10 +47,17 @@ def update_metadata(indicator):
         post.metadata['data_non_statistical'] = data_non_statistical
         post.metadata['graph_type'] = graph_type
 
+        # Convert the source data keys.
+        post.metadata['source_active_1'] = True
+        for key in post.metadata:
+            if key.startswith('source') and not key.endswith('_1'):
+                post.metadata[key + '_1'] = post.metadata[key]
+                del post.metadata[key]
+
     with open(indicator, 'w') as f:
         f.write(frontmatter.dumps(post))
 
-    return True
+    return post
 
 def main():
     """Update all all of the indicators in the metadata folder."""
@@ -62,8 +68,18 @@ def main():
     indicators = glob.glob(FOLDER_META + "/*.md")
     print("Attempting to update " + str(len(indicators)) + " metadata files...")
 
+    # Compile all the possible metdata keys.
+    all_keys = {}
+
     for indicator in indicators:
-        status = status & update_metadata(indicator)
+        result = update_metadata(indicator)
+        if result:
+            for key in result.metadata:
+                all_keys[key] = True
+        status = status & (result is not None)
+
+    #for key in all_keys.keys():
+    #    print(key)
 
     return status
 

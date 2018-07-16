@@ -34,13 +34,14 @@ permalink: /4-2-2-wide/
 published: true
 reporting_status: complete
 sdg_goal: 4
-source_agency_staff_email: tom.snyder@ed.gov
-source_agency_staff_name: Tom Snyder
-source_agency_survey_dataset: National Center for Education Statistics tabulation
+source_active_1: true
+source_agency_staff_email_1: tom.snyder@ed.gov
+source_agency_staff_name_1: Tom Snyder
+source_agency_survey_dataset_1: National Center for Education Statistics tabulation
   of Census Bureau Current Population Survey
-source_notes: null
-source_title: null
-source_url: http://nces.ed.gov/programs/digest/d15/tables/dt15_202.20.asp?current=yes
+source_notes_1: null
+source_title_1: null
+source_url_1: http://nces.ed.gov/programs/digest/d15/tables/dt15_202.20.asp?current=yes
 target: By 2030, ensure that all girls and boys have access to quality early childhood
   development, care and pre-primary education so that they are ready for primary education.
 target_id: '4.2'
