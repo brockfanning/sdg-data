@@ -10,12 +10,79 @@ import pandas as pd
 import yaml
 
 # For more readable code below.
+HEADER_ALL = 'all'
 HEADER_YEAR_WIDE = 'year'
 HEADER_YEAR_TIDY = 'Year'
 HEADER_VALUE_TIDY = 'Value'
 FOLDER_DATA_CSV_TIDY = 'data'
 FOLDER_DATA_CSV_WIDE = 'data-wide'
 FOLDER_META = 'meta'
+FOLDER_DATA_CSV_SUBNATIONAL = 'data-wide/subnational'
+
+# Allows for more human-friendly folder names in the repository.
+FOLDER_NAME_CONVERSIONS = {
+    'state': 'GeoCode',
+    'AL': '0400000US01',
+    'AK': '0400000US02',
+    'AZ': '0400000US04',
+    'AR': '0400000US05',
+    'CA': '0400000US06',
+    'CO': '0400000US08',
+    'CT': '0400000US09',
+    'DE': '0400000US10',
+    'DC': '0400000US11',
+    'FL': '0400000US12',
+    'GA': '0400000US13',
+    'HI': '0400000US15',
+    'ID': '0400000US16',
+    'IL': '0400000US17',
+    'IN': '0400000US18',
+    'IA': '0400000US19',
+    'KS': '0400000US20',
+    'KY': '0400000US21',
+    'LA': '0400000US22',
+    'ME': '0400000US23',
+    'MD': '0400000US24',
+    'MA': '0400000US25',
+    'MI': '0400000US26',
+    'MN': '0400000US27',
+    'MS': '0400000US28',
+    'MO': '0400000US29',
+    'MT': '0400000US30',
+    'NE': '0400000US31',
+    'NV': '0400000US32',
+    'NH': '0400000US33',
+    'NJ': '0400000US34',
+    'NM': '0400000US35',
+    'NY': '0400000US36',
+    'NC': '0400000US37',
+    'ND': '0400000US38',
+    'OH': '0400000US39',
+    'OK': '0400000US40',
+    'OR': '0400000US41',
+    'PA': '0400000US42',
+    'RI': '0400000US44',
+    'SC': '0400000US45',
+    'SD': '0400000US46',
+    'TN': '0400000US47',
+    'TX': '0400000US48',
+    'UT': '0400000US49',
+    'VT': '0400000US50',
+    'VA': '0400000US51',
+    'WA': '0400000US53',
+    'WV': '0400000US54',
+    'WI': '0400000US55',
+    'WY': '0400000US56',
+    'AS': '0400000US60',
+    'FM': '0400000US64',
+    'GU': '0400000US66',
+    'MH': '0400000US68',
+    'MP': '0400000US69',
+    'PW': '0400000US70',
+    'PR': '0400000US72',
+    'UM': '0400000US74',
+    'VI': '0400000US78'
+}
 
 def tidy_blank_dataframe():
     """This starts a blank dataframe with our required tidy columns."""
@@ -136,7 +203,36 @@ def tidy_dataframe(df, indicator_variable):
 
     return tidy
 
-def tidy_csv(csv):
+def tidy_csv_from_subnational_folder(csv, folder_name, subfolder_name):
+    """This converts a CSV into a dataframe, tweaks the headers, and returns it."""
+
+    try:
+        df = pd.read_csv(csv, dtype=str)
+    except Exception as e:
+        print(csv, e)
+        return False
+
+    # Convert the folder structure into a column according to our syntax rules.
+    # For example: state/alabama will turn into 'state:alabama'.
+    subfolder_column = folder_name + ':' + subfolder_name
+
+    # Add this to the columns in the dataframe.
+    columns = dict()
+    for column in df.columns.tolist():
+        fixed = column
+        if column == HEADER_ALL:
+            fixed = subfolder_column
+        elif column.startswith(HEADER_ALL + '|'):
+            fixed = column.replace(HEADER_ALL + '|', subfolder_column + '|')
+        elif column == HEADER_YEAR_WIDE:
+            fixed = HEADER_YEAR_WIDE
+        else:
+            fixed = subfolder_column + '|' + column
+        columns[column] = fixed
+
+    return df.rename(columns, axis='columns')
+
+def tidy_csv(csv, subnational_folders):
     """This runs all checks and processing on a CSV file and reports exceptions."""
 
     csv_filename = os.path.split(csv)[-1]
@@ -147,6 +243,20 @@ def tidy_csv(csv):
     except Exception as e:
         print(csv, e)
         return False
+
+    # Look in any subnational folders for a corresponding file.
+    for folder in subnational_folders:
+        folder_name = os.path.basename(os.path.normpath(folder))
+        if folder_name in FOLDER_NAME_CONVERSIONS:
+            folder_name = FOLDER_NAME_CONVERSIONS[folder_name]
+        for subfolder in subnational_folders[folder]:
+            subfolder_name = os.path.basename(os.path.normpath(subfolder))
+            if subfolder_name in FOLDER_NAME_CONVERSIONS:
+                subfolder_name = FOLDER_NAME_CONVERSIONS[subfolder_name]
+            subnational_file = subfolder + csv_filename
+            if os.path.isfile(subnational_file):
+                dis_df = tidy_csv_from_subnational_folder(subnational_file, folder_name, subfolder_name)
+                df = pd.merge(df, dis_df, how='outer', on=HEADER_YEAR_WIDE)
 
     try:
         tidy = tidy_dataframe(df, metadata['indicator_variable'])
@@ -175,8 +285,16 @@ def main():
     csvs = glob.glob(FOLDER_DATA_CSV_WIDE + "/indicator*.csv")
     print("Attempting to tidy " + str(len(csvs)) + " wide CSV files...")
 
+    # Check here to see if there subnational data.
+    subnational_folders = dict()
+    folders = glob.glob(FOLDER_DATA_CSV_SUBNATIONAL + '/*/')
+    for folder in folders:
+        subfolders = glob.glob(folder + '/*/')
+        if (subfolders):
+            subnational_folders[folder] = subfolders
+
     for csv in csvs:
-        status = status & tidy_csv(csv)
+        status = status & tidy_csv(csv, subnational_folders)
 
     return status
 
