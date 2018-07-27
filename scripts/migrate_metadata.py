@@ -54,6 +54,14 @@ def update_metadata(indicator):
                 post.metadata[key + '_1'] = post.metadata[key]
                 del post.metadata[key]
 
+        # Make sure it has an indicator_sort_order.
+        if 'indicator_sort_order' not in post.metadata:
+            indicator_parts = post['indicator'].split('.')
+            indicator_sort_order = []
+            for indicator_part in indicator_parts:
+                indicator_sort_order.append(indicator_part.rjust(2, '0'))
+            post.metadata['indicator_sort_order'] = '-'.join(indicator_sort_order)
+
     with open(indicator, 'w') as f:
         f.write(frontmatter.dumps(post))
 
