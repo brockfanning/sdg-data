@@ -25,6 +25,7 @@ has_metadata: true
 indicator: 4.2.2.wide
 indicator_name: Participation rate in organized learning (one year before the official
   primary entry age), by sex
+indicator_sort_order: 04.02.02.wide
 indicator_variable: total
 indicator_variable_2: gender:male
 indicator_variable_3: gender:female
