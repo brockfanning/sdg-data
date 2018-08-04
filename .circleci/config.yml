@@ -61,7 +61,7 @@ jobs:
           root: ~/repo
           paths:
             - _site
-  deploy:
+  deploy_staging:
     docker:
       - image: circleci/python:3.6.1
     working_directory: ~/repo
@@ -75,6 +75,20 @@ jobs:
       - run:
           name: Deploy to Github
           command: bash scripts/deploy/deploy_staging.circleci.sh
+  deploy_prod:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "da:1f:58:b7:8b:3c:c5:dc:f5:7c:35:73:e2:05:7a:32"
+      - attach_workspace:
+          at: /tmp/build
+      - run:
+          name: Deploy to Github
+          command: bash scripts/deploy/deploy.circleci.sh
 workflows:
   version: 2
   test:
@@ -82,16 +96,26 @@ workflows:
       - test:
           filters:
             branches:
-              ignore: gh-pages
+              ignore:
+                - gh-pages
+                - prod-pages
   build-deploy:
     jobs:
       - build:
           filters:
             branches:
-              only: develop
-      - deploy:
+              only:
+                - develop
+                - master
+      - deploy_staging:
           requires:
             - build
           filters:
             branches:
               only: develop
+      - deploy_prod:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
