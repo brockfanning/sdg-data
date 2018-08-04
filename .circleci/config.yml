@@ -89,6 +89,20 @@ jobs:
       - run:
           name: Deploy to Github
           command: bash scripts/deploy/deploy.circleci.sh
+  deploy_remote:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - add_ssh_keys:
+          finterprints:
+            - "cb:4b:02:21:26:7a:8b:de:5a:2e:47:0e:0d:9c:b3:2f"
+      - attach_workspace:
+          at: /tmp/build
+      - run:
+          name: Deploy to remote Github
+          command: bash scripts/deploy/deploy_remote.circleci.sh
 workflows:
   version: 2
   test:
@@ -114,6 +128,12 @@ workflows:
             branches:
               only: develop
       - deploy_prod:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
+      - deploy_remote:
           requires:
             - build
           filters:
