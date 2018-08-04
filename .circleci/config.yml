@@ -1,0 +1,121 @@
+# Python CircleCI 2.0 configuration file
+version: 2
+jobs:
+  test:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
+      - run:
+          name: Install Python dependencies
+          command: |
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install -r scripts/requirements.txt
+      - save_cache:
+          key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
+          paths:
+            - ./venv
+      - run:
+          name: Convert wide data to tidy
+          command: |
+            . venv/bin/activate
+            python3 scripts/wide_to_tidy.py
+      - run:
+          name: Check data
+          command: |
+            . venv/bin/activate
+            python3 scripts/check_data.py
+  build:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
+      - run:
+          name: Install Python dependencies
+          command: |
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install -r scripts/requirements.txt
+      - save_cache:
+          key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
+          paths:
+            - ./venv
+      - run:
+          name: Convert wide data to tidy
+          command: |
+            . venv/bin/activate
+            python3 scripts/wide_to_tidy.py
+      - run:
+          name: Build data
+          command: |
+            . venv/bin/activate
+            python3 scripts/build_data.py
+      - persist_to_workspace:
+          root: ~/repo
+          paths:
+            - _site
+  deploy_staging:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "da:1f:58:b7:8b:3c:c5:dc:f5:7c:35:73:e2:05:7a:32"
+      - attach_workspace:
+          at: /tmp/build
+      - run:
+          name: Deploy to Github
+          command: bash scripts/deploy/deploy_staging.circleci.sh
+  deploy_prod:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "da:1f:58:b7:8b:3c:c5:dc:f5:7c:35:73:e2:05:7a:32"
+      - attach_workspace:
+          at: /tmp/build
+      - run:
+          name: Deploy to Github
+          command: bash scripts/deploy/deploy.circleci.sh
+workflows:
+  version: 2
+  test:
+    jobs:
+      - test:
+          filters:
+            branches:
+              ignore:
+                - gh-pages
+                - prod-pages
+  build-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - develop
+                - master
+      - deploy_staging:
+          requires:
+            - build
+          filters:
+            branches:
+              only: develop
+      - deploy_prod:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
