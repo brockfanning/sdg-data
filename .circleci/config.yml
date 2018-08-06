@@ -70,6 +70,9 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "c4:b0:de:c4:a7:80:69:a8:9e:c8:01:4a:c4:7b:87:53"
+      - run:
+          name: Fix ssh config
+          command: bash scripts/deploy/fix_ssh_config.circleci.sh
       - attach_workspace:
           at: /tmp/build
       - run:
@@ -84,6 +87,9 @@ jobs:
       - add_ssh_keys:
           finterprints:
             - "b1:be:db:b2:a7:8d:69:c6:41:78:7f:b6:5d:87:ed:5c"
+      - run:
+          name: Fix ssh config
+          command: bash scripts/deploy/fix_ssh_config.circleci.sh
       - attach_workspace:
           at: /tmp/build
       - run:
