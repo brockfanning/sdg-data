@@ -4,7 +4,7 @@ then
   git config --global user.email $GH_EMAIL
   git config --global user.name $GH_NAME
 
-  git clone $GH_REMOTE_URL out
+  git clone git@github-prod:brock-code/sdg-data-prod.git
 
   cd out
   git checkout gh-pages || git checkout --orphan gh-pages

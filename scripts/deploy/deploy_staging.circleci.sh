@@ -4,7 +4,7 @@ then
   git config --global user.email $GH_EMAIL
   git config --global user.name $GH_NAME
 
-  git clone $CIRCLE_REPOSITORY_URL out
+  git clone git@github-staging:brockfanning/sdg-data.git
 
   cd out
   git checkout gh-pages || git checkout --orphan gh-pages
