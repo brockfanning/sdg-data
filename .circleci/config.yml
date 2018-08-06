@@ -69,7 +69,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - "da:1f:58:b7:8b:3c:c5:dc:f5:7c:35:73:e2:05:7a:32"
+            - "c4:b0:de:c4:a7:80:69:a8:9e:c8:01:4a:c4:7b:87:53"
       - attach_workspace:
           at: /tmp/build
       - run:
@@ -82,27 +82,13 @@ jobs:
     steps:
       - checkout
       - add_ssh_keys:
-          fingerprints:
-            - "da:1f:58:b7:8b:3c:c5:dc:f5:7c:35:73:e2:05:7a:32"
-      - attach_workspace:
-          at: /tmp/build
-      - run:
-          name: Deploy to Github
-          command: bash scripts/deploy/deploy.circleci.sh
-  deploy_remote:
-    docker:
-      - image: circleci/python:3.6.1
-    working_directory: ~/repo
-    steps:
-      - checkout
-      - add_ssh_keys:
           finterprints:
-            - "cb:4b:02:21:26:7a:8b:de:5a:2e:47:0e:0d:9c:b3:2f"
+            - "b1:be:db:b2:a7:8d:69:c6:41:78:7f:b6:5d:87:ed:5c"
       - attach_workspace:
           at: /tmp/build
       - run:
-          name: Deploy to remote Github
-          command: bash scripts/deploy/deploy_remote.circleci.sh
+          name: Deploy to production Github
+          command: bash scripts/deploy/deploy_prod.circleci.sh
 workflows:
   version: 2
   test:
@@ -112,7 +98,6 @@ workflows:
             branches:
               ignore:
                 - gh-pages
-                - prod-pages
   build-deploy:
     jobs:
       - build:
@@ -128,12 +113,6 @@ workflows:
             branches:
               only: develop
       - deploy_prod:
-          requires:
-            - build
-          filters:
-            branches:
-              only: master
-      - deploy_remote:
           requires:
             - build
           filters:
