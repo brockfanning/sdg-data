@@ -69,6 +69,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
+            # Replace this with the fingerprint for your "gh-stg" key.
             - "c4:b0:de:c4:a7:80:69:a8:9e:c8:01:4a:c4:7b:87:53"
       - run:
           name: Fix ssh config
@@ -86,6 +87,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           finterprints:
+            # Replace this with the fingerprint for your "gh-prod" key.
             - "b1:be:db:b2:a7:8d:69:c6:41:78:7f:b6:5d:87:ed:5c"
       - run:
           name: Fix ssh config
