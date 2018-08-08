@@ -72,12 +72,12 @@ jobs:
             - "c4:b0:de:c4:a7:80:69:a8:9e:c8:01:4a:c4:7b:87:53"
       - run:
           name: Fix ssh config
-          command: bash scripts/deploy/fix_ssh_config.circleci.sh
+          command: bash scripts/deploy/circleci/fix_ssh_config.sh
       - attach_workspace:
           at: /tmp/build
       - run:
           name: Deploy to Github
-          command: bash scripts/deploy/deploy_staging.circleci.sh
+          command: bash scripts/deploy/circleci/deploy_staging.sh
   deploy_prod:
     docker:
       - image: circleci/python:3.6.1
@@ -89,12 +89,12 @@ jobs:
             - "b1:be:db:b2:a7:8d:69:c6:41:78:7f:b6:5d:87:ed:5c"
       - run:
           name: Fix ssh config
-          command: bash scripts/deploy/fix_ssh_config.circleci.sh
+          command: bash scripts/deploy/circleci/fix_ssh_config.sh
       - attach_workspace:
           at: /tmp/build
       - run:
           name: Deploy to production Github
-          command: bash scripts/deploy/deploy_prod.circleci.sh
+          command: bash scripts/deploy/circleci/deploy_prod.sh
 workflows:
   version: 2
   test:
