@@ -55,11 +55,6 @@ prose:
             element: text
             label: "Link to UN metadata"
             scope: global
-      - name: "goal_meta_link_page"
-        field:
-            element: text
-            label: "Page in link to UN metadata"
-            scope: global
       - name: "goal_meta_link_text"
         field:
             element: text
@@ -81,16 +76,6 @@ prose:
         field:
             element: text
             label: Date of national source publication
-            scope: "national"
-      - name: graph_status_notes
-        field:
-            element: text
-            label: Graph status notes
-            scope: "national"
-      - name: graph_type_description
-        field:
-            element: text
-            label: Graph type description
             scope: "national"
       - name: method_of_computation
         field:
