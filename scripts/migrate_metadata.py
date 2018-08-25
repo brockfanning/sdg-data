@@ -31,6 +31,13 @@ def update_metadata(indicator):
         'source_agency_survey_dataset': 'source_organisation',
         'source_agency_staff_name': 'source_organisation'
     }
+    subnational_indicators = [
+        '1.2.1',
+        '3.3.1',
+        '5.5.2',
+        '7.2.1',
+        '8.1.1'
+    ]
 
     with open(indicator, 'r') as f:
         post = frontmatter.load(f)
@@ -105,6 +112,11 @@ def update_metadata(indicator):
         for field_to_drop in fields_to_drop:
             if field_to_drop in post.metadata:
                 del post.metadata[field_to_drop]
+
+        # Add subnational data.
+        if post.metadata['indicator'] in subnational_indicators:
+            post.metadata['data_geocode_regex'] = '.*'
+            post.metadata['data_show_map'] = True
 
     with open(indicator, 'w') as f:
         f.write(frontmatter.dumps(post))
