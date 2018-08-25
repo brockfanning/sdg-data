@@ -13,6 +13,12 @@ import frontmatter
 FOLDER_META = 'meta'
 
 def update_metadata(indicator):
+
+    fields_to_drop = [
+        'goal_meta_link_page',
+        'graph_status_notes',
+        'graph_type_description'
+    ]
     with open(indicator, 'r') as f:
         post = frontmatter.load(f)
 
@@ -61,6 +67,11 @@ def update_metadata(indicator):
             for indicator_part in indicator_parts:
                 indicator_sort_order.append(indicator_part.rjust(2, '0'))
             post.metadata['indicator_sort_order'] = '-'.join(indicator_sort_order)
+
+        # Drop certain fields.
+        for field_to_drop in fields_to_drop:
+            if field_to_drop in post.metadata:
+                del post.metadata[field_to_drop]
 
     with open(indicator, 'w') as f:
         f.write(frontmatter.dumps(post))
