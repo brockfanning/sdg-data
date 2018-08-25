@@ -30,20 +30,10 @@ prose:
             element: text
             label: "Indicator name"
             scope: global
-      - name: "indicator"
-        field:
-            element: hidden
-            label: "Indicator number"
-            scope: global
       - name: "target"
         field:
             element: text
             label: "Target name"
-            scope: global
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target number"
             scope: global
       - name: "indicator_definition"
         field:
@@ -203,6 +193,16 @@ prose:
             label: Variable unit label
             scope: "national"
        ######### Data Info #########
+      - name: "indicator"
+        field:
+            element: hidden
+            label: "Indicator number"
+            scope: data
+      - name: "target_id"
+        field:
+            element: text
+            label: "Target number"
+            scope: data
       - name: "reporting_status"
         field:
             element: select
