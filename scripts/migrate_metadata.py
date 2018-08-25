@@ -86,19 +86,12 @@ def update_metadata(indicator):
                     post.metadata[converted_field] = post.metadata[field_to_convert]
                     del post.metadata[field_to_convert]
 
-        # Duplicate some platform-required fields.
+        # Copy some platform-required fields.
         for field_to_copy in fields_to_copy:
             if field_to_copy in post.metadata:
                 duplicate_field = fields_to_copy[field_to_copy]
                 if duplicate_field not in post.metadata:
                     post.metadata[duplicate_field] = post.metadata[field_to_copy]
-
-        # Convert the source data keys.
-        post.metadata['source_active_1'] = True
-        for key in post.metadata:
-            if key.startswith('source') and not key.endswith('_1'):
-                post.metadata[key + '_1'] = post.metadata[key]
-                del post.metadata[key]
 
         # Make sure it has an indicator_sort_order.
         if 'indicator_sort_order' not in post.metadata:
@@ -117,6 +110,19 @@ def update_metadata(indicator):
         if post.metadata['indicator'] in subnational_indicators:
             post.metadata['data_geocode_regex'] = '.*'
             post.metadata['data_show_map'] = True
+
+        # Convert the source data keys.
+        post.metadata['source_active_1'] = True
+        fields_to_add = {}
+        fields_to_delete = []
+        for key in post.metadata:
+            if key.startswith('source') and not key.endswith('_1'):
+                fields_to_add[key + '_1'] = post.metadata[key]
+                fields_to_delete.append(key)
+        for key in fields_to_add:
+            post.metadata[key] = fields_to_add[key]
+        for key in fields_to_delete:
+            del post.metadata[key]
 
     with open(indicator, 'w') as f:
         f.write(frontmatter.dumps(post))
