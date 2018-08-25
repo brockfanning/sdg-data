@@ -142,7 +142,7 @@ prose:
             element: textarea
             label: Rationale interpretation
             scope: "national"
-      - name: unit_of_measure
+      - name: computation_units
         field:
             element: text
             label: Unit of measure
@@ -256,6 +256,11 @@ prose:
             label: Source 1 active
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_1
+        field:
+            element: text
+            label: Source 1 Organization
+            scope: source_1
       - name: source_agency_staff_email_1
         field:
             element: text
@@ -293,6 +298,11 @@ prose:
             label: Source 2 active
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_2
+        field:
+            element: text
+            label: Source 2 Organization
+            scope: source_2
       - name: source_agency_staff_email_2
         field:
             element: text
