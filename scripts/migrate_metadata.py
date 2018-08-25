@@ -19,6 +19,19 @@ def update_metadata(indicator):
         'graph_status_notes',
         'graph_type_description'
     ]
+    fields_with_defaults = {
+        'national_geographical_coverage': 'United States'
+    }
+    fields_to_convert = {
+        # Old: New
+        'unit_of_measure': 'computation_units'
+    }
+    fields_to_copy = {
+        # Old: New
+        'source_agency_survey_dataset': 'source_organisation',
+        'source_agency_staff_name': 'source_organisation'
+    }
+
     with open(indicator, 'r') as f:
         post = frontmatter.load(f)
 
@@ -52,6 +65,26 @@ def update_metadata(indicator):
             graph_type = 'bar'
         post.metadata['data_non_statistical'] = data_non_statistical
         post.metadata['graph_type'] = graph_type
+
+        # Set some defaults.
+        for field_with_defaults in fields_with_defaults:
+            if field_with_defaults not in post.metadata:
+                post.metadata[field_with_defaults] = fields_with_defaults[field_with_defaults]
+
+        # Convert some deprecated fields.
+        for field_to_convert in fields_to_convert:
+            if field_to_convert in post.metadata:
+                converted_field = fields_to_convert[field_to_convert]
+                if converted_field not in post.metadata:
+                    post.metadata[converted_field] = post.metadata[field_to_convert]
+                    del post.metadata[field_to_convert]
+
+        # Duplicate some platform-required fields.
+        for field_to_copy in fields_to_copy:
+            if field_to_copy in post.metadata:
+                duplicate_field = fields_to_copy[field_to_copy]
+                if duplicate_field not in post.metadata:
+                    post.metadata[duplicate_field] = post.metadata[field_to_copy]
 
         # Convert the source data keys.
         post.metadata['source_active_1'] = True
