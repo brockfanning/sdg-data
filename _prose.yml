@@ -55,10 +55,10 @@ prose:
             element: text
             label: "UN designated tier"
             scope: global
-      - name: "un_custodian_agency"
+      - name: "un_custodial_agency"
         field:
             element: text
-            label: "UN custodian agency"
+            label: "UN custodial agency"
             scope: global
       - name: "goal_meta_link"
         field:
