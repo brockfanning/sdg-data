@@ -173,6 +173,21 @@ prose:
             element: hidden
             label: "Indicator number"
             scope: data
+      - name: "indicator_sort_order"
+        field:
+            element: hidden
+            label: "Indicator Sort Order"
+            scope: data
+      - name: "has_metadata"
+        field:
+            element: hidden
+            label: "Has metadata"
+            scope: data
+      - name: "national_geographical_coverage"
+        field:
+            element: hidden
+            label: "National Geographical Coverage"
+            scope: data
       - name: "target_id"
         field:
             element: text
