@@ -25,7 +25,7 @@ before_script:
 script:
   - python ./scripts/check_data.py
   - python ./scripts/build_data.py
-deploy:
+deploy: travis_wait
 - provider: script
   script: scripts/deploy/deploy_staging.sh
   skip_cleanup: true
