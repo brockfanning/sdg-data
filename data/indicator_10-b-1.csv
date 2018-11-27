@@ -1,7 +1,55 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Flow,Value
+2010,,38279.57
+2011,,48694.43
+2012,,32046.44
+2013,,46532.85
+2014,,45664.13
+2015,,48113.81
+2016,,51399.70
+2017,,
+2018,,
+2010,Non-Governmental Organisations Flows (net disbursements),1345.86
+2011,Non-Governmental Organisations Flows (net disbursements),1384.26
+2012,Non-Governmental Organisations Flows (net disbursements),1291.45
+2013,Non-Governmental Organisations Flows (net disbursements),1240.61
+2014,Non-Governmental Organisations Flows (net disbursements),1312.80
+2015,Non-Governmental Organisations Flows (net disbursements),1395.11
+2016,Non-Governmental Organisations Flows (net disbursements),1423.65
+2017,Non-Governmental Organisations Flows (net disbursements),
+2018,Non-Governmental Organisations Flows (net disbursements),
+2010,ODA (net disbursements),11938.38
+2011,ODA (net disbursements),12210.31
+2012,ODA (net disbursements),11944.21
+2013,ODA (net disbursements),12469.48
+2014,ODA (net disbursements),14272.37
+2015,ODA (net disbursements),18123.69
+2016,ODA (net disbursements),24735.70
+2017,ODA (net disbursements),
+2018,ODA (net disbursements),
+2010,OOF (net disbursements),62.59
+2011,OOF (net disbursements),-124.90
+2012,OOF (net disbursements),-84.03
+2013,OOF (net disbursements),-74.54
+2014,OOF (net disbursements),131.98
+2015,OOF (net disbursements),1338.22
+2016,OOF (net disbursements),-458.10
+2017,OOF (net disbursements),
+2018,OOF (net disbursements),
+2010,Officially Supported Export Credits (net disbursements),3408.32
+2011,Officially Supported Export Credits (net disbursements),8905.46
+2012,Officially Supported Export Credits (net disbursements),5789.61
+2013,Officially Supported Export Credits (net disbursements),4750.81
+2014,Officially Supported Export Credits (net disbursements),-138.29
+2015,Officially Supported Export Credits (net disbursements),1885.25
+2016,Officially Supported Export Credits (net disbursements),3449.52
+2017,Officially Supported Export Credits (net disbursements),
+2018,Officially Supported Export Credits (net disbursements),
+2010,Private Sector Flows (net disbursements),21524.43
+2011,Private Sector Flows (net disbursements),26319.31
+2012,Private Sector Flows (net disbursements),13105.20
+2013,Private Sector Flows (net disbursements),28146.48
+2014,Private Sector Flows (net disbursements),30085.27
+2015,Private Sector Flows (net disbursements),25371.55
+2016,Private Sector Flows (net disbursements),22249.00
+2017,Private Sector Flows (net disbursements),
+2018,Private Sector Flows (net disbursements),
