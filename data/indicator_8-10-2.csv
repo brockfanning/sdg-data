@@ -1,7 +1,28 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Account,Value
+2010,,
+2011,,
+2012,,
+2013,,
+2014,,145480
+2015,,148138
+2016,,150051
+2017,,150431
+2018,,
+2010,current accounts,94982
+2011,current accounts,95684
+2012,current accounts,96858
+2013,current accounts,98512
+2014,current accounts,99875
+2015,current accounts,101661
+2016,current accounts,103175
+2017,current accounts,102972
+2018,current accounts,
+2010,online accounts,
+2011,online accounts,
+2012,online accounts,
+2013,online accounts,
+2014,online accounts,78631
+2015,online accounts,81488
+2016,online accounts,85434
+2017,online accounts,88680
+2018,online accounts,

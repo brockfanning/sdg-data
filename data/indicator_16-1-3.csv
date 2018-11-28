@@ -1,7 +1,82 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Sex,Age,Value
+2010,,,14 to under 18 years,99135
+2011,,,14 to under 18 years,92128
+2012,,,14 to under 18 years,88020
+2013,,,14 to under 18 years,81633
+2014,,,14 to under 18 years,77948
+2015,,,14 to under 18 years,74650
+2016,,,14 to under 18 years,82930
+2017,,,14 to under 18 years,84071
+2018,,,14 to under 18 years,
+2010,,,18 to under 21 years,109139
+2011,,,18 to under 21 years,104427
+2012,,,18 to under 21 years,99541
+2013,,,18 to under 21 years,89880
+2014,,,18 to under 21 years,83802
+2015,,,18 to under 21 years,80941
+2016,,,18 to under 21 years,88459
+2017,,,18 to under 21 years,88834
+2018,,,18 to under 21 years,
+2010,,,21 to under 60 years,600019
+2011,,,21 to under 60 years,644770
+2012,,,21 to under 60 years,666152
+2013,,,21 to under 60 years,662202
+2014,,,21 to under 60 years,663253
+2015,,,21 to under 60 years,668823
+2016,,,21 to under 60 years,716502
+2017,,,21 to under 60 years,704139
+2018,,,21 to under 60 years,
+2010,,,60 years and over,51601
+2011,,,60 years and over,53191
+2012,,,60 years and over,54798
+2013,,,60 years and over,56688
+2014,,,60 years and over,57981
+2015,,,60 years and over,59377
+2016,,,60 years and over,62192
+2017,,,60 years and over,62646
+2018,,,60 years and over,
+2010,Population who were victims of criminal offences,,,1.2
+2011,Population who were victims of criminal offences,,,1.2
+2012,Population who were victims of criminal offences,,,1.2
+2013,Population who were victims of criminal offences,,,1.2
+2014,Population who were victims of criminal offences,,,1.2
+2015,Population who were victims of criminal offences,,,1.2
+2016,Population who were victims of criminal offences,,,1.2
+2017,Population who were victims of criminal offences,,,
+2018,Population who were victims of criminal offences,,,
+2010,Victims of criminal offences,,,932126
+2011,Victims of criminal offences,,,964945
+2012,Victims of criminal offences,,,976090
+2013,Victims of criminal offences,,,955737
+2014,Victims of criminal offences,,,947568
+2015,Victims of criminal offences,,,946133
+2016,Victims of criminal offences,,,1017602
+2017,Victims of criminal offences,,,1008510
+2018,Victims of criminal offences,,,
+2010,,female,,382263
+2011,,female,,384661
+2012,,female,,391566
+2013,,female,,388258
+2014,,female,,384786
+2015,,female,,381892
+2016,,female,,403500
+2017,,female,,404035
+2018,,female,,
+2010,,,less than 14 years,72232
+2011,,,less than 14 years,70429
+2012,,,less than 14 years,67579
+2013,,,less than 14 years,65334
+2014,,,less than 14 years,64584
+2015,,,less than 14 years,62342
+2016,,,less than 14 years,67519
+2017,,,less than 14 years,68820
+2018,,,less than 14 years,
+2010,,male,,549863
+2011,,male,,580284
+2012,,male,,584524
+2013,,male,,567479
+2014,,male,,562782
+2015,,male,,564241
+2016,,male,,614102
+2017,,male,,604475
+2018,,male,,

@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Value
+2010,Giving birth between 10 to under 15 years,111
+2011,Giving birth between 10 to under 15 years,117
+2012,Giving birth between 10 to under 15 years,114
+2013,Giving birth between 10 to under 15 years,105
+2014,Giving birth between 10 to under 15 years,136
+2015,Giving birth between 10 to under 15 years,145
+2016,Giving birth between 10 to under 15 years,170
+2017,Giving birth between 10 to under 15 years,
+2018,Giving birth between 10 to under 15 years,
+2010,Giving birth between 15 to under 20 years,8.9
+2011,Giving birth between 15 to under 20 years,8.3
+2012,Giving birth between 15 to under 20 years,8.0
+2013,Giving birth between 15 to under 20 years,7.8
+2014,Giving birth between 15 to under 20 years,7.8
+2015,Giving birth between 15 to under 20 years,7.9
+2016,Giving birth between 15 to under 20 years,9.2
+2017,Giving birth between 15 to under 20 years,
+2018,Giving birth between 15 to under 20 years,
