@@ -1,7 +1,100 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Mode of Transport,Value
+2010,a) Passenger transport,,1117240
+2011,a) Passenger transport,,1131004
+2012,a) Passenger transport,,1135558
+2013,a) Passenger transport,,1144212
+2014,a) Passenger transport,,1162858
+2015,a) Passenger transport,,1180505
+2016,a) Passenger transport,,1204690
+2017,a) Passenger transport,,
+2018,a) Passenger transport,,
+2010,a) Passenger transport,road transport,78092
+2011,a) Passenger transport,road transport,77957
+2012,a) Passenger transport,road transport,76019
+2013,a) Passenger transport,road transport,76885
+2014,a) Passenger transport,road transport,78786
+2015,a) Passenger transport,road transport,81771
+2016,a) Passenger transport,road transport,81094
+2017,a) Passenger transport,road transport,
+2018,a) Passenger transport,road transport,
+2010,a) Passenger transport,rail transport,83886
+2011,a) Passenger transport,rail transport,85414
+2012,a) Passenger transport,rail transport,88796
+2013,a) Passenger transport,rail transport,89613
+2014,a) Passenger transport,rail transport,90976
+2015,a) Passenger transport,rail transport,91709
+2016,a) Passenger transport,rail transport,94197
+2017,a) Passenger transport,rail transport,
+2018,a) Passenger transport,rail transport,
+2010,a) Passenger transport,commercial air transport,52822
+2011,a) Passenger transport,commercial air transport,55216
+2012,a) Passenger transport,commercial air transport,56180
+2013,a) Passenger transport,commercial air transport,56294
+2014,a) Passenger transport,commercial air transport,58136
+2015,a) Passenger transport,commercial air transport,61295
+2016,a) Passenger transport,commercial air transport,63939
+2017,a) Passenger transport,commercial air transport,
+2018,a) Passenger transport,commercial air transport,
+2010,a) Passenger transport,motorised private transport,902440
+2011,a) Passenger transport,motorised private transport,912417
+2012,a) Passenger transport,motorised private transport,914563
+2013,a) Passenger transport,motorised private transport,921420
+2014,a) Passenger transport,motorised private transport,934960
+2015,a) Passenger transport,motorised private transport,945730
+2016,a) Passenger transport,motorised private transport,965460
+2017,a) Passenger transport,motorised private transport,
+2018,a) Passenger transport,motorised private transport,
+2010,b) Freight transport,,627882
+2011,b) Freight transport,,628083
+2012,b) Freight transport,,618179
+2013,b) Freight transport,,635955
+2014,b) Freight transport,,642643
+2015,b) Freight transport,,651308
+2016,b) Freight transport,,654791
+2017,b) Freight transport,,
+2018,b) Freight transport,,
+2010,b) Freight transport,road transport,440600
+2011,b) Freight transport,road transport,442635
+2012,b) Freight transport,road transport,431999
+2013,b) Freight transport,road transport,443681
+2014,b) Freight transport,road transport,452939
+2015,b) Freight transport,road transport,460200
+2016,b) Freight transport,road transport,464000
+2017,b) Freight transport,road transport,
+2018,b) Freight transport,road transport,
+2010,b) Freight transport,rail transport,107317
+2011,b) Freight transport,rail transport,113317
+2012,b) Freight transport,rail transport,110065
+2013,b) Freight transport,rail transport,112613
+2014,b) Freight transport,rail transport,112629
+2015,b) Freight transport,rail transport,116632
+2016,b) Freight transport,rail transport,116164
+2017,b) Freight transport,rail transport,
+2018,b) Freight transport,rail transport,
+2010,b) Freight transport,inland waterway transport,62278
+2011,b) Freight transport,inland waterway transport,55027
+2012,b) Freight transport,inland waterway transport,58488
+2013,b) Freight transport,inland waterway transport,60070
+2014,b) Freight transport,inland waterway transport,59093
+2015,b) Freight transport,inland waterway transport,55315
+2016,b) Freight transport,inland waterway transport,54347
+2017,b) Freight transport,inland waterway transport,
+2018,b) Freight transport,inland waterway transport,
+2010,b) Freight transport,commercial air transport,1428
+2011,b) Freight transport,commercial air transport,1480
+2012,b) Freight transport,commercial air transport,1420
+2013,b) Freight transport,commercial air transport,1410
+2014,b) Freight transport,commercial air transport,1441
+2015,b) Freight transport,commercial air transport,1447
+2016,b) Freight transport,commercial air transport,1519
+2017,b) Freight transport,commercial air transport,
+2018,b) Freight transport,commercial air transport,
+2010,b) Freight transport,transport via pipeline: crude oil,16259
+2011,b) Freight transport,transport via pipeline: crude oil,15623
+2012,b) Freight transport,transport via pipeline: crude oil,16207
+2013,b) Freight transport,transport via pipeline: crude oil,18180
+2014,b) Freight transport,transport via pipeline: crude oil,17541
+2015,b) Freight transport,transport via pipeline: crude oil,17714
+2016,b) Freight transport,transport via pipeline: crude oil,18761
+2017,b) Freight transport,transport via pipeline: crude oil,
+2018,b) Freight transport,transport via pipeline: crude oil,

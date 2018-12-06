@@ -1,7 +1,82 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Sex,Age,Value
+2010,,,,0.99
+2011,,,,0.92
+2012,,,,0.82
+2013,,,,0.84
+2014,,,,0.88
+2015,,,,0.83
+2016,,,,1.17
+2017,,,,
+2018,,,,
+2010,Victims of intentional homicide,,,793
+2011,Victims of intentional homicide,,,738
+2012,Victims of intentional homicide,,,659
+2013,Victims of intentional homicide,,,682
+2014,Victims of intentional homicide,,,716
+2015,Victims of intentional homicide,,,682
+2016,Victims of intentional homicide,,,963
+2017,Victims of intentional homicide,,,813
+2018,Victims of intentional homicide,,,
+2010,Victims of intentional homicide,female,,393
+2011,Victims of intentional homicide,female,,338
+2012,Victims of intentional homicide,female,,296
+2013,Victims of intentional homicide,female,,328
+2014,Victims of intentional homicide,female,,339
+2015,Victims of intentional homicide,female,,327
+2016,Victims of intentional homicide,female,,469
+2017,Victims of intentional homicide,female,,380
+2018,Victims of intentional homicide,female,,
+2010,Victims of intentional homicide,male,,400
+2011,Victims of intentional homicide,male,,400
+2012,Victims of intentional homicide,male,,363
+2013,Victims of intentional homicide,male,,354
+2014,Victims of intentional homicide,male,,377
+2015,Victims of intentional homicide,male,,355
+2016,Victims of intentional homicide,male,,494
+2017,Victims of intentional homicide,male,,433
+2018,Victims of intentional homicide,male,,
+2010,Victims of intentional homicide,,< 14 years,77
+2011,Victims of intentional homicide,,< 14 years,73
+2012,Victims of intentional homicide,,< 14 years,90
+2013,Victims of intentional homicide,,< 14 years,66
+2014,Victims of intentional homicide,,< 14 years,63
+2015,Victims of intentional homicide,,< 14 years,62
+2016,Victims of intentional homicide,,< 14 years,68
+2017,Victims of intentional homicide,,< 14 years,67
+2018,Victims of intentional homicide,,< 14 years,
+2010,Victims of intentional homicide,,14 to under 18 years,22
+2011,Victims of intentional homicide,,14 to under 18 years,27
+2012,Victims of intentional homicide,,14 to under 18 years,6
+2013,Victims of intentional homicide,,14 to under 18 years,12
+2014,Victims of intentional homicide,,14 to under 18 years,15
+2015,Victims of intentional homicide,,14 to under 18 years,14
+2016,Victims of intentional homicide,,14 to under 18 years,35
+2017,Victims of intentional homicide,,14 to under 18 years,4
+2018,Victims of intentional homicide,,14 to under 18 years,
+2010,Victims of intentional homicide,,18 to under 21 years,38
+2011,Victims of intentional homicide,,18 to under 21 years,29
+2012,Victims of intentional homicide,,18 to under 21 years,23
+2013,Victims of intentional homicide,,18 to under 21 years,15
+2014,Victims of intentional homicide,,18 to under 21 years,20
+2015,Victims of intentional homicide,,18 to under 21 years,18
+2016,Victims of intentional homicide,,18 to under 21 years,43
+2017,Victims of intentional homicide,,18 to under 21 years,16
+2018,Victims of intentional homicide,,18 to under 21 years,
+2010,Victims of intentional homicide,,21 to under 60 years,448
+2011,Victims of intentional homicide,,21 to under 60 years,424
+2012,Victims of intentional homicide,,21 to under 60 years,359
+2013,Victims of intentional homicide,,21 to under 60 years,377
+2014,Victims of intentional homicide,,21 to under 60 years,405
+2015,Victims of intentional homicide,,21 to under 60 years,343
+2016,Victims of intentional homicide,,21 to under 60 years,527
+2017,Victims of intentional homicide,,21 to under 60 years,414
+2018,Victims of intentional homicide,,21 to under 60 years,
+2010,Victims of intentional homicide,,60 years and over,208
+2011,Victims of intentional homicide,,60 years and over,185
+2012,Victims of intentional homicide,,60 years and over,181
+2013,Victims of intentional homicide,,60 years and over,212
+2014,Victims of intentional homicide,,60 years and over,213
+2015,Victims of intentional homicide,,60 years and over,245
+2016,Victims of intentional homicide,,60 years and over,290
+2017,Victims of intentional homicide,,60 years and over,312
+2018,Victims of intentional homicide,,60 years and over,
