@@ -94,7 +94,7 @@ prose:
             scope: national
       - name: "national_geographical_coverage"
         field:
-            element: text
+            element: hidden
             label: "Geographical coverage"
             scope: national
       - name: "computation_units"
