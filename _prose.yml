@@ -56,12 +56,12 @@ prose:
             label: "Global indicator description"
             scope: global
       - name: "un_designated_tier"
-        field: 
+        field:
             element: text
             label: "UN designated tier"
             scope: global
       - name: "un_custodian_agency"
-        field: 
+        field:
             element: text
             label: "UN custodian agency"
             scope: global
@@ -100,7 +100,7 @@ prose:
       - name: "computation_definitions"
         field:
             element: textarea
-            label: "Definitions"
+            label: "Data description"
             scope: national
       - name: "computation_calculations"
         field:
@@ -134,8 +134,8 @@ prose:
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
-        field: 
-            element: select 
+        field:
+            element: select
             label: "Reporting status"
             options:
               - name: 'notstarted'
@@ -179,8 +179,8 @@ prose:
             scope: data
       ######### Chart Info #########
       - name: "graph_type"
-        field: 
-            element: select 
+        field:
+            element: select
             label: "Graph type"
             options:
               - name: 'line'
@@ -189,7 +189,7 @@ prose:
                 value: 'bar'
             scope: graph
       - name: "graph_title"
-        field: 
+        field:
             element: text
             label: "Graph Title"
             scope: graph
