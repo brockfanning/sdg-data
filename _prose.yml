@@ -87,6 +87,11 @@ prose:
             element: text
             label: "Indicator description"
             scope: national
+      - name: "comparison_sdg"
+        field:
+            element: text
+            label: "Comparisons to SDG metadata"
+            scope: national
       - name: "national_geographical_coverage"
         field:
             element: text
