@@ -86,5 +86,5 @@ Packages:
 This uses the `sdg` package from the `sdg-build` repository during the build.
 
 ## License
-Code is MIT.
+The data is [Data licence Germany – attribution – version 2.0](https://www.govdata.de/dl-de/by-2-0). Code is MIT.
 
