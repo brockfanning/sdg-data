@@ -6,8 +6,9 @@ git:
   depth: false
 
 branches:
-  except:
-  - gh-pages
+  only:
+  - master
+  - develop
 install:
   - pip install -r scripts/requirements.txt
 before_script:
