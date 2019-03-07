@@ -92,11 +92,6 @@ prose:
             element: text
             label: "Comparisons to SDG metadata"
             scope: national
-      - name: "national_geographical_coverage"
-        field:
-            element: hidden
-            label: "Geographical coverage"
-            scope: national
       - name: "computation_units"
         field:
             element: text
