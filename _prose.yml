@@ -82,37 +82,11 @@ prose:
             element: text
             label: "Indicator available"
             scope: national
-      - name: "national_indicator_description"
-        field:
-            element: text
-            label: "Indicator description"
-            scope: national
       - name: "comparison_sdg"
         field:
             element: text
             label: "Comparisons to SDG metadata"
             scope: national
-      - name: "computation_units"
-        field:
-            element: text
-            label: "Unit of measurement"
-            scope: national
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Data description"
-            scope: national
-      - name: "computation_calculations"
-        field:
-            element: text
-            label: "Calculations"
-            scope: national
-      - name: "comments_limitations"
-        field:
-            element: text
-            label: "Other information"
-            scope: national
-      - name: "national_data_update_url"
         field:
             element: hidden
             label: "Data last updated"
