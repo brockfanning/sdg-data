@@ -87,6 +87,7 @@ prose:
             element: text
             label: "Comparisons to SDG metadata"
             scope: national
+      - name: "national_data_update_url"
         field:
             element: hidden
             label: "Data last updated"
