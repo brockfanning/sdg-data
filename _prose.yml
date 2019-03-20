@@ -192,6 +192,10 @@ prose:
             element: text
             label: "Organisation"
             scope: source_1
+      - name: source_organisation_logo_1
+            element: text
+            label: ""
+            scope: source_1
       - name: "source_url_1"
         field:
             element: text
@@ -214,6 +218,10 @@ prose:
         field:
             element: text
             label: "Organisation"
+            scope: source_2
+      - name: source_organisation_logo_2
+            element: text
+            label: ""
             scope: source_2
         field:
             element: text
