@@ -194,7 +194,7 @@ prose:
             scope: source_1
       - name: source_organisation_logo_1
             element: text
-            label: ""
+            label: " "
             scope: source_1
       - name: "source_url_1"
         field:
@@ -221,7 +221,7 @@ prose:
             scope: source_2
       - name: source_organisation_logo_2
             element: text
-            label: ""
+            label: " "
             scope: source_2
         field:
             element: text
