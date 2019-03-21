@@ -187,15 +187,15 @@ prose:
             label: Source 1 active
             help: Whether or not to display this source
             value: true
-      - name: source_organisation_1
-        field:
-            element: text
-            label: "Organisation"
-            scope: source_1
       - name: source_organisation_logo_1
         field:
             element: text
             label: ""
+            scope: source_1
+      - name: source_organisation_1
+        field:
+            element: text
+            label: "Organisation"
             scope: source_1
       - name: "source_url_1"
         field:
@@ -215,15 +215,15 @@ prose:
             label: Source 2 active
             help: Whether or not to display this source
             value: false
-      - name: source_organisation_2
-        field:
-            element: text
-            label: "Organisation"
-            scope: source_2
       - name: source_organisation_logo_2
         field:
             element: text
             label: ""
+            scope: source_2
+      - name: source_organisation_2
+        field:
+            element: text
+            label: "Organisation"
             scope: source_2
       - name: "source_url_2"
         field:
