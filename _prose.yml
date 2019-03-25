@@ -50,11 +50,6 @@ prose:
             element: text
             label: "Target number"
             scope: global
-      - name: "indicator_definition"
-        field:
-            element: textarea
-            label: "Global indicator description"
-            scope: global
       - name: "un_designated_tier"
         field:
             element: text
