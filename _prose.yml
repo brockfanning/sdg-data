@@ -82,6 +82,17 @@ prose:
             element: text
             label: "Comparisons to SDG metadata"
             scope: national
+      - name: "goal_meta_national_link"
+        field:
+            element: text
+            label: "Link to national metadata"
+            scope: national
+      - name: "goal_meta_national_link_text"
+        field:
+            element: text
+            label: "Link to national metadata text"
+            value: "UN metadata"
+            scope: national
       - name: "national_data_update_url"
         field:
             element: hidden
@@ -101,17 +112,6 @@ prose:
         field:
             element: hidden
             label: "Metadata last updated"
-            scope: national
-      - name: "goal_meta_national_link"
-        field:
-            element: text
-            label: "Link to national metadata"
-            scope: national
-      - name: "goal_meta_national_link_text"
-        field:
-            element: text
-            label: "Link to national metadata text"
-            value: "UN metadata"
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
