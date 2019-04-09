@@ -1,28 +1,28 @@
-Year,Type of Account,Value
-2010,,
-2011,,
-2012,,
-2013,,
-2014,,145480
-2015,,148138
-2016,,150051
-2017,,150431
-2018,,
-2010,current accounts,94982
-2011,current accounts,95684
-2012,current accounts,96858
-2013,current accounts,98512
-2014,current accounts,99875
-2015,current accounts,101661
-2016,current accounts,103175
-2017,current accounts,102972
-2018,current accounts,
-2010,online accounts,
-2011,online accounts,
-2012,online accounts,
-2013,online accounts,
-2014,online accounts,78631
-2015,online accounts,81488
-2016,online accounts,85434
-2017,online accounts,88680
-2018,online accounts,
+Year,Units,Type of account,Value
+2010,Accounts at payment service providers (1 000),
+2011,Accounts at payment service providers (1 000),
+2012,Accounts at payment service providers (1 000),
+2013,Accounts at payment service providers (1 000),
+2014,Accounts at payment service providers (1 000),145480
+2015,Accounts at payment service providers (1 000),148138
+2016,Accounts at payment service providers (1 000),150051
+2017,Accounts at payment service providers (1 000),150431
+2018,Accounts at payment service providers (1 000),
+2010,Accounts at payment service providers (1 000),current accounts,94982
+2011,Accounts at payment service providers (1 000),current accounts,95684
+2012,Accounts at payment service providers (1 000),current accounts,96858
+2013,Accounts at payment service providers (1 000),current accounts,98512
+2014,Accounts at payment service providers (1 000),current accounts,99875
+2015,Accounts at payment service providers (1 000),current accounts,101661
+2016,Accounts at payment service providers (1 000),current accounts,103175
+2017,Accounts at payment service providers (1 000),current accounts,102972
+2018,Accounts at payment service providers (1 000),current accounts,
+2010,Accounts at payment service providers (1 000),online accounts,
+2011,Accounts at payment service providers (1 000),online accounts,
+2012,Accounts at payment service providers (1 000),online accounts,
+2013,Accounts at payment service providers (1 000),online accounts,
+2014,Accounts at payment service providers (1 000),online accounts,78631
+2015,Accounts at payment service providers (1 000),online accounts,81488
+2016,Accounts at payment service providers (1 000),online accounts,85434
+2017,Accounts at payment service providers (1 000),online accounts,88680
+2018,Accounts at payment service providers (1 000),online accounts,
