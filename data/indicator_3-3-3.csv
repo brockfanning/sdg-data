@@ -1,10 +1,10 @@
-Year,Value
-2010,0.01
-2011,0.01
-2012,0.01
-2013,0.01
-2014,0.01
-2015,0.01
-2016,0.01
-2017,0.01
-2018,
+Year,Units,Value
+2010,Malaria incidence (per 1 000 inhabitants),0.01
+2011,Malaria incidence (per 1 000 inhabitants),0.01
+2012,Malaria incidence (per 1 000 inhabitants),0.01
+2013,Malaria incidence (per 1 000 inhabitants),0.01
+2014,Malaria incidence (per 1 000 inhabitants),0.01
+2015,Malaria incidence (per 1 000 inhabitants),0.01
+2016,Malaria incidence (per 1 000 inhabitants),0.01
+2017,Malaria incidence (per 1 000 inhabitants),0.01
+2018,Malaria incidence (per 1 000 inhabitants),0.01

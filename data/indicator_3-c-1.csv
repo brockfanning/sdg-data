@@ -1,91 +1,91 @@
-Year,Concept,Profession,Value
-2010,practising concept,Dentistry personnel,
-2011,practising concept,Dentistry personnel,
-2012,practising concept,Dentistry personnel,3.22
-2013,practising concept,Dentistry personnel,3.32
-2014,practising concept,Dentistry personnel,3.37
-2015,practising concept,Dentistry personnel,3.38
-2016,practising concept,Dentistry personnel,3.43
-2017,practising concept,Dentistry personnel,
-2018,practising concept,Dentistry personnel,
-2010,professional concept,Dentistry personnel,
-2011,professional concept,Dentistry personnel,
-2012,professional concept,Dentistry personnel,3.78
-2013,professional concept,Dentistry personnel,3.88
-2014,professional concept,Dentistry personnel,3.93
-2015,professional concept,Dentistry personnel,3.94
-2016,professional concept,Dentistry personnel,3.98
-2017,professional concept,Dentistry personnel,
-2018,professional concept,Dentistry personnel,
-2010,practising concept,,
-2011,practising concept,,
-2012,practising concept,,35.1
-2013,practising concept,,36.1
-2014,practising concept,,36.7
-2015,practising concept,,37.0
-2016,practising concept,,37.5
-2017,practising concept,,
-2018,practising concept,,
-2010,professional concept,,
-2011,professional concept,,
-2012,professional concept,,41.2
-2013,professional concept,,42.3
-2014,professional concept,,43.0
-2015,professional concept,,43.4
-2016,professional concept,,44.2
-2017,professional concept,,
-2018,professional concept,,
-2010,practising concept,Nursing and midwifery personnel,12.01
-2011,practising concept,Nursing and midwifery personnel,12.14
-2012,practising concept,Nursing and midwifery personnel,12.22
-2013,practising concept,Nursing and midwifery personnel,12.60
-2014,practising concept,Nursing and midwifery personnel,12.79
-2015,practising concept,Nursing and midwifery personnel,12.85
-2016,practising concept,Nursing and midwifery personnel,13.10
-2017,practising concept,Nursing and midwifery personnel,
-2018,practising concept,Nursing and midwifery personnel,
-2010,professional concept,Nursing and midwifery personnel,14.99
-2011,professional concept,Nursing and midwifery personnel,15.14
-2012,professional concept,Nursing and midwifery personnel,15.25
-2013,professional concept,Nursing and midwifery personnel,15.70
-2014,professional concept,Nursing and midwifery personnel,15.98
-2015,professional concept,Nursing and midwifery personnel,16.16
-2016,professional concept,Nursing and midwifery personnel,16.51
-2017,professional concept,Nursing and midwifery personnel,
-2018,professional concept,Nursing and midwifery personnel,
-2010,practising concept,Pharmaceutical personnel,
-2011,practising concept,Pharmaceutical personnel,
-2012,practising concept,Pharmaceutical personnel,1.51
-2013,practising concept,Pharmaceutical personnel,1.53
-2014,practising concept,Pharmaceutical personnel,1.55
-2015,practising concept,Pharmaceutical personnel,1.56
-2016,practising concept,Pharmaceutical personnel,1.57
-2017,practising concept,Pharmaceutical personnel,
-2018,practising concept,Pharmaceutical personnel,
-2010,professional concept,Pharmaceutical personnel,
-2011,professional concept,Pharmaceutical personnel,
-2012,professional concept,Pharmaceutical personnel,1.92
-2013,professional concept,Pharmaceutical personnel,1.94
-2014,professional concept,Pharmaceutical personnel,1.97
-2015,professional concept,Pharmaceutical personnel,1.98
-2016,professional concept,Pharmaceutical personnel,2.01
-2017,professional concept,Pharmaceutical personnel,
-2018,professional concept,Pharmaceutical personnel,
-2010,practising concept,Physicians,3.79
-2011,practising concept,Physicians,3.87
-2012,practising concept,Physicians,3.94
-2013,practising concept,Physicians,4.03
-2014,practising concept,Physicians,4.10
-2015,practising concept,Physicians,4.11
-2016,practising concept,Physicians,4.18
-2017,practising concept,Physicians,
-2018,practising concept,Physicians,
-2010,professional concept,Physicians,4.14
-2011,professional concept,Physicians,4.24
-2012,professional concept,Physicians,4.31
-2013,professional concept,Physicians,4.40
-2014,professional concept,Physicians,4.48
-2015,professional concept,Physicians,4.50
-2016,professional concept,Physicians,4.57
-2017,professional concept,Physicians,
-2018,professional concept,Physicians,
+Year,Units,Professio,Value
+2010,Units,Health workers (per 1 000 inhabitants),
+2011,Units,Health workers (per 1 000 inhabitants),
+2012,Units,Health workers (per 1 000 inhabitants),35.1
+2013,Units,Health workers (per 1 000 inhabitants),36.1
+2014,Units,Health workers (per 1 000 inhabitants),36.7
+2015,Units,Health workers (per 1 000 inhabitants),37.0
+2016,Units,Health workers (per 1 000 inhabitants),37.7
+2017,Units,Health workers (per 1 000 inhabitants),38.3
+2018,Units,Health workers (per 1 000 inhabitants),
+2010,Units,Health workers (per 1 000 inhabitants),
+2011,Units,Health workers (per 1 000 inhabitants),
+2012,Units,Health workers (per 1 000 inhabitants),41.2
+2013,Units,Health workers (per 1 000 inhabitants),42.3
+2014,Units,Health workers (per 1 000 inhabitants),43.1
+2015,Units,Health workers (per 1 000 inhabitants),43.5
+2016,Units,Health workers (per 1 000 inhabitants),44.2
+2017,Units,Health workers (per 1 000 inhabitants),45.0
+2018,Units,Health workers (per 1 000 inhabitants),
+2010,Practising concept,Dentistry personnel (per 1 000 inhabitants),
+2011,Practising concept,Dentistry personnel (per 1 000 inhabitants),
+2012,Practising concept,Dentistry personnel (per 1 000 inhabitants),3.22
+2013,Practising concept,Dentistry personnel (per 1 000 inhabitants),3.32
+2014,Practising concept,Dentistry personnel (per 1 000 inhabitants),3.37
+2015,Practising concept,Dentistry personnel (per 1 000 inhabitants),3.38
+2016,Practising concept,Dentistry personnel (per 1 000 inhabitants),3.43
+2017,Practising concept,Dentistry personnel (per 1 000 inhabitants),3.47
+2018,Practising concept,Dentistry personnel (per 1 000 inhabitants),
+2010,Professional concept,Dentistry personnel (per 1 000 inhabitants),
+2011,Professional concept,Dentistry personnel (per 1 000 inhabitants),
+2012,Professional concept,Dentistry personnel (per 1 000 inhabitants),3.78
+2013,Professional concept,Dentistry personnel (per 1 000 inhabitants),3.88
+2014,Professional concept,Dentistry personnel (per 1 000 inhabitants),3.93
+2015,Professional concept,Dentistry personnel (per 1 000 inhabitants),3.94
+2016,Professional concept,Dentistry personnel (per 1 000 inhabitants),3.98
+2017,Professional concept,Dentistry personnel (per 1 000 inhabitants),4.01
+2018,Professional concept,Dentistry personnel (per 1 000 inhabitants),
+2010,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),12.01
+2011,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),12.13
+2012,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),12.21
+2013,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),12.60
+2014,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),12.79
+2015,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),12.85
+2016,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),13.09
+2017,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),13.20
+2018,Practising concept,Nursing and midwifery personnel (per 1 000 inhabitants),
+2010,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),14.99
+2011,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),15.13
+2012,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),15.25
+2013,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),15.70
+2014,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),15.98
+2015,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),16.17
+2016,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),15.52
+2017,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),16.96
+2018,Professional concept,Nursing and midwifery personnel (per 1 000 inhabitants),
+2010,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),
+2011,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),
+2012,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),1.51
+2013,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),1.53
+2014,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),1.55
+2015,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),1.56
+2016,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),1.57
+2017,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),1.58
+2018,Practising concept,Pharmaceutical personnel (per 1 000 inhabitants),
+2010,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),
+2011,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),
+2012,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),1.92
+2013,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),1.94
+2014,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),1.97
+2015,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),1.98
+2016,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),2.01
+2017,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),2.04
+2018,Professional concept,Pharmaceutical personnel (per 1 000 inhabitants),
+2010,Practising concept,Physicians (per 1 000 inhabitants),3.79
+2011,Practising concept,Physicians (per 1 000 inhabitants),3.87
+2012,Practising concept,Physicians (per 1 000 inhabitants),3.94
+2013,Practising concept,Physicians (per 1 000 inhabitants),4.03
+2014,Practising concept,Physicians (per 1 000 inhabitants),4.10
+2015,Practising concept,Physicians (per 1 000 inhabitants),4.11
+2016,Practising concept,Physicians (per 1 000 inhabitants),4.18
+2017,Practising concept,Physicians (per 1 000 inhabitants),4.24
+2018,Practising concept,Physicians (per 1 000 inhabitants),
+2010,Professional concept,Physicians (per 1 000 inhabitants),4.14
+2011,Professional concept,Physicians (per 1 000 inhabitants),4.24
+2012,Professional concept,Physicians (per 1 000 inhabitants),4.31
+2013,Professional concept,Physicians (per 1 000 inhabitants),4.40
+2014,Professional concept,Physicians (per 1 000 inhabitants),4.48
+2015,Professional concept,Physicians (per 1 000 inhabitants),4.50
+2016,Professional concept,Physicians (per 1 000 inhabitants),4.57
+2017,Professional concept,Physicians (per 1 000 inhabitants),4.63
+2018,Professional concept,Physicians (per 1 000 inhabitants),
