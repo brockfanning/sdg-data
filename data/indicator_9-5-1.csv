@@ -1,10 +1,10 @@
-Year,Value
-2010,2.7
-2011,2.8
-2012,2.9
-2013,2.8
-2014,2.9
-2015,2.9
-2016,2.9
-2017,
-2018,
+Year,Units,Value
+2010,Proportion of R&D expenditures to GDP (%),2.7
+2011,Proportion of R&D expenditures to GDP (%),2.8
+2012,Proportion of R&D expenditures to GDP (%),2.9
+2013,Proportion of R&D expenditures to GDP (%),2.8
+2014,Proportion of R&D expenditures to GDP (%),2.9
+2015,Proportion of R&D expenditures to GDP (%),2.9
+2016,Proportion of R&D expenditures to GDP (%),2.9
+2017,Proportion of R&D expenditures to GDP (%),3.0
+2018,Proportion of R&D expenditures to GDP (%),
