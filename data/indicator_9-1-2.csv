@@ -1,11 +1,11 @@
 Year,Units,Mode of transport,Value
-2010,a) Passenger transport (Mn pkm),1117240,
-2011,a) Passenger transport (Mn pkm),1131004,
-2012,a) Passenger transport (Mn pkm),1135558,
-2013,a) Passenger transport (Mn pkm),1144212,
-2014,a) Passenger transport (Mn pkm),1162858,
-2015,a) Passenger transport (Mn pkm),1180505,
-2016,a) Passenger transport (Mn pkm),1204690,
+2010,a) Passenger transport (Mn pkm),,1117240
+2011,a) Passenger transport (Mn pkm),,1131004
+2012,a) Passenger transport (Mn pkm),,1135558
+2013,a) Passenger transport (Mn pkm),,1144212
+2014,a) Passenger transport (Mn pkm),,1162858
+2015,a) Passenger transport (Mn pkm),,1180505
+2016,a) Passenger transport (Mn pkm),,1204690
 2017,a) Passenger transport (Mn pkm),,
 2018,a) Passenger transport (Mn pkm),,
 2010,a) Passenger transport (Mn pkm),road transport,78092
@@ -44,13 +44,13 @@ Year,Units,Mode of transport,Value
 2016,a) Passenger transport (Mn pkm),motorised private transport,965460
 2017,a) Passenger transport (Mn pkm),motorised private transport,
 2018,a) Passenger transport (Mn pkm),motorised private transport,
-2010,b) Freight transport (Mn tkm),627857,
-2011,b) Freight transport (Mn tkm),627966,
-2012,b) Freight transport (Mn tkm),618911,
-2013,b) Freight transport (Mn tkm),636011,
-2014,b) Freight transport (Mn tkm),643567,
-2015,b) Freight transport (Mn tkm),651928,
-2016,b) Freight transport (Mn tkm),666923,
+2010,b) Freight transport (Mn tkm),,627857
+2011,b) Freight transport (Mn tkm),,627966
+2012,b) Freight transport (Mn tkm),,618911
+2013,b) Freight transport (Mn tkm),,636011
+2014,b) Freight transport (Mn tkm),,643567
+2015,b) Freight transport (Mn tkm),,651928
+2016,b) Freight transport (Mn tkm),,666923
 2017,b) Freight transport (Mn tkm),,
 2018,b) Freight transport (Mn tkm),,
 2010,b) Freight transport (Mn tkm),road transport,440600
