@@ -125,6 +125,8 @@ prose:
                 value: 'inprogress'
               - name: 'notstarted'
                 value: 'notstarted'
+              - name: 'notrelevant'
+                value: 'notrelevant'
             scope: data
       - name: data_non_statistical
         field:
