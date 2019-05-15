@@ -1,7 +1,82 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,sex,Value
+2010,Children at acute risk of harm with signs of physical or psychological abuse (%),,
+2011,Children at acute risk of harm with signs of physical or psychological abuse (%),,
+2012,Children at acute risk of harm with signs of physical or psychological abuse (%),,
+2013,Children at acute risk of harm with signs of physical or psychological abuse (%),,0.07
+2014,Children at acute risk of harm with signs of physical or psychological abuse (%),,0.08
+2015,Children at acute risk of harm with signs of physical or psychological abuse (%),,0.08
+2016,Children at acute risk of harm with signs of physical or psychological abuse (%),,0.10
+2017,Children at acute risk of harm with signs of physical or psychological abuse (%),,0.10
+2018,Children at acute risk of harm with signs of physical or psychological abuse (%),,
+2010,Children at acute risk of harm with signs of physical or psychological abuse (%),female,
+2011,Children at acute risk of harm with signs of physical or psychological abuse (%),female,
+2012,Children at acute risk of harm with signs of physical or psychological abuse (%),female,
+2013,Children at acute risk of harm with signs of physical or psychological abuse (%),female,0.08
+2014,Children at acute risk of harm with signs of physical or psychological abuse (%),female,0.08
+2015,Children at acute risk of harm with signs of physical or psychological abuse (%),female,0.09
+2016,Children at acute risk of harm with signs of physical or psychological abuse (%),female,0.10
+2017,Children at acute risk of harm with signs of physical or psychological abuse (%),female,0.10
+2018,Children at acute risk of harm with signs of physical or psychological abuse (%),female,
+2010,Children at acute risk of harm with signs of physical or psychological abuse (%),male,
+2011,Children at acute risk of harm with signs of physical or psychological abuse (%),male,
+2012,Children at acute risk of harm with signs of physical or psychological abuse (%),male,
+2013,Children at acute risk of harm with signs of physical or psychological abuse (%),male,0.07
+2014,Children at acute risk of harm with signs of physical or psychological abuse (%),male,0.08
+2015,Children at acute risk of harm with signs of physical or psychological abuse (%),male,0.08
+2016,Children at acute risk of harm with signs of physical or psychological abuse (%),male,0.09
+2017,Children at acute risk of harm with signs of physical or psychological abuse (%),male,0.10
+2018,Children at acute risk of harm with signs of physical or psychological abuse (%),male,
+2010,Children at acute risk of harm with signs of physical abuse (%),,
+2011,Children at acute risk of harm with signs of physical abuse (%),,
+2012,Children at acute risk of harm with signs of physical abuse (%),,
+2013,Children at acute risk of harm with signs of physical abuse (%),,0.04
+2014,Children at acute risk of harm with signs of physical abuse (%),,0.04
+2015,Children at acute risk of harm with signs of physical abuse (%),,0.04
+2016,Children at acute risk of harm with signs of physical abuse (%),,0.05
+2017,Children at acute risk of harm with signs of physical abuse (%),,0.05
+2018,Children at acute risk of harm with signs of physical abuse (%),,
+2010,Children at acute risk of harm with signs of physical abuse (%),female,
+2011,Children at acute risk of harm with signs of physical abuse (%),female,
+2012,Children at acute risk of harm with signs of physical abuse (%),female,
+2013,Children at acute risk of harm with signs of physical abuse (%),female,0.04
+2014,Children at acute risk of harm with signs of physical abuse (%),female,0.04
+2015,Children at acute risk of harm with signs of physical abuse (%),female,0.04
+2016,Children at acute risk of harm with signs of physical abuse (%),female,0.05
+2017,Children at acute risk of harm with signs of physical abuse (%),female,0.05
+2018,Children at acute risk of harm with signs of physical abuse (%),female,
+2010,Children at acute risk of harm with signs of physical abuse (%),male,
+2011,Children at acute risk of harm with signs of physical abuse (%),male,
+2012,Children at acute risk of harm with signs of physical abuse (%),male,
+2013,Children at acute risk of harm with signs of physical abuse (%),male,0.04
+2014,Children at acute risk of harm with signs of physical abuse (%),male,0.04
+2015,Children at acute risk of harm with signs of physical abuse (%),male,0.04
+2016,Children at acute risk of harm with signs of physical abuse (%),male,0.05
+2017,Children at acute risk of harm with signs of physical abuse (%),male,0.05
+2018,Children at acute risk of harm with signs of physical abuse (%),male,
+2010,Children at acute risk of harm with signs of psychological abuse (%),,
+2011,Children at acute risk of harm with signs of psychological abuse (%),,
+2012,Children at acute risk of harm with signs of psychological abuse (%),,
+2013,Children at acute risk of harm with signs of psychological abuse (%),,0.03
+2014,Children at acute risk of harm with signs of psychological abuse (%),,0.04
+2015,Children at acute risk of harm with signs of psychological abuse (%),,0.04
+2016,Children at acute risk of harm with signs of psychological abuse (%),,0.05
+2017,Children at acute risk of harm with signs of psychological abuse (%),,0.05
+2018,Children at acute risk of harm with signs of psychological abuse (%),,
+2010,Children at acute risk of harm with signs of psychological abuse (%),female,
+2011,Children at acute risk of harm with signs of psychological abuse (%),female,
+2012,Children at acute risk of harm with signs of psychological abuse (%),female,
+2013,Children at acute risk of harm with signs of psychological abuse (%),female,0.04
+2014,Children at acute risk of harm with signs of psychological abuse (%),female,0.04
+2015,Children at acute risk of harm with signs of psychological abuse (%),female,0.05
+2016,Children at acute risk of harm with signs of psychological abuse (%),female,0.05
+2017,Children at acute risk of harm with signs of psychological abuse (%),female,0.05
+2018,Children at acute risk of harm with signs of psychological abuse (%),female,
+2010,Children at acute risk of harm with signs of psychological abuse (%),male,
+2011,Children at acute risk of harm with signs of psychological abuse (%),male,
+2012,Children at acute risk of harm with signs of psychological abuse (%),male,
+2013,Children at acute risk of harm with signs of psychological abuse (%),male,0.03
+2014,Children at acute risk of harm with signs of psychological abuse (%),male,0.04
+2015,Children at acute risk of harm with signs of psychological abuse (%),male,0.04
+2016,Children at acute risk of harm with signs of psychological abuse (%),male,0.04
+2017,Children at acute risk of harm with signs of psychological abuse (%),male,0.05
+2018,Children at acute risk of harm with signs of psychological abuse (%),male,

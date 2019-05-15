@@ -1,7 +1,46 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Classification,Value
+2010,Mountain Green Cover Index (%),,
+2011,Mountain Green Cover Index (%),,
+2012,Mountain Green Cover Index (%),,
+2013,Mountain Green Cover Index (%),,
+2014,Mountain Green Cover Index (%),,
+2015,Mountain Green Cover Index (%),,93.24
+2016,Mountain Green Cover Index (%),,
+2017,Mountain Green Cover Index (%),,
+2018,Mountain Green Cover Index (%),,93.11
+2010,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),
+2011,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),
+2012,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),
+2013,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),
+2014,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),
+2015,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),0.00
+2016,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),
+2017,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),
+2018,Mountain Green Cover Index (%),Class 3 areas (Elevation 2500-3500 meters),0.00
+2010,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),
+2011,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),
+2012,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),
+2013,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),
+2014,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),
+2015,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),66.88
+2016,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),
+2017,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),
+2018,Mountain Green Cover Index (%),Class 4 areas (Elevation 1500-2500 meters),66.16
+2010,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),
+2011,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),
+2012,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),
+2013,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),
+2014,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),
+2015,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),96.63
+2016,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),
+2017,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),
+2018,Mountain Green Cover Index (%),Class 5 areas (Elevation 1000-1500 meters),95.93
+2010,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),
+2011,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),
+2012,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),
+2013,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),
+2014,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),
+2015,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),93.35
+2016,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),
+2017,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),
+2018,Mountain Green Cover Index (%),Class 6 areas (Elevation  300 -1000 meters),93.25
