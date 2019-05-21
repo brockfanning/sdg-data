@@ -18,7 +18,7 @@ Year,Units,Form of exploitation,Sex,Age,Value
 2017,Victims of human trafficking (per 100 000 inhabitants),Exploitation of labour,,,0.22
 2018,Victims of human trafficking (per 100 000 inhabitants),Exploitation of labour,,,
 2010,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.76
-2011,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.80
+2011,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.8
 2012,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.76
 2013,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.67
 2014,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.69
@@ -26,120 +26,120 @@ Year,Units,Form of exploitation,Sex,Age,Value
 2016,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.59
 2017,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,0.59
 2018,Victims of human trafficking (per 100 000 inhabitants),Sexual exploitation,,,
-2010,Victims of human trafficking (Number),,,,651
-2011,Victims of human trafficking (Number),,,,672
-2012,Victims of human trafficking (Number),,,,626
-2013,Victims of human trafficking (Number),,,,603
-2014,Victims of human trafficking (Number),,,,583
-2015,Victims of human trafficking (Number),,,,470
-2016,Victims of human trafficking (Number),,,,536
-2017,Victims of human trafficking (Number),,,,669
+2010,Victims of human trafficking (Number),,,,651.0
+2011,Victims of human trafficking (Number),,,,672.0
+2012,Victims of human trafficking (Number),,,,626.0
+2013,Victims of human trafficking (Number),,,,603.0
+2014,Victims of human trafficking (Number),,,,583.0
+2015,Victims of human trafficking (Number),,,,470.0
+2016,Victims of human trafficking (Number),,,,536.0
+2017,Victims of human trafficking (Number),,,,669.0
 2018,Victims of human trafficking (Number),,,,
-2010,Victims of human trafficking (Number),Exploitation of labour,,,41
-2011,Victims of human trafficking (Number),Exploitation of labour,,,32
-2012,Victims of human trafficking (Number),Exploitation of labour,,,14
-2013,Victims of human trafficking (Number),Exploitation of labour,,,61
-2014,Victims of human trafficking (Number),Exploitation of labour,,,26
-2015,Victims of human trafficking (Number),Exploitation of labour,,,54
-2016,Victims of human trafficking (Number),Exploitation of labour,,,48
-2017,Victims of human trafficking (Number),Exploitation of labour,,,180
+2010,Victims of human trafficking (Number),Exploitation of labour,,,41.0
+2011,Victims of human trafficking (Number),Exploitation of labour,,,32.0
+2012,Victims of human trafficking (Number),Exploitation of labour,,,14.0
+2013,Victims of human trafficking (Number),Exploitation of labour,,,61.0
+2014,Victims of human trafficking (Number),Exploitation of labour,,,26.0
+2015,Victims of human trafficking (Number),Exploitation of labour,,,54.0
+2016,Victims of human trafficking (Number),Exploitation of labour,,,48.0
+2017,Victims of human trafficking (Number),Exploitation of labour,,,180.0
 2018,Victims of human trafficking (Number),Exploitation of labour,,,
-2010,Victims of human trafficking (Number),Sexual exploitation,,,610
-2011,Victims of human trafficking (Number),Sexual exploitation,,,640
-2012,Victims of human trafficking (Number),Sexual exploitation,,,612
-2013,Victims of human trafficking (Number),Sexual exploitation,,,542
-2014,Victims of human trafficking (Number),Sexual exploitation,,,557
-2015,Victims of human trafficking (Number),Sexual exploitation,,,416
-2016,Victims of human trafficking (Number),Sexual exploitation,,,488
-2017,Victims of human trafficking (Number),Sexual exploitation,,,489
+2010,Victims of human trafficking (Number),Sexual exploitation,,,610.0
+2011,Victims of human trafficking (Number),Sexual exploitation,,,640.0
+2012,Victims of human trafficking (Number),Sexual exploitation,,,612.0
+2013,Victims of human trafficking (Number),Sexual exploitation,,,542.0
+2014,Victims of human trafficking (Number),Sexual exploitation,,,557.0
+2015,Victims of human trafficking (Number),Sexual exploitation,,,416.0
+2016,Victims of human trafficking (Number),Sexual exploitation,,,488.0
+2017,Victims of human trafficking (Number),Sexual exploitation,,,489.0
 2018,Victims of human trafficking (Number),Sexual exploitation,,,
-2010,Victims of human trafficking (%),Sexual exploitation,female,,96
-2011,Victims of human trafficking (%),Sexual exploitation,female,,94
-2012,Victims of human trafficking (%),Sexual exploitation,female,,96
-2013,Victims of human trafficking (%),Sexual exploitation,female,,96
-2014,Victims of human trafficking (%),Sexual exploitation,female,,95
-2015,Victims of human trafficking (%),Sexual exploitation,female,,96
-2016,Victims of human trafficking (%),Sexual exploitation,female,,95
-2017,Victims of human trafficking (%),Sexual exploitation,female,,99
-2018,Victims of human trafficking (%),Sexual exploitation,female,,
-2010,Victims of human trafficking (%),Sexual exploitation,male,,4
-2011,Victims of human trafficking (%),Sexual exploitation,male,,6
-2012,Victims of human trafficking (%),Sexual exploitation,male,,4
-2013,Victims of human trafficking (%),Sexual exploitation,male,,4
-2014,Victims of human trafficking (%),Sexual exploitation,male,,5
-2015,Victims of human trafficking (%),Sexual exploitation,male,,4
-2016,Victims of human trafficking (%),Sexual exploitation,male,,5
-2017,Victims of human trafficking (%),Sexual exploitation,male,,1
-2018,Victims of human trafficking (%),Sexual exploitation,male,,
-2010,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,8
-2011,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,13
-2012,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,12
-2013,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,9
-2014,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,5
-2015,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,6
-2016,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,12
-2017,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,16
+2010,Victims of human trafficking (Number),Sexual exploitation,female,,586
+2011,Victims of human trafficking (Number),Sexual exploitation,female,,602
+2012,Victims of human trafficking (Number),Sexual exploitation,female,,588
+2013,Victims of human trafficking (Number),Sexual exploitation,female,,520
+2014,Victims of human trafficking (Number),Sexual exploitation,female,,529
+2015,Victims of human trafficking (Number),Sexual exploitation,female,,399
+2016,Victims of human trafficking (Number),Sexual exploitation,female,,464
+2017,Victims of human trafficking (Number),Sexual exploitation,female,,484
+2018,Victims of human trafficking (Number),Sexual exploitation,female,,
+2010,Victims of human trafficking (Number),Sexual exploitation,male,,24
+2011,Victims of human trafficking (Number),Sexual exploitation,male,,38
+2012,Victims of human trafficking (Number),Sexual exploitation,male,,24
+2013,Victims of human trafficking (Number),Sexual exploitation,male,,22
+2014,Victims of human trafficking (Number),Sexual exploitation,male,,28
+2015,Victims of human trafficking (Number),Sexual exploitation,male,,17
+2016,Victims of human trafficking (Number),Sexual exploitation,male,,24
+2017,Victims of human trafficking (Number),Sexual exploitation,male,,5
+2018,Victims of human trafficking (Number),Sexual exploitation,male,,
+2010,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,8.0
+2011,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,13.0
+2012,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,12.0
+2013,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,9.0
+2014,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,5.0
+2015,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,6.0
+2016,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,12.0
+2017,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,16.0
 2018,Victims of human trafficking (Number),Sexual exploitation,,under 14 years,
-2010,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,79
-2011,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,77
-2012,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,88
-2013,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,61
-2014,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,52
-2015,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,71
-2016,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,84
-2017,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,46
+2010,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,79.0
+2011,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,77.0
+2012,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,88.0
+2013,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,61.0
+2014,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,52.0
+2015,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,71.0
+2016,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,84.0
+2017,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,46.0
 2018,Victims of human trafficking (Number),Sexual exploitation,,14 to under 18 years,
-2010,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,254
-2011,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,269
-2012,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,223
-2013,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,209
-2014,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,209
-2015,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,148
-2016,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,118
-2017,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,157
+2010,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,254.0
+2011,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,269.0
+2012,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,223.0
+2013,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,209.0
+2014,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,209.0
+2015,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,148.0
+2016,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,118.0
+2017,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,157.0
 2018,Victims of human trafficking (Number),Sexual exploitation,,18 to under 21 years,
-2010,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,127
-2011,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,135
-2012,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,123
-2013,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,111
-2014,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,115
-2015,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,68
-2016,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,109
-2017,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,110
+2010,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,127.0
+2011,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,135.0
+2012,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,123.0
+2013,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,111.0
+2014,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,115.0
+2015,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,68.0
+2016,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,109.0
+2017,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,110.0
 2018,Victims of human trafficking (Number),Sexual exploitation,,21 to under 25 years,
-2010,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,134
-2011,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,133
-2012,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,156
-2013,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,142
-2014,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,164
-2015,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,98
-2016,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,142
-2017,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,149
+2010,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,134.0
+2011,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,133.0
+2012,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,156.0
+2013,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,142.0
+2014,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,164.0
+2015,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,98.0
+2016,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,142.0
+2017,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,149.0
 2018,Victims of human trafficking (Number),Sexual exploitation,,25 years and over,
-2010,Victims of human trafficking (Number),Sexual exploitation,,unknown age,8
-2011,Victims of human trafficking (Number),Sexual exploitation,,unknown age,13
-2012,Victims of human trafficking (Number),Sexual exploitation,,unknown age,10
-2013,Victims of human trafficking (Number),Sexual exploitation,,unknown age,10
-2014,Victims of human trafficking (Number),Sexual exploitation,,unknown age,12
-2015,Victims of human trafficking (Number),Sexual exploitation,,unknown age,25
-2016,Victims of human trafficking (Number),Sexual exploitation,,unknown age,23
-2017,Victims of human trafficking (Number),Sexual exploitation,,unknown age,11
+2010,Victims of human trafficking (Number),Sexual exploitation,,unknown age,8.0
+2011,Victims of human trafficking (Number),Sexual exploitation,,unknown age,13.0
+2012,Victims of human trafficking (Number),Sexual exploitation,,unknown age,10.0
+2013,Victims of human trafficking (Number),Sexual exploitation,,unknown age,10.0
+2014,Victims of human trafficking (Number),Sexual exploitation,,unknown age,12.0
+2015,Victims of human trafficking (Number),Sexual exploitation,,unknown age,25.0
+2016,Victims of human trafficking (Number),Sexual exploitation,,unknown age,23.0
+2017,Victims of human trafficking (Number),Sexual exploitation,,unknown age,11.0
 2018,Victims of human trafficking (Number),Sexual exploitation,,unknown age,
-2010,Victims of human trafficking (%),Exploitation of labour,female,,24
-2011,Victims of human trafficking (%),Exploitation of labour,female,,75
-2012,Victims of human trafficking (%),Exploitation of labour,female,,
-2013,Victims of human trafficking (%),Exploitation of labour,female,,
-2014,Victims of human trafficking (%),Exploitation of labour,female,,
-2015,Victims of human trafficking (%),Exploitation of labour,female,,19
-2016,Victims of human trafficking (%),Exploitation of labour,female,,29
-2017,Victims of human trafficking (%),Exploitation of labour,female,,14
-2018,Victims of human trafficking (%),Exploitation of labour,female,,
-2010,Victims of human trafficking (%),Exploitation of labour,male,,76
-2011,Victims of human trafficking (%),Exploitation of labour,male,,25
-2012,Victims of human trafficking (%),Exploitation of labour,male,,
-2013,Victims of human trafficking (%),Exploitation of labour,male,,
-2014,Victims of human trafficking (%),Exploitation of labour,male,,
-2015,Victims of human trafficking (%),Exploitation of labour,male,,81
-2016,Victims of human trafficking (%),Exploitation of labour,male,,71
-2017,Victims of human trafficking (%),Exploitation of labour,male,,86
-2018,Victims of human trafficking (%),Exploitation of labour,male,,
+2010,Victims of human trafficking (Number),Exploitation of labour,female,,24.0
+2011,Victims of human trafficking (Number),Exploitation of labour,female,,75.0
+2012,Victims of human trafficking (Number),Exploitation of labour,female,,
+2013,Victims of human trafficking (Number),Exploitation of labour,female,,
+2014,Victims of human trafficking (Number),Exploitation of labour,female,,
+2015,Victims of human trafficking (Number),Exploitation of labour,female,,19.0
+2016,Victims of human trafficking (Number),Exploitation of labour,female,,29.0
+2017,Victims of human trafficking (Number),Exploitation of labour,female,,14.0
+2018,Victims of human trafficking (Number),Exploitation of labour,female,,
+2010,Victims of human trafficking (Number),Exploitation of labour,male,,76.0
+2011,Victims of human trafficking (Number),Exploitation of labour,male,,25.0
+2012,Victims of human trafficking (Number),Exploitation of labour,male,,
+2013,Victims of human trafficking (Number),Exploitation of labour,male,,
+2014,Victims of human trafficking (Number),Exploitation of labour,male,,
+2015,Victims of human trafficking (Number),Exploitation of labour,male,,81.0
+2016,Victims of human trafficking (Number),Exploitation of labour,male,,71.0
+2017,Victims of human trafficking (Number),Exploitation of labour,male,,86.0
+2018,Victims of human trafficking (Number),Exploitation of labour,male,,
