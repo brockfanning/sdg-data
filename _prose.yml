@@ -72,22 +72,24 @@ prose:
             value: "UN metadata"
             scope: global
 
-      - name: "goal_meta_link_active_2"
+      - name: goal_meta_link_active_2
         field:
             element: checkbox
-            scope: global
+            label: goal meta 2 active
             value: false
-      - name: "goal_meta_link_2"
+            scope: global_meta_link_2
+      - name: "goal_meta_link_url_2"
         field:
             element: text
             label: "Link to UN metadata"
-            scope: global
+            value: "Link to metadata"
+            scope: global_meta_link_2
+
       - name: "goal_meta_link_text_2"
         field:
             element: text
-            label: "Link to UN metadata text"
-            value: "UN metadata"
-            scope: global
+            label: "Link to data source text"
+            scope: goal_meta_link_2
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
