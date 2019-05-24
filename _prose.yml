@@ -75,9 +75,8 @@ prose:
       - name: "goal_meta_link_active_2"
         field:
             element: checkbox
-            label: "Link to UN metadata"
             scope: global
-            value: false       
+            value: false
       - name: "goal_meta_link_2"
         field:
             element: text
