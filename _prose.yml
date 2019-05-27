@@ -118,12 +118,12 @@ prose:
 
             ## PDF Dokument Metadata ##
 
-        - name: "doc_meta"
-          field:
-              element: text
-              label: "Matadatendokument"
-              value: "doc"
-              scope: global
+      - name: "doc_meta"
+        field:
+            element: text
+            label: "Matadatendokument"
+            value: "doc"
+            scope: global
 
        ######### Data Info #########
       - name: "reporting_status"
