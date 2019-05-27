@@ -80,13 +80,13 @@ prose:
       - name: "goal_meta_link_url_2"
         field:
             element: text
-            label: "Link to UN metadata"
-            scope: goal_meta_link_2
+            label: "Link to UN metadata2"
+            scope: global #goal_meta_link_2
       - name: "goal_meta_link_text_2"
         field:
             element: text
-            label: "Link to UN metadata text"
-            value: "UN metadata"
+            label: "Link to UN metadata text2"
+            value: "UN metadata 2"
             scope: goal_meta_link_2
 
       ######### National Metadata #########
