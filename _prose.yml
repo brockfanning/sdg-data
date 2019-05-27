@@ -76,7 +76,7 @@ prose:
         field:
             element: checkbox
             scope: global
-            value: true
+            value: false
       - name: "goal_meta_link_url_2"
         field:
             element: text
