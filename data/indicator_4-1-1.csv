@@ -1,37 +1,37 @@
 Year,Units,X,Value
-2010,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2011,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2012,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),97.0
-2013,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2014,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2015,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),97.4
-2016,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2017,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2018,mathematics,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2010,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2011,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2012,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),97.1
-2013,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%)
-2014,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2015,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),96.2
-2016,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2017,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2018,reading,a) Children and youths in grades 2/3 with a minimum proficiency level (%),
-2010,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2011,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2012,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),82.3
-2013,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2014,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2015,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),82.8
-2016,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2017,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2018,mathematics,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2010,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2011,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2012,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),85.5
-2013,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2014,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2015,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),83.5
-2016,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2017,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
-2018,reading,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),
+2010,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,
+2011,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,
+2012,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,97.0
+2013,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,
+2014,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,
+2015,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,97.4
+2016,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,
+2017,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,
+2018,a) Children and youths in grades 2/3 with a minimum proficiency level (%),mathematics,
+2010,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,
+2011,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,
+2012,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,97.1
+2013,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading
+2014,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,
+2015,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,96.2
+2016,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,
+2017,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,
+2018,a) Children and youths in grades 2/3 with a minimum proficiency level (%),reading,
+2010,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,
+2011,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,
+2012,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,82.3
+2013,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,
+2014,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,
+2015,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,82.8
+2016,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,
+2017,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,
+2018,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),mathematics,
+2010,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,
+2011,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,
+2012,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,85.5
+2013,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,
+2014,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,
+2015,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,83.5
+2016,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,
+2017,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,
+2018,c) Children and youths at the end of lower secondary education with a minimum proficiency level (%),reading,
