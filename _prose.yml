@@ -114,12 +114,7 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
-###
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: national
+
             ## PDF Dokument Metadata ##
 
       - name: "doc_meta"
