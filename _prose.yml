@@ -114,16 +114,6 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
-
-            ## PDF Dokument Metadata ##
-
-      - name: "doc_meta"
-        field:
-            element: text
-            label: "Matadatendokument"
-            value: "doc"
-            scope: global
-
        ######### Data Info #########
       - name: "reporting_status"
         field:
