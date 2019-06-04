@@ -121,7 +121,7 @@ prose:
             element: checkbox
             label: Info 1 active
             help: Whether or not to provide additional Information
-            value: false
+            value: true
       - name: "info_url_1"
         field:
             element: text
