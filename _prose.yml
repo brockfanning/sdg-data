@@ -114,6 +114,29 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
+
+
+      - name: info_active_1
+        field:
+            element: checkbox
+            label: Info 1 active
+            help: Whether or not to provide additional Information
+            value: true
+      - name: "info_url_1"
+        field:
+            element: text
+            label: "Link to info"
+            scope: info_1
+      - name: "info_url_text_1"
+        field:
+            element: text
+            label: "Link to info text"
+            value: "Link to info"
+            scope: info_1
+
+
+
+
        ######### Data Info #########
       - name: "reporting_status"
         field:
