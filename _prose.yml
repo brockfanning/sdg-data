@@ -126,13 +126,13 @@ prose:
         field:
             element: text
             label: "Link to info"
-            scope: info_1
+            scope: national
       - name: "info_url_text_1"
         field:
             element: text
             label: "Link to info text"
             value: "Link to info"
-            scope: info_1
+            scope: national
 
 
 
