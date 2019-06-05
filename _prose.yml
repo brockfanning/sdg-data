@@ -269,21 +269,6 @@ prose:
             element: text
             label: "Organisation"
             scope: source_3
-      - name: "source_periodicity_3"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_3
-      - name: "source_earliest_available_3"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_3
-      - name: "source_geographical_coverage_3"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_3
       - name: "source_url_3"
         field:
             element: text
@@ -294,35 +279,6 @@ prose:
         field:
             element: text
             label: "Link to data source text"
-            scope: source_3
-      - name: "source_release_date_3"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_3
-      - name: "source_next_release_3"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_3
-      - name: "source_statistical_classification_3"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_3
-      - name: "source_contact_3"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_3
-      - name: "source_other_info_3"
-        field:
-            element: textarea
-            label: "Other information"
             scope: source_3
       ## Source 4
       - name: source_active_4
@@ -336,21 +292,6 @@ prose:
             element: text
             label: "Organisation"
             scope: source_4
-      - name: "source_periodicity_4"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_4
-      - name: "source_earliest_available_4"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_4
-      - name: "source_geographical_coverage_4"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_4
       - name: "source_url_4"
         field:
             element: text
@@ -361,35 +302,6 @@ prose:
             element: text
             label: "Link to data source text"
             value: "Link to source"
-            scope: source_4
-      - name: "source_release_date_4"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_4
-      - name: "source_next_release_4"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_4
-      - name: "source_statistical_classification_4"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_4
-      - name: "source_contact_4"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_4
-      - name: "source_other_info_4"
-        field:
-            element: textarea
-            label: "Other information"
             scope: source_4
 ## Source 5
       - name: source_active_5
@@ -403,21 +315,6 @@ prose:
             element: text
             label: "Organisation"
             scope: source_5
-      - name: "source_periodicity_5"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_5
-      - name: "source_earliest_available_5"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_5
-      - name: "source_geographical_coverage_5"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_5
       - name: "source_url_5"
         field:
             element: text
@@ -428,35 +325,6 @@ prose:
             element: text
             label: "Link to data source text"
             value: "Link to source"
-            scope: source_5
-      - name: "source_release_date_5"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_5
-      - name: "source_next_release_5"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_5
-      - name: "source_statistical_classification_5"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_5
-      - name: "source_contact_5"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_5
-      - name: "source_other_info_5"
-        field:
-            element: textarea
-            label: "Other information"
             scope: source_5
 ## Source 6
       - name: source_active_6
@@ -470,21 +338,6 @@ prose:
             element: text
             label: "Organisation"
             scope: source_6
-      - name: "source_periodicity_6"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_6
-      - name: "source_earliest_available_6"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_6
-      - name: "source_geographical_coverage_6"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: source_6
       - name: "source_url_6"
         field:
             element: text
@@ -495,33 +348,4 @@ prose:
             element: text
             label: "Link to data source text"
             value: "Link to source"
-            scope: source_6
-      - name: "source_release_date_6"
-        field:
-            element: text
-            label: "Release date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_6
-      - name: "source_next_release_6"
-        field:
-            element: text
-            label: "Next release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_6
-      - name: "source_statistical_classification_6"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_6
-      - name: "source_contact_6"
-        field:
-            element: text
-            label: "Contact details"
-            scope: source_6
-      - name: "source_other_info_6"
-        field:
-            element: textarea
-            label: "Other information"
             scope: source_6
