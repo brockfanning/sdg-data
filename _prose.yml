@@ -264,6 +264,11 @@ prose:
             label: Source 3 active
             help: Whether or not to display this source
             value: false
+      - name: source_organisation_logo_3
+        field:
+            element: text
+            label: ""
+            scope: source_3
       - name: source_organisation_3
         field:
             element: text
@@ -287,6 +292,11 @@ prose:
             label: Source 4 active
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_logo_4
+        field:
+            element: text
+            label: ""
+            scope: source_4
       - name: source_organisation_4
         field:
             element: text
@@ -310,6 +320,11 @@ prose:
             label: Source 5 active
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_logo_5
+        field:
+            element: text
+            label: ""
+            scope: source_5
       - name: source_organisation_5
         field:
             element: text
@@ -333,6 +348,11 @@ prose:
             label: Source 6 active
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_logo_6
+        field:
+            element: text
+            label: ""
+            scope: source_6
       - name: source_organisation_6
         field:
             element: text
