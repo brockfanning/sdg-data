@@ -26,15 +26,15 @@ Year,Units,Sex,Age,Value
 2016,Sexual exploitation (per 100 000 inhabitants),,,0.59
 2017,Sexual exploitation (per 100 000 inhabitants),,,0.59
 2018,Sexual exploitation (per 100 000 inhabitants),,,
-2010,Sexual exploitation (Number),,,651.0
-2011,Sexual exploitation (Number),,,672.0
-2012,Sexual exploitation (Number),,,626.0
-2013,Sexual exploitation (Number),,,603.0
-2014,Sexual exploitation (Number),,,583.0
-2015,Sexual exploitation (Number),,,470.0
-2016,Sexual exploitation (Number),,,536.0
-2017,Sexual exploitation (Number),,,669.0
-2018,Sexual exploitation (Number),,,
+2010,Victims of human trafficking (Number),,,651.0
+2011,Victims of human trafficking (Number),,,672.0
+2012,Victims of human trafficking (Number),,,626.0
+2013,Victims of human trafficking (Number),,,603.0
+2014,Victims of human trafficking (Number),,,583.0
+2015,Victims of human trafficking (Number),,,470.0
+2016,Victims of human trafficking (Number),,,536.0
+2017,Victims of human trafficking (Number),,,669.0
+2018,Victims of human trafficking (Number),,,
 2010,Exploitation of labour (Number),,,41.0
 2011,Exploitation of labour (Number),,32.0
 2012,Exploitation of labour (Number),,,14.0
@@ -125,21 +125,21 @@ Year,Units,Sex,Age,Value
 2016,Sexual exploitation (Number),,unknown age,23.0
 2017,Sexual exploitation (Number),,unknown age,11.0
 2018,Sexual exploitation (Number),,unknown age,
-2010,Exploitation of labour (Number),female,,24.0
-2011,Exploitation of labour (Number),female,,75.0
+2010,Exploitation of labour (Number),female,,10
+2011,Exploitation of labour (Number),female,,24
 2012,Exploitation of labour (Number),female,,
 2013,Exploitation of labour (Number),female,,
 2014,Exploitation of labour (Number),female,,
-2015,Exploitation of labour (Number),female,,19.0
-2016,Exploitation of labour (Number),female,,29.0
-2017,Exploitation of labour (Number),female,,14.0
+2015,Exploitation of labour (Number),female,,10
+2016,Exploitation of labour (Number),female,,14
+2017,Exploitation of labour (Number),female,,25
 2018,Exploitation of labour (Number),female,,
-2010,Exploitation of labour (Number),male,,76.0
-2011,Exploitation of labour (Number),male,,25.0
+2010,Exploitation of labour (Number),male,,31
+2011,Exploitation of labour (Number),male,,8
 2012,Exploitation of labour (Number),male,,
 2013,Exploitation of labour (Number),male,,
 2014,Exploitation of labour (Number),male,,
-2015,Exploitation of labour (Number),male,,81.0
-2016,Exploitation of labour (Number),male,,71.0
-2017,Exploitation of labour (Number),male,,86.0
+2015,Exploitation of labour (Number),male,,44
+2016,Exploitation of labour (Number),male,,34
+2017,Exploitation of labour (Number),male,155
 2018,Exploitation of labour (Number),male,,
