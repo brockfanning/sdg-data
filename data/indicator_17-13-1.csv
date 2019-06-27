@@ -3,29 +3,29 @@ Year,Units,Value
 2011,Annual growth rate of real GDP (%),3.7
 2012,Annual growth rate of real GDP (%),0.5
 2013,Annual growth rate of real GDP (%),0.5
-2014,Annual growth rate of real GDP (%),1.9
+2014,Annual growth rate of real GDP (%),2.2
 2015,Annual growth rate of real GDP (%),1.7
-2016,Annual growth rate of real GDP (%),1.9
+2016,Annual growth rate of real GDP (%),2.2
 2017,Annual growth rate of real GDP (%),2.2
-2018,Annual growth rate of real GDP (%),
+2018,Annual growth rate of real GDP (%),1.4
 2010,Available income of private households (Bn EUR),1561.7
 2011,Available income of private households (Bn EUR),1608.3
 2012,Available income of private households (Bn EUR),1647.7
 2013,Available income of private households (Bn EUR),1669.7
-2014,Available income of private households (Bn EUR),1709.8
-2015,Available income of private households (Bn EUR),1753.7
-2016,Available income of private households (Bn EUR),1805.0
-2017,Available income of private households (Bn EUR),1873.3
-2018,Available income of private households (Bn EUR),
+2014,Available income of private households (Bn EUR),1711.3
+2015,Available income of private households (Bn EUR),1755.2
+2016,Available income of private households (Bn EUR),1807.7
+2017,Available income of private households (Bn EUR),1869.9
+2018,Available income of private households (Bn EUR),1930.0
 2010,Consumption by private households (Bn EUR),1407.0
 2011,Consumption by private households (Bn EUR),1454.0
 2012,Consumption by private households (Bn EUR),1494.7
 2013,Consumption by private households (Bn EUR),1512.6
-2014,Consumption by private households (Bn EUR),1540.6
-2015,Consumption by private households (Bn EUR),1577.2
-2016,Consumption by private households (Bn EUR),1619.1
-2017,Consumption by private households (Bn EUR),1732.8
-2018,Consumption by private households (Bn EUR),
+2014,Consumption by private households (Bn EUR),1541.3
+2015,Consumption by private households (Bn EUR),1578.3
+2016,Consumption by private households (Bn EUR),1622.1
+2017,Consumption by private households (Bn EUR),1676.6
+2018,Consumption by private households (Bn EUR),1717.3
 2010,Debt level of the total public budget (Bn EUR),2011.7
 2011,Debt level of the total public budget (Bn EUR),2025.4
 2012,Debt level of the total public budget (Bn EUR),2068.3
@@ -39,80 +39,80 @@ Year,Units,Value
 2011,Government fiscal balance (Bn EUR),-25.9
 2012,Government fiscal balance (Bn EUR),-0.9
 2013,Government fiscal balance (Bn EUR),-4.0
-2014,Government fiscal balance (Bn EUR),9.5
-2015,Government fiscal balance (Bn EUR),19.4
-2016,Government fiscal balance (Bn EUR),25.7
-2017,Government fiscal balance (Bn EUR),38.2
-2018,Government fiscal balance (Bn EUR),
+2014,Government fiscal balance (Bn EUR),16.7
+2015,Government fiscal balance (Bn EUR),23.9
+2016,Government fiscal balance (Bn EUR),28.7
+2017,Government fiscal balance (Bn EUR),34.0
+2018,Government fiscal balance (Bn EUR),57.3
 2010,Gross fixed capital formation (Bn EUR),501.4
 2011,Gross fixed capital formation (Bn EUR),547.8
 2012,Gross fixed capital formation (Bn EUR),554.7
 2013,Gross fixed capital formation (Bn EUR),556.8
-2014,Gross fixed capital formation (Bn EUR),586.6
-2015,Gross fixed capital formation (Bn EUR),604.3
-2016,Gross fixed capital formation (Bn EUR),630.0
-2017,Gross fixed capital formation (Bn EUR),663.1
-2018,Gross fixed capital formation (Bn EUR),
+2014,Gross fixed capital formation (Bn EUR),587.5
+2015,Gross fixed capital formation (Bn EUR),605.5
+2016,Gross fixed capital formation (Bn EUR),634.0
+2017,Gross fixed capital formation (Bn EUR),665.7
+2018,Gross fixed capital formation (Bn EUR),703.4
 2010,Hours worked by employees (Mn h ),47845
 2011,Hours worked by employees (Mn h ),48665
 2012,Hours worked by employees (Mn h ),48776
 2013,Hours worked by employees (Mn h ),48890
-2014,Hours worked by employees (Mn h ),49713
-2015,Hours worked by employees (Mn h ),50381
-2016,Hours worked by employees (Mn h ),50801
-2017,Hours worked by employees (Mn h ),51716
-2018,Hours worked by employees (Mn h ),
+2014,Hours worked by employees (Mn h ),49703
+2015,Hours worked by employees (Mn h ),50454
+2016,Hours worked by employees (Mn h ),51013
+2017,Hours worked by employees (Mn h ),51949
+2018,Hours worked by employees (Mn h ),53002
 2010,Hours worked by persons employed (Mn h ),57013
 2011,Hours worked by persons employed (Mn h ),57909
 2012,Hours worked by persons employed (Mn h ),57835
 2013,Hours worked by persons employed (Mn h ),57668
-2014,Hours worked by persons employed (Mn h ),58336
-2015,Hours worked by persons employed (Mn h ),58923
-2016,Hours worked by persons employed (Mn h ),59286
-2017,Hours worked by persons employed (Mn h ),60044
-2018,Hours worked by persons employed (Mn h ),
+2014,Hours worked by persons employed (Mn h ),58327
+2015,Hours worked by persons employed (Mn h ),58997
+2016,Hours worked by persons employed (Mn h ),59477
+2017,Hours worked by persons employed (Mn h ),60222
+2018,Hours worked by persons employed (Mn h ),61068
 2010,Labour productivity per hour worked by employee (2010 = 100),100.0
 2011,Labour productivity per hour worked by employee (2010 = 100),101.9
 2012,Labour productivity per hour worked by employee (2010 = 100),102.2
 2013,Labour productivity per hour worked by employee (2010 = 100),102.4
-2014,Labour productivity per hour worked by employee (2010 = 100),102.7
-2015,Labour productivity per hour worked by employee (2010 = 100),103.1
-2016,Labour productivity per hour worked by employee (2010 = 100),104.2
+2014,Labour productivity per hour worked by employee (2010 = 100),103.0
+2015,Labour productivity per hour worked by employee (2010 = 100),103.2
+2016,Labour productivity per hour worked by employee (2010 = 100),104.4
 2017,Labour productivity per hour worked by employee (2010 = 100),104.7
-2018,Labour productivity per hour worked by employee (2010 = 100),
+2018,Labour productivity per hour worked by employee (2010 = 100),104.1
 2010,Labour productivity per hour worked by persons employed (2010 = 100),100.0
 2011,Labour productivity per hour worked by persons employed (2010 = 100),102.1
 2012,Labour productivity per hour worked by persons employed (2010 = 100),102.7
 2013,Labour productivity per hour worked by persons employed (2010 = 100),103.5
-2014,Labour productivity per hour worked by persons employed (2010 = 100),104.3
-2015,Labour productivity per hour worked by persons employed (2010 = 100),105.0
-2016,Labour productivity per hour worked by persons employed (2010 = 100),106.4
-2017,Labour productivity per hour worked by persons employed (2010 = 100),107.4
-2018,Labour productivity per hour worked by persons employed (2010 = 100),
+2014,Labour productivity per hour worked by persons employed (2010 = 100),104.6
+2015,Labour productivity per hour worked by persons employed (2010 = 100),105.2
+2016,Labour productivity per hour worked by persons employed (2010 = 100),106.7
+2017,Labour productivity per hour worked by persons employed (2010 = 100),107.6
+2018,Labour productivity per hour worked by persons employed (2010 = 100),107.6
 2010,Persons employed (1 000),41020
 2011,Persons employed (1 000),41577
 2012,Persons employed (1 000),42061
 2013,Persons employed (1 000),42319
-2014,Persons employed (1 000),42672
-2015,Persons employed (1 000),43069
-2016,Persons employed (1 000),43638
-2017,Persons employed (1 000),44271
-2018,Persons employed (1 000),
+2014,Persons employed (1 000),42671
+2015,Persons employed (1 000),43071
+2016,Persons employed (1 000),43642
+2017,Persons employed (1 000),44269
+2018,Persons employed (1 000),44841
 2010,Real GDP per capita (2010 = 100),100.0
 2011,Real GDP per capita (2010 = 100),103.7
 2012,Real GDP per capita (2010 = 100),104.0
 2013,Real GDP per capita (2010 = 100),104.2
-2014,Real GDP per capita (2010 = 100),105.8
-2015,Real GDP per capita (2010 = 100),106.7
-2016,Real GDP per capita (2010 = 100),107.9
-2017,Real GDP per capita (2010 = 100),109.9
-2018,Real GDP per capita (2010 = 100),
+2014,Real GDP per capita (2010 = 100),106.0
+2015,Real GDP per capita (2010 = 100),107.0
+2016,Real GDP per capita (2010 = 100),108.5
+2017,Real GDP per capita (2010 = 100),110.4
+2018,Real GDP per capita (2010 = 100),111.6
 2010,Trade balance (Bn EUR),134.1
 2011,Trade balance (Bn EUR),132.1
 2012,Trade balance (Bn EUR),168.0
 2013,Trade balance (Bn EUR),168.4
-2014,Trade balance (Bn EUR),203.0
-2015,Trade balance (Bn EUR),243.3
-2016,Trade balance (Bn EUR),250.6
-2017,Trade balance (Bn EUR),247.2
-2018,Trade balance (Bn EUR),
+2014,Trade balance (Bn EUR),203.5
+2015,Trade balance (Bn EUR),244.1
+2016,Trade balance (Bn EUR),247.5
+2017,Trade balance (Bn EUR),247.8
+2018,Trade balance (Bn EUR),229.2
