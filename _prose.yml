@@ -162,7 +162,7 @@ prose:
       - name: data_footnote
         field:
             element: text
-            label: Anmerkung
+            label: Footnote
             help: Footnotes appear under the chart and by data tables
             scope: data
       - name: data_geocode_regex
