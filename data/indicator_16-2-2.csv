@@ -71,15 +71,15 @@ Year,Units,Sex,Age,Value
 2016,Sexual exploitation (Number),male,,24
 2017,Sexual exploitation (Number),male,,5
 2018,Sexual exploitation (Number),male,,
-2010,Sexual exploitation (Number),,under 14 years,8.0
-2011,Sexual exploitation (Number),,under 14 years,13.0
-2012,Sexual exploitation (Number),,under 14 years,12.0
-2013,Sexual exploitation (Number),,under 14 years,9.0
-2014,Sexual exploitation (Number),,under 14 years,5.0
-2015,Sexual exploitation (Number),,under 14 years,6.0
-2016,Sexual exploitation (Number),,under 14 years,12.0
-2017,Sexual exploitation (Number),,under 14 years,16.0
-2018,Sexual exploitation (Number),,under 14 years,
+2010,Sexual exploitation (Number),,13 years and under,8.0
+2011,Sexual exploitation (Number),,13 years and under,13.0
+2012,Sexual exploitation (Number),,13 years and under,12.0
+2013,Sexual exploitation (Number),,13 years and under,9.0
+2014,Sexual exploitation (Number),,13 years and under,5.0
+2015,Sexual exploitation (Number),,13 years and under,6.0
+2016,Sexual exploitation (Number),,13 years and under,12.0
+2017,Sexual exploitation (Number),,13 years and under,16.0
+2018,Sexual exploitation (Number),,13 years and under,
 2010,Sexual exploitation (Number),,14 to under 18 years,79.0
 2011,Sexual exploitation (Number),,14 to under 18 years,77.0
 2012,Sexual exploitation (Number),,14 to under 18 years,88.0
@@ -116,15 +116,15 @@ Year,Units,Sex,Age,Value
 2016,Sexual exploitation (Number),,25 years and over,142.0
 2017,Sexual exploitation (Number),,25 years and over,149.0
 2018,Sexual exploitation (Number),,25 years and over,
-2010,Sexual exploitation (Number),,unknown age,8.0
-2011,Sexual exploitation (Number),,unknown age,13.0
-2012,Sexual exploitation (Number),,unknown age,10.0
-2013,Sexual exploitation (Number),,unknown age,10.0
-2014,Sexual exploitation (Number),,unknown age,12.0
-2015,Sexual exploitation (Number),,unknown age,25.0
-2016,Sexual exploitation (Number),,unknown age,23.0
-2017,Sexual exploitation (Number),,unknown age,11.0
-2018,Sexual exploitation (Number),,unknown age,
+2010,Sexual exploitation (Number),, 0 - unknown age,8.0
+2011,Sexual exploitation (Number),, 0 - unknown age,13.0
+2012,Sexual exploitation (Number),,0 - unknown age,10.0
+2013,Sexual exploitation (Number),,0 - unknown age,10.0
+2014,Sexual exploitation (Number),,0 - unknown age,12.0
+2015,Sexual exploitation (Number),,0 - unknown age,25.0
+2016,Sexual exploitation (Number),,0 - unknown age,23.0
+2017,Sexual exploitation (Number),,0 - unknown age,11.0
+2018,Sexual exploitation (Number),,0 - unknown age,
 2010,Exploitation of labour (Number),female,,10
 2011,Exploitation of labour (Number),female,,24
 2012,Exploitation of labour (Number),female,,
