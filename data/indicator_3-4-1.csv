@@ -1,37 +1,37 @@
-Year,Units,Value
-2010,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),45.0
-2011,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),41.8
-2012,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),41.3
-2013,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),41.4
-2014,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),40.0
-2015,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),42.3
-2016,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),41.6
-2017,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),
-2018,a) Mortality rate of persons aged 30 to under 70 years attributed to cardiovascular disease (1 000),
-2010,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),77.9
-2011,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),76.9
-2012,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),75.0
-2013,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),75.0
-2014,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),73.2
-2015,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),74.7
-2016,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),76.4
-2017,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),
-2018,b) Mortality rate of persons aged 30 to under 70 years attributed to cancer (1 000),
-2010,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),3.5
-2011,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),3.4
-2012,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),3.4
-2013,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),3.5
-2014,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),3.3
-2015,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),3.6
-2016,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),3.5
-2017,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),
-2018,c) Mortality rate of persons aged 30 to under 70 years attributed to diabetes mellitus (1 000),
-2010,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),7.4
-2011,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),7.5
-2012,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),7.1
-2013,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),8.0
-2014,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),7.6
-2015,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),8.7
-2016,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),8.8
-2017,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),
-2018,d) Mortality rate of persons aged 30 to under 70 years attributed to chronic respiratory disease (1 000),
+Year,Units,Type of disease,Value
+2010,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,45.0
+2011,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,41.8
+2012,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,41.3
+2013,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,41.4
+2014,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,40.0
+2015,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,42.3
+2016,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,41.6
+2017,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,
+2018,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),a) cardiovascular disease,
+2010,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,77.9
+2011,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,76.9
+2012,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,75.0
+2013,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,75.0
+2014,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,73.2
+2015,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,74.7
+2016,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,76.4
+2017,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,
+2018,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),b) cancer,
+2010,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,3.5
+2011,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,3.4
+2012,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,3.4
+2013,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,3.5
+2014,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,3.3
+2015,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,3.6
+2016,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,3.5
+2017,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,
+2018,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),c) diabetes mellitus,
+2010,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,7.4
+2011,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,7.5
+2012,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,7.1
+2013,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,8.0
+2014,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,7.6
+2015,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,8.7
+2016,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,8.8
+2017,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,
+2018,Mortality rate of persons aged 30 to under 70 years attributed to (1 000),d) chronic respiratory disease,
