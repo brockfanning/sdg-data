@@ -1,19 +1,19 @@
-Year,Units,Value
-2010,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2011,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2012,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2013,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2014,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2015,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2016,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2017,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),0
-2018,Young victims (under 14 years) of trafficking in human beings with intent to exploit man power (Number),1
-2010,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),10
-2011,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),13
-2012,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),13
-2013,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),14
-2014,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),16
-2015,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),9
-2016,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),2
-2017,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),1
-2018,Young victims (14 to under 18 years) of trafficking in human beings with intent to exploit man power (Number),2
+Year,Units,Age,Value
+2010,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2011,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2012,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2013,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2014,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2015,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2016,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2017,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,0
+2018,Young victims of trafficking in human beings with intent to exploit man power (Number),under 14 years,1
+2010,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,10
+2011,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,13
+2012,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,13
+2013,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,14
+2014,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,16
+2015,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,9
+2016,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,2
+2017,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,1
+2018,Young victims of trafficking in human beings with intent to exploit man power (Number),14 to under 18 years,2

@@ -1,19 +1,19 @@
-Year,Units,Value
-2010,Level of water stress: share of withdrawal in renewable water resources (%),17.30
-2011,Level of water stress: share of withdrawal in renewable water resources (%),
-2012,Level of water stress: share of withdrawal in renewable water resources (%),
-2013,Level of water stress: share of withdrawal in renewable water resources (%),13.99
-2014,Level of water stress: share of withdrawal in renewable water resources (%),
-2015,Level of water stress: share of withdrawal in renewable water resources (%),
-2016,Level of water stress: share of withdrawal in renewable water resources (%),15.46
-2017,Level of water stress: share of withdrawal in renewable water resources (%),
-2018,Level of water stress: share of withdrawal in renewable water resources (%),
-2010,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),4.65
-2011,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),
-2012,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),
-2013,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),4.83
-2014,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),
-2015,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),
-2016,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),4.96
-2017,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),
-2018,Level of water stress: share of withdrawal in renewable water resources (excluding cooling water) (%),
+Year,Units,Level of waterstress,Value
+2010,Level of water stress (%):,share of withdrawal in renewable water resources,17.30
+2011,Level of water stress (%):,share of withdrawal in renewable water resources,
+2012,Level of water stress (%):,share of withdrawal in renewable water resources,
+2013,Level of water stress (%):,share of withdrawal in renewable water resources,13.99
+2014,Level of water stress (%):,share of withdrawal in renewable water resources,
+2015,Level of water stress (%):,share of withdrawal in renewable water resources,
+2016,Level of water stress (%):,share of withdrawal in renewable water resources,15.46
+2017,Level of water stress (%):,share of withdrawal in renewable water resources,
+2018,Level of water stress (%):,share of withdrawal in renewable water resources,
+2010,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),4.65
+2011,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),
+2012,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),
+2013,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),4.83
+2014,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),
+2015,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),
+2016,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),4.96
+2017,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),
+2018,Level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),
