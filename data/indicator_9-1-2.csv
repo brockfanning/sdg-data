@@ -44,57 +44,57 @@ Year,Units,Mode of transport,Value
 2016,a) Passenger transport (Mn pkm),motorised private transport,965460
 2017,a) Passenger transport (Mn pkm),motorised private transport,
 2018,a) Passenger transport (Mn pkm),motorised private transport,
-"2010,b) Freight transport (Mn tkm)"",,627857"
-"2011,b) Freight transport (Mn tkm)"",,627966"
-"2012,b) Freight transport (Mn tkm)"",,618911"
-"2013,b) Freight transport (Mn tkm)"",,636011"
-"2014,b) Freight transport (Mn tkm)"",,643567"
-"2015,b) Freight transport (Mn tkm)"",,651928"
-"2016,b) Freight transport (Mn tkm)"",,666923"
-"2017,b) Freight transport (Mn tkm)"",,"
-"2018,b) Freight transport (Mn tkm)"",,"
-"2010,b) Freight transport (Mn tkm)"",road transport,440600"
-"2011,b) Freight transport (Mn tkm)"",road transport,442635"
-"2012,b) Freight transport (Mn tkm)"",road transport,431999"
-"2013,b) Freight transport (Mn tkm)"",road transport,443681"
-"2014,b) Freight transport (Mn tkm)"",road transport,452939"
-"2015,b) Freight transport (Mn tkm)"",road transport,460200"
-"2016,b) Freight transport (Mn tkm)"",road transport,464000"
-"2017,b) Freight transport (Mn tkm)"",road transport,"
-"2018,b) Freight transport (Mn tkm)"",road transport,"
-"2010,b) Freight transport (Mn tkm)"",rail transport,107292"
-"2011,b) Freight transport (Mn tkm)"",rail transport,113201"
-"2012,b) Freight transport (Mn tkm)"",rail transport,110797"
-"2013,b) Freight transport (Mn tkm)"",rail transport,112670"
-"2014,b) Freight transport (Mn tkm)"",rail transport,112553"
-"2015,b) Freight transport (Mn tkm)"",rail transport,117252"
-"2016,b) Freight transport (Mn tkm)"",rail transport,128296"
-"2017,b) Freight transport (Mn tkm)"",rail transport,129361"
-"2018,b) Freight transport (Mn tkm)"",rail transport,"
-"2010,b) Freight transport (Mn tkm)"",inland waterway transport,62278"
-"2011,b) Freight transport (Mn tkm)"",inland waterway transport,55027"
-"2012,b) Freight transport (Mn tkm)"",inland waterway transport,58488"
-"2013,b) Freight transport (Mn tkm)"",inland waterway transport,60070"
-"2014,b) Freight transport (Mn tkm)"",inland waterway transport,59093"
-"2015,b) Freight transport (Mn tkm)"",inland waterway transport,55315"
-"2016,b) Freight transport (Mn tkm)"",inland waterway transport,54347"
-"2017,b) Freight transport (Mn tkm)"",inland waterway transport,55518"
-"2018,b) Freight transport (Mn tkm)"",inland waterway transport,46900"
-"2010,b) Freight transport (Mn tkm)"",commercial air transport,1428"
-"2011,b) Freight transport (Mn tkm)"",commercial air transport,1480"
-"2012,b) Freight transport (Mn tkm)"",commercial air transport,1420"
-"2013,b) Freight transport (Mn tkm)"",commercial air transport,1410"
-"2014,b) Freight transport (Mn tkm)"",commercial air transport,1441"
-"2015,b) Freight transport (Mn tkm)"",commercial air transport,1447"
-"2016,b) Freight transport (Mn tkm)"",commercial air transport,1519"
-"2017,b) Freight transport (Mn tkm)"",commercial air transport,1617"
-"2018,b) Freight transport (Mn tkm)"",commercial air transport,"
-"2010,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,16259"
-"2011,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,15623"
-"2012,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,16207"
-"2013,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,18180"
-"2014,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,17541"
-"2015,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,17714"
-"2016,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,18761"
-"2017,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,18239"
-"2018,b) Freight transport (Mn tkm)"",transport via pipeline: crude oil,17225"
+2010,b) Freight transport (Mn tkm),,627857
+2011,b) Freight transport (Mn tkm),,627966
+2012,b) Freight transport (Mn tkm),,618911
+2013,b) Freight transport (Mn tkm),,636011
+2014,b) Freight transport (Mn tkm),,643567
+2015,b) Freight transport (Mn tkm),,651928
+2016,b) Freight transport (Mn tkm),,666923
+2017,b) Freight transport (Mn tkm),,
+2018,b) Freight transport (Mn tkm),,
+2010,b) Freight transport (Mn tkm),road transport,440600
+2011,b) Freight transport (Mn tkm),road transport,442635
+2012,b) Freight transport (Mn tkm),road transport,431999
+2013,b) Freight transport (Mn tkm),road transport,443681
+2014,b) Freight transport (Mn tkm),road transport,452939
+2015,b) Freight transport (Mn tkm),road transport,460200
+2016,b) Freight transport (Mn tkm),road transport,464000
+2017,b) Freight transport (Mn tkm),road transport,
+2018,b) Freight transport (Mn tkm),road transport,
+2010,b) Freight transport (Mn tkm),rail transport,107292
+2011,b) Freight transport (Mn tkm),rail transport,113201
+2012,b) Freight transport (Mn tkm),rail transport,110797
+2013,b) Freight transport (Mn tkm),rail transport,112670
+2014,b) Freight transport (Mn tkm),rail transport,112553
+2015,b) Freight transport (Mn tkm),rail transport,117252
+2016,b) Freight transport (Mn tkm),rail transport,128296
+2017,b) Freight transport (Mn tkm),rail transport,129361
+2018,b) Freight transport (Mn tkm),rail transport,
+2010,b) Freight transport (Mn tkm),inland waterway transport,62278
+2011,b) Freight transport (Mn tkm),inland waterway transport,55027
+2012,b) Freight transport (Mn tkm),inland waterway transport,58488
+2013,b) Freight transport (Mn tkm),inland waterway transport,60070
+2014,b) Freight transport (Mn tkm),inland waterway transport,59093
+2015,b) Freight transport (Mn tkm),inland waterway transport,55315
+2016,b) Freight transport (Mn tkm),inland waterway transport,54347
+2017,b) Freight transport (Mn tkm),inland waterway transport,55518
+2018,b) Freight transport (Mn tkm),inland waterway transport,46900
+2010,b) Freight transport (Mn tkm),commercial air transport,1428
+2011,b) Freight transport (Mn tkm),commercial air transport,1480
+2012,b) Freight transport (Mn tkm),commercial air transport,1420
+2013,b) Freight transport (Mn tkm),commercial air transport,1410
+2014,b) Freight transport (Mn tkm),commercial air transport,1441
+2015,b) Freight transport (Mn tkm),commercial air transport,1447
+2016,b) Freight transport (Mn tkm),commercial air transport,1519
+2017,b) Freight transport (Mn tkm),commercial air transport,1617
+2018,b) Freight transport (Mn tkm),commercial air transport,
+2010,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",16259
+2011,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",15623
+2012,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",16207
+2013,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",18180
+2014,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",17541
+2015,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",17714
+2016,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",18761
+2017,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",18239
+2018,b) Freight transport (Mn tkm),"transport via pipeline: crude oil",17225
