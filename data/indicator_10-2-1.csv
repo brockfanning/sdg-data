@@ -1,55 +1,55 @@
 Year,Units,Sex (all age groups),Age (male and female),Value
-2010,Population living below 50% of median income (%),,,9.2
-2011,Population living below 50% of median income (%),,,9.7
-2012,Population living below 50% of median income (%),,,9.6
-2013,Population living below 50% of median income (%),,,9.4
-2014,Population living below 50% of median income (%),,,10.5
-2015,Population living below 50% of median income (%),,,10.2
-2016,Population living below 50% of median income (%),,,9.7
-2017,Population living below 50% of median income (%),,,9.4
-2018,Population living below 50% of median income (%),,,
-2010,Population living below 50% of median income (%),female,,9.3
-2011,Population living below 50% of median income (%),female,,9.9
-2012,Population living below 50% of median income (%),female,,10.1
-2013,Population living below 50% of median income (%),female,,9.9
-2014,Population living below 50% of median income (%),female,,10.7
-2015,Population living below 50% of median income (%),female,,10.3
-2016,Population living below 50% of median income (%),female,,10.1
-2017,Population living below 50% of median income (%),female,,9.6
-2018,Population living below 50% of median income (%),female,,
-2010,Population living below 50% of median income (%),male,,9.0
-2011,Population living below 50% of median income (%),male,,9.4
-2012,Population living below 50% of median income (%),male,,9.0
-2013,Population living below 50% of median income (%),male,,8.9
-2014,Population living below 50% of median income (%),male,,10.2
-2015,Population living below 50% of median income (%),male,,10.1
-2016,Population living below 50% of median income (%),male,,9.3
-2017,Population living below 50% of median income (%),male,,9.3
-2018,Population living below 50% of median income (%),male,,
-2010,Population living below 50% of median income (%),,17 years and under,9.4
-2011,Population living below 50% of median income (%),,17 years and under,8.0
-2012,Population living below 50% of median income (%),,17 years and under,7.8
-2013,Population living below 50% of median income (%),,17 years and under,7.2
-2014,Population living below 50% of median income (%),,17 years and under,8.2
-2015,Population living below 50% of median income (%),,17 years and under,7.8
-2016,Population living below 50% of median income (%),,17 years and under,7.8
-2017,Population living below 50% of median income (%),,17 years and under,6.9
-2018,Population living below 50% of median income (%),,17 years and under,
-2010,Population living below 50% of median income (%),,18 to under 65 years,9.8
-2011,Population living below 50% of median income (%),,18 to under 65 years,10.8
-2012,Population living below 50% of median income (%),,18 to under 65 years,10.4
-2013,Population living below 50% of median income (%),,18 to under 65 years,10.5
-2014,Population living below 50% of median income (%),,18 to under 65 years,11.5
-2015,Population living below 50% of median income (%),,18 to under 65 years,11.3
-2016,Population living below 50% of median income (%),,18 to under 65 years,10.4
-2017,Population living below 50% of median income (%),,18 to under 65 years,10.2
-2018,Population living below 50% of median income (%),,18 to under 65 years,
-2010,Population living below 50% of median income (%),,65 years and over,7.0
-2011,Population living below 50% of median income (%),,65 years and over,7.3
-2012,Population living below 50% of median income (%),,65 years and over,8.4
-2013,Population living below 50% of median income (%),,65 years and over,8.0
-2014,Population living below 50% of median income (%),,65 years and over,9.1
-2015,Population living below 50% of median income (%),,65 years and over,9.0
-2016,Population living below 50% of median income (%),,65 years and over,9.4
-2017,Population living below 50% of median income (%),,65 years and over,9.2
-2018,Population living below 50% of median income (%),,65 years and over,
+2010,population living below 50% of median income (%),,,9.2
+2011,population living below 50% of median income (%),,,9.7
+2012,population living below 50% of median income (%),,,9.6
+2013,population living below 50% of median income (%),,,9.4
+2014,population living below 50% of median income (%),,,10.5
+2015,population living below 50% of median income (%),,,10.2
+2016,population living below 50% of median income (%),,,9.7
+2017,population living below 50% of median income (%),,,9.4
+2018,population living below 50% of median income (%),,,
+2010,population living below 50% of median income (%),female,,9.3
+2011,population living below 50% of median income (%),female,,9.9
+2012,population living below 50% of median income (%),female,,10.1
+2013,population living below 50% of median income (%),female,,9.9
+2014,population living below 50% of median income (%),female,,10.7
+2015,population living below 50% of median income (%),female,,10.3
+2016,population living below 50% of median income (%),female,,10.1
+2017,population living below 50% of median income (%),female,,9.6
+2018,population living below 50% of median income (%),female,,
+2010,population living below 50% of median income (%),male,,9.0
+2011,population living below 50% of median income (%),male,,9.4
+2012,population living below 50% of median income (%),male,,9.0
+2013,population living below 50% of median income (%),male,,8.9
+2014,population living below 50% of median income (%),male,,10.2
+2015,population living below 50% of median income (%),male,,10.1
+2016,population living below 50% of median income (%),male,,9.3
+2017,population living below 50% of median income (%),male,,9.3
+2018,population living below 50% of median income (%),male,,
+2010,population living below 50% of median income (%),,17 years and under,9.4
+2011,population living below 50% of median income (%),,17 years and under,8.0
+2012,population living below 50% of median income (%),,17 years and under,7.8
+2013,population living below 50% of median income (%),,17 years and under,7.2
+2014,population living below 50% of median income (%),,17 years and under,8.2
+2015,population living below 50% of median income (%),,17 years and under,7.8
+2016,population living below 50% of median income (%),,17 years and under,7.8
+2017,population living below 50% of median income (%),,17 years and under,6.9
+2018,population living below 50% of median income (%),,17 years and under,
+2010,population living below 50% of median income (%),,18 to under 65 years,9.8
+2011,population living below 50% of median income (%),,18 to under 65 years,10.8
+2012,population living below 50% of median income (%),,18 to under 65 years,10.4
+2013,population living below 50% of median income (%),,18 to under 65 years,10.5
+2014,population living below 50% of median income (%),,18 to under 65 years,11.5
+2015,population living below 50% of median income (%),,18 to under 65 years,11.3
+2016,population living below 50% of median income (%),,18 to under 65 years,10.4
+2017,population living below 50% of median income (%),,18 to under 65 years,10.2
+2018,population living below 50% of median income (%),,18 to under 65 years,
+2010,population living below 50% of median income (%),,65 years and over,7.0
+2011,population living below 50% of median income (%),,65 years and over,7.3
+2012,population living below 50% of median income (%),,65 years and over,8.4
+2013,population living below 50% of median income (%),,65 years and over,8.0
+2014,population living below 50% of median income (%),,65 years and over,9.1
+2015,population living below 50% of median income (%),,65 years and over,9.0
+2016,population living below 50% of median income (%),,65 years and over,9.4
+2017,population living below 50% of median income (%),,65 years and over,9.2
+2018,population living below 50% of median income (%),,65 years and over,
