@@ -229,6 +229,32 @@ prose:
             label: "Link to data source text"
             value: "Link to source"
             scope: source_1
+      - name: "source_url_1b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            value: "Link to source"
+            scope: source_1
+      - name: "source_url_1c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_1
+      - name: "source_url_text_1c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_1
       ## Source 2
       - name: source_active_2
         field:
@@ -256,6 +282,32 @@ prose:
             element: text
             label: "Link to data source text"
             value: "Link to Source"
+            scope: source_2
+      - name: "source_url_2b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            value: "Link to source"
+            scope: source_2
+      - name: "source_url_2c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
             scope: source_2
       ## Source 3
       - name: source_active_3
@@ -285,6 +337,32 @@ prose:
             element: text
             label: "Link to data source text"
             scope: source_3
+      - name: "source_url_3b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_3
+      - name: "source_url_text_3b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            value: "Link to source"
+            scope: source_3
+      - name: "source_url_3c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_3
+      - name: "source_url_text_3c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_3
       ## Source 4
       - name: source_active_4
         field:
@@ -311,6 +389,32 @@ prose:
         field:
             element: text
             label: "Link to data source text"
+            value: "Link to source"
+            scope: source_4
+      - name: "source_url_4b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_4
+      - name: "source_url_text_4b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            value: "Link to source"
+            scope: source_4
+      - name: "source_url_4c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_4
+      - name: "source_url_text_4c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
             value: "Link to source"
             scope: source_4
 ## Source 5
@@ -341,6 +445,32 @@ prose:
             label: "Link to data source text"
             value: "Link to source"
             scope: source_5
+      - name: "source_url_5b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_5
+      - name: "source_url_text_5b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            value: "Link to source"
+            scope: source_5
+      - name: "source_url_5c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_5
+      - name: "source_url_text_5c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_5
 ## Source 6
       - name: source_active_6
         field:
@@ -367,5 +497,31 @@ prose:
         field:
             element: text
             label: "Link to data source text"
+            value: "Link to source"
+            scope: source_6
+      - name: "source_url_6b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_6
+      - name: "source_url_text_6b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            value: "Link to source"
+            scope: source_6
+      - name: "source_url_6c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_6
+      - name: "source_url_text_6c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
             value: "Link to source"
             scope: source_6
