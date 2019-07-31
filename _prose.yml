@@ -299,7 +299,7 @@ prose:
       - name: "source_url_2b"
         field:
             element: text
-            label: ""
+            label: Ziel #""
             help: Additional link to data source
             scope: source_2
       - name: "source_url_text_2b"
