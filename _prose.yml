@@ -211,17 +211,17 @@ prose:
       - name: source_organisation_logo_1
         field:
             element: text
-            label: ""
+            label: "Indikator" #""
             scope: source_1
       - name: source_organisation_1
         field:
             element: text
-            label: "Organisation"
+            label: "Ziel" #"Organisation"
             scope: source_1
       - name: "source_url_1"
         field:
             element: text
-            label: "Link to data source"
+            label: "Bewertung" #"Link to data source"
             scope: source_1
       - name: "source_url_text_1"
         field:
@@ -278,17 +278,17 @@ prose:
       - name: source_organisation_logo_2
         field:
             element: text
-            label: ""
+            label: "Indikator" #""
             scope: source_2
       - name: source_organisation_2
         field:
             element: text
-            label: "Organisation"
+            label: "Ziel" #"Organisation"
             scope: source_2
       - name: "source_url_2"
         field:
             element: text
-            label: "Link to data source"
+            label: "Bewertung" #"Link to data source"
             scope: source_2
       - name: "source_url_text_2"
         field:
