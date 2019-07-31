@@ -211,23 +211,23 @@ prose:
       - name: source_organisation_logo_1
         field:
             element: text
-            label: indicator_id #""
+            label: Status #""
             scope: source_1
       - name: source_organisation_1
         field:
             element: text
-            label: "Ziel" #"Organisation"
+            label: "Jahr" #"Organisation"
             scope: source_1
       - name: "source_url_1"
         field:
             element: text
-            label: "Bewertung" #"Link to data source"
+            label: "Link to data source"
             scope: source_1
       - name: "source_url_text_1"
         field:
             element: text
             label: "Link to data source text"
-            value: "Link to source"
+            value: "Ziel" #"Link to source"
             scope: source_1
       - name: "source_url_1b"
         field:
@@ -238,7 +238,7 @@ prose:
       - name: "source_url_text_1b"
         field:
             element: text
-            label: ""
+            label: "Indikator" #""
             help: Additional link to data source
             value: "Link to source"
             scope: source_1
