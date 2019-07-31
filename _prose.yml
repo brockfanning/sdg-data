@@ -211,7 +211,7 @@ prose:
       - name: source_organisation_logo_1
         field:
             element: text
-            label: "Indikator" #""
+            label: {{ t.general.indicator }} #""
             scope: source_1
       - name: source_organisation_1
         field:
