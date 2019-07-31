@@ -232,7 +232,7 @@ prose:
       - name: "source_url_1b"
         field:
             element: text
-            label: "Ziel" #""
+            label: "Indikator" #""
             help: Additional link to data source
             scope: source_1
       - name: "source_url_text_1b"
@@ -299,7 +299,7 @@ prose:
       - name: "source_url_2b"
         field:
             element: text
-            label: Ziel #""
+            label: Indikator #""
             help: Additional link to data source
             scope: source_2
       - name: "source_url_text_2b"
