@@ -1,33 +1,33 @@
-Year,Units,region,Value
+Year,Units,region,GeoCode,Value
 2013,seats held by women in national parliament (%),,36.3
 2017,seats held by women in national parliament (%),,30.7
-2011,"seats held by women in the parliament of (%):",baden-wuerttemberg,18.1
-2016,"seats held by women in the parliament of (%):",baden-wuerttemberg,24.5
-2013,"seats held by women in the parliament of (%):",bavaria,29.4
-2018,"seats held by women in the parliament of (%):",bavaria,26.8
-2011,"seats held by women in the parliament of (%):",berlin,34.9
-2016,"seats held by women in the parliament of (%):",berlin,33.1
-2014,"seats held by women in the parliament of (%):",brandenburg,34.1
-2011,"seats held by women in the parliament of (%):",bremen,43.4
-2015,"seats held by women in the parliament of (%):",bremen,33.7
-2011,"seats held by women in the parliament of (%):",hamburg,38.8
-2015,"seats held by women in the parliament of (%):",hamburg,38.8
-2013,"seats held by women in the parliament of (%):",hesse,31.8
-2018,"seats held by women in the parliament of (%):",hesse,33.6
-2013,"seats held by women in the parliament of (%):",lower saxony,29.2
-2017,"seats held by women in the parliament of (%):",lower saxony,27.7
-2011,"seats held by women in the parliament of (%):",mecklenburg western pomerania,28.2
-2016,"seats held by women in the parliament of (%):",mecklenburg western pomerania,25.4
-2010,"seats held by women in the parliament of (%):",north rhine-westphalia,27.1
-2012,"seats held by women in the parliament of (%):",north rhine-westphalia,30.0
-2017,"seats held by women in the parliament of (%):",north rhine-westphalia,27.1
-2011,"seats held by women in the parliament of (%):",rhineland palatinate,41.6
-2016,"seats held by women in the parliament of (%):",rhineland palatinate,35.6
-2012,"seats held by women in the parliament of (%):",saarland,39.2
-2017,"seats held by women in the parliament of (%):",saarland,35.3
-2014,"seats held by women in the parliament of (%):",saxony,31.7
-2011,"seats held by women in the parliament of (%):",saxony-anhalt,31.4
-2016,"seats held by women in the parliament of (%):",saxony-anhalt,26.4
-2012,"seats held by women in the parliament of (%):",schleswig-holstein,31.9
-2017,"seats held by women in the parliament of (%):",schleswig-holstein,30.1
-2014,"seats held by women in the parliament of (%):",thuringia,38.5
+2011,"seats held by women in the parliament of (%):",baden-wuerttemberg,2,18.1
+2016,"seats held by women in the parliament of (%):",baden-wuerttemberg,2,24.5
+2013,"seats held by women in the parliament of (%):",bavaria,33,29.4
+2018,"seats held by women in the parliament of (%):",bavaria,33,26.8
+2011,"seats held by women in the parliament of (%):",berlin,11,34.9
+2016,"seats held by women in the parliament of (%):",berlin,11,33.1
+2014,"seats held by women in the parliament of (%):",brandenburg,7,34.1
+2011,"seats held by women in the parliament of (%):",bremen,5,43.4
+2015,"seats held by women in the parliament of (%):",bremen,5,33.7
+2011,"seats held by women in the parliament of (%):",hamburg,23,38.8
+2015,"seats held by women in the parliament of (%):",hamburg,23,38.8
+2013,"seats held by women in the parliament of (%):",hesse,6,31.8
+2018,"seats held by women in the parliament of (%):",hesse,6,33.6
+2013,"seats held by women in the parliament of (%):",lower saxony,8,29.2
+2017,"seats held by women in the parliament of (%):",lower saxony,8,27.7
+2011,"seats held by women in the parliament of (%):",mecklenburg western pomerania,9,28.2
+2016,"seats held by women in the parliament of (%):",mecklenburg western pomerania,9,25.4
+2010,"seats held by women in the parliament of (%):",north rhine-westphalia,3,27.1
+2012,"seats held by women in the parliament of (%):",north rhine-westphalia,3,30.0
+2017,"seats held by women in the parliament of (%):",north rhine-westphalia,3,27.1
+2011,"seats held by women in the parliament of (%):",rhineland palatinate,10,41.6
+2016,"seats held by women in the parliament of (%):",rhineland palatinate,10,35.6
+2012,"seats held by women in the parliament of (%):",saarland,1,39.2
+2017,"seats held by women in the parliament of (%):",saarland,1,35.3
+2014,"seats held by women in the parliament of (%):",saxony,21,31.7
+2011,"seats held by women in the parliament of (%):",saxony-anhalt,22,31.4
+2016,"seats held by women in the parliament of (%):",saxony-anhalt,22,26.4
+2012,"seats held by women in the parliament of (%):",schleswig-holstein,26,31.9
+2017,"seats held by women in the parliament of (%):",schleswig-holstein,26,30.1
+2014,"seats held by women in the parliament of (%):",thuringia,31,38.5
