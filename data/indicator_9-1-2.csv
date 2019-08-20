@@ -6,8 +6,6 @@ Year,Units,mode of transport,Value
 2014,a) passenger transport (mn pkm),,1162858
 2015,a) passenger transport (mn pkm),,1180505
 2016,a) passenger transport (mn pkm),,1204690
-2017,a) passenger transport (mn pkm),,
-2018,a) passenger transport (mn pkm),,
 2010,a) passenger transport (mn pkm),road transport,78092
 2011,a) passenger transport (mn pkm),road transport,77957
 2012,a) passenger transport (mn pkm),road transport,76019
@@ -15,8 +13,6 @@ Year,Units,mode of transport,Value
 2014,a) passenger transport (mn pkm),road transport,78786
 2015,a) passenger transport (mn pkm),road transport,81771
 2016,a) passenger transport (mn pkm),road transport,81094
-2017,a) passenger transport (mn pkm),road transport,
-2018,a) passenger transport (mn pkm),road transport,
 2010,a) passenger transport (mn pkm),rail transport,83886
 2011,a) passenger transport (mn pkm),rail transport,85414
 2012,a) passenger transport (mn pkm),rail transport,88796
@@ -24,8 +20,6 @@ Year,Units,mode of transport,Value
 2014,a) passenger transport (mn pkm),rail transport,90976
 2015,a) passenger transport (mn pkm),rail transport,91709
 2016,a) passenger transport (mn pkm),rail transport,94197
-2017,a) passenger transport (mn pkm),rail transport,
-2018,a) passenger transport (mn pkm),rail transport,
 2010,a) passenger transport (mn pkm),commercial air transport,52822
 2011,a) passenger transport (mn pkm),commercial air transport,55216
 2012,a) passenger transport (mn pkm),commercial air transport,56180
@@ -34,7 +28,6 @@ Year,Units,mode of transport,Value
 2015,a) passenger transport (mn pkm),commercial air transport,61295
 2016,a) passenger transport (mn pkm),commercial air transport,63939
 2017,a) passenger transport (mn pkm),commercial air transport,67523
-2018,a) passenger transport (mn pkm),commercial air transport,
 2010,a) passenger transport (mn pkm),motorised private transport,902440
 2011,a) passenger transport (mn pkm),motorised private transport,912417
 2012,a) passenger transport (mn pkm),motorised private transport,914563
@@ -42,8 +35,6 @@ Year,Units,mode of transport,Value
 2014,a) passenger transport (mn pkm),motorised private transport,934960
 2015,a) passenger transport (mn pkm),motorised private transport,945730
 2016,a) passenger transport (mn pkm),motorised private transport,965460
-2017,a) passenger transport (mn pkm),motorised private transport,
-2018,a) passenger transport (mn pkm),motorised private transport,
 2010,b) freight transport (mn tkm),,627857
 2011,b) freight transport (mn tkm),,627966
 2012,b) freight transport (mn tkm),,618911
@@ -51,8 +42,6 @@ Year,Units,mode of transport,Value
 2014,b) freight transport (mn tkm),,643567
 2015,b) freight transport (mn tkm),,651928
 2016,b) freight transport (mn tkm),,666923
-2017,b) freight transport (mn tkm),,
-2018,b) freight transport (mn tkm),,
 2010,b) freight transport (mn tkm),road transport,440600
 2011,b) freight transport (mn tkm),road transport,442635
 2012,b) freight transport (mn tkm),road transport,431999
@@ -60,8 +49,6 @@ Year,Units,mode of transport,Value
 2014,b) freight transport (mn tkm),road transport,452939
 2015,b) freight transport (mn tkm),road transport,460200
 2016,b) freight transport (mn tkm),road transport,464000
-2017,b) freight transport (mn tkm),road transport,
-2018,b) freight transport (mn tkm),road transport,
 2010,b) freight transport (mn tkm),rail transport,107292
 2011,b) freight transport (mn tkm),rail transport,113201
 2012,b) freight transport (mn tkm),rail transport,110797
@@ -70,7 +57,6 @@ Year,Units,mode of transport,Value
 2015,b) freight transport (mn tkm),rail transport,117252
 2016,b) freight transport (mn tkm),rail transport,128296
 2017,b) freight transport (mn tkm),rail transport,129361
-2018,b) freight transport (mn tkm),rail transport,
 2010,b) freight transport (mn tkm),inland waterway transport,62278
 2011,b) freight transport (mn tkm),inland waterway transport,55027
 2012,b) freight transport (mn tkm),inland waterway transport,58488
@@ -88,7 +74,6 @@ Year,Units,mode of transport,Value
 2015,b) freight transport (mn tkm),commercial air transport,1447
 2016,b) freight transport (mn tkm),commercial air transport,1519
 2017,b) freight transport (mn tkm),commercial air transport,1617
-2018,b) freight transport (mn tkm),commercial air transport,
 2010,b) freight transport (mn tkm),transport via pipeline: crude oil,16259
 2011,b) freight transport (mn tkm),transport via pipeline: crude oil,15623
 2012,b) freight transport (mn tkm),transport via pipeline: crude oil,16207

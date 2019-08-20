@@ -7,7 +7,6 @@ Year,Units,technology,Value
 2015,households covered by (%):,3g,91.9
 2016,households covered by (%):,3g,91.4
 2017,households covered by (%):,3g,90.6
-2018,households covered by (%):,3g,
 2010,households covered by (%):,lte,2.1
 2011,households covered by (%):,lte,21.5
 2012,households covered by (%):,lte,51.7
@@ -16,4 +15,3 @@ Year,Units,technology,Value
 2015,households covered by (%):,lte,95.7
 2016,households covered by (%):,lte,96.2
 2017,households covered by (%):,lte,96.2
-2018,households covered by (%):,lte,

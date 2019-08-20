@@ -7,7 +7,6 @@ Year,Units,region,GeoCode,Value
 2015,proportion of r&d expenditures to gdp (%),,,2.9
 2016,proportion of r&d expenditures to gdp (%),,,2.9
 2017,proportion of r&d expenditures to gdp (%),,,3.0
-2018,proportion of r&d expenditures to gdp (%),,,
 2010,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,4.42926808279665
 2011,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,4.79665913244731
 2012,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,4.91563734495782
@@ -15,8 +14,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,4.90925414346172
 2015,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,4.93933173616955
 2016,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,4.92
-2017,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,
-2018,proportion of r&d expenditures to gdp (%),baden-wuerttemberg,2,
 2010,proportion of r&d expenditures to gdp (%),bavaria,33,3.02585023259919
 2011,proportion of r&d expenditures to gdp (%),bavaria,33,3.00072086965266
 2012,proportion of r&d expenditures to gdp (%),bavaria,33,3.09820125057356
@@ -24,8 +21,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),bavaria,33,3.16861790445461
 2015,proportion of r&d expenditures to gdp (%),bavaria,33,3.16564118499182
 2016,proportion of r&d expenditures to gdp (%),bavaria,33,3.17
-2017,proportion of r&d expenditures to gdp (%),bavaria,33,
-2018,proportion of r&d expenditures to gdp (%),bavaria,33,
 2010,proportion of r&d expenditures to gdp (%),berlin,11,3.42760889772759
 2011,proportion of r&d expenditures to gdp (%),berlin,11,3.33750764870926
 2012,proportion of r&d expenditures to gdp (%),berlin,11,3.43358853135013
@@ -33,8 +28,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),berlin,11,3.6463835279249
 2015,proportion of r&d expenditures to gdp (%),berlin,11,3.56238789560407
 2016,proportion of r&d expenditures to gdp (%),berlin,11,3.49
-2017,proportion of r&d expenditures to gdp (%),berlin,11,
-2018,proportion of r&d expenditures to gdp (%),berlin,11,
 2010,proportion of r&d expenditures to gdp (%),brandenburg,7,1.41955174792905
 2011,proportion of r&d expenditures to gdp (%),brandenburg,7,1.6540319756926
 2012,proportion of r&d expenditures to gdp (%),brandenburg,7,1.65209452864756
@@ -42,8 +35,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),brandenburg,7,1.58391472786128
 2015,proportion of r&d expenditures to gdp (%),brandenburg,7,1.64655356106293
 2016,proportion of r&d expenditures to gdp (%),brandenburg,7,1.73
-2017,proportion of r&d expenditures to gdp (%),brandenburg,7,
-2018,proportion of r&d expenditures to gdp (%),brandenburg,7,
 2010,proportion of r&d expenditures to gdp (%),bremen,5,2.63665412530188
 2011,proportion of r&d expenditures to gdp (%),bremen,5,2.71836908121119
 2012,proportion of r&d expenditures to gdp (%),bremen,5,2.61531931407829
@@ -51,8 +42,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),bremen,5,2.85215227456714
 2015,proportion of r&d expenditures to gdp (%),bremen,5,2.80032062729467
 2016,proportion of r&d expenditures to gdp (%),bremen,5,2.84
-2017,proportion of r&d expenditures to gdp (%),bremen,5,
-2018,proportion of r&d expenditures to gdp (%),bremen,5,
 2010,proportion of r&d expenditures to gdp (%),hamburg,23,2.08532935699702
 2011,proportion of r&d expenditures to gdp (%),hamburg,23,2.19016544804938
 2012,proportion of r&d expenditures to gdp (%),hamburg,23,2.2423115684906
@@ -60,8 +49,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),hamburg,23,2.34843279339937
 2015,proportion of r&d expenditures to gdp (%),hamburg,23,2.240644858149
 2016,proportion of r&d expenditures to gdp (%),hamburg,23,2.22
-2017,proportion of r&d expenditures to gdp (%),hamburg,23,
-2018,proportion of r&d expenditures to gdp (%),hamburg,23,
 2010,proportion of r&d expenditures to gdp (%),hesse,6,2.98240844332421
 2011,proportion of r&d expenditures to gdp (%),hesse,6,2.90019778465375
 2012,proportion of r&d expenditures to gdp (%),hesse,6,3.01416227138444
@@ -69,8 +56,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),hesse,6,2.87656389222736
 2015,proportion of r&d expenditures to gdp (%),hesse,6,2.82387955383674
 2016,proportion of r&d expenditures to gdp (%),hesse,6,2.88
-2017,proportion of r&d expenditures to gdp (%),hesse,6,
-2018,proportion of r&d expenditures to gdp (%),hesse,6,
 2010,proportion of r&d expenditures to gdp (%),lower saxony,8,2.56808458492327
 2011,proportion of r&d expenditures to gdp (%),lower saxony,8,2.74230411805037
 2012,proportion of r&d expenditures to gdp (%),lower saxony,8,2.79333012727938
@@ -78,8 +63,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),lower saxony,8,2.91483075957623
 2015,proportion of r&d expenditures to gdp (%),lower saxony,8,3.45419173527716
 2016,proportion of r&d expenditures to gdp (%),lower saxony,8,3.31
-2017,proportion of r&d expenditures to gdp (%),lower saxony,8,
-2018,proportion of r&d expenditures to gdp (%),lower saxony,8,
 2010,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,1.97007707593006
 2011,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,2.04800583441499
 2012,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,2.09721634289095
@@ -87,8 +70,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,1.87781252607161
 2015,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,1.87383525100519
 2016,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,1.85
-2017,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,
-2018,proportion of r&d expenditures to gdp (%),mecklenburg western pomerania,9,
 2010,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,1.94358618185796
 2011,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,1.96267480389281
 2012,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,2.04393775177843
@@ -96,8 +77,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,1.98787223069899
 2015,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,1.95601463493232
 2016,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,1.98
-2017,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,
-2018,proportion of r&d expenditures to gdp (%),north rhine-westphalia,3,
 2010,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,2.01446653044041
 2011,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,1.99579872772923
 2012,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,2.00869639051211
@@ -105,8 +84,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,2.13672037988596
 2015,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,2.35383783560975
 2016,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,2.44
-2017,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,
-2018,proportion of r&d expenditures to gdp (%),rhineland palatinate,10,
 2010,proportion of r&d expenditures to gdp (%),saarland,1,1.28986999053267
 2011,proportion of r&d expenditures to gdp (%),saarland,1,1.47330877511999
 2012,proportion of r&d expenditures to gdp (%),saarland,1,1.45571510991189
@@ -114,8 +91,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),saarland,1,1.41520731049138
 2015,proportion of r&d expenditures to gdp (%),saarland,1,1.54426347838314
 2016,proportion of r&d expenditures to gdp (%),saarland,1,1.55
-2017,proportion of r&d expenditures to gdp (%),saarland,1,
-2018,proportion of r&d expenditures to gdp (%),saarland,1,
 2010,proportion of r&d expenditures to gdp (%),saxony,21,2.77921466522237
 2011,proportion of r&d expenditures to gdp (%),saxony,21,2.80073135167381
 2012,proportion of r&d expenditures to gdp (%),saxony,21,2.79564261505181
@@ -123,8 +98,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),saxony,21,2.66979072490592
 2015,proportion of r&d expenditures to gdp (%),saxony,21,2.7289225186326
 2016,proportion of r&d expenditures to gdp (%),saxony,21,2.71
-2017,proportion of r&d expenditures to gdp (%),saxony,21,
-2018,proportion of r&d expenditures to gdp (%),saxony,21,
 2010,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,1.40107648125701
 2011,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,1.47995368450775
 2012,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,1.39865938953463
@@ -132,8 +105,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,1.45579609679901
 2015,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,1.39994438944097
 2016,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,1.46
-2017,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,
-2018,proportion of r&d expenditures to gdp (%),saxony-anhalt,22,
 2010,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,1.30040529798666
 2011,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,1.40973657053183
 2012,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,1.42750899309982
@@ -141,8 +112,6 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,1.53471032131163
 2015,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,1.47215090246939
 2016,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,1.49
-2017,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,
-2018,proportion of r&d expenditures to gdp (%),schleswig-holstein,26,
 2010,proportion of r&d expenditures to gdp (%),thuringia,31,2.15872479035665
 2011,proportion of r&d expenditures to gdp (%),thuringia,31,2.12353714894878
 2012,proportion of r&d expenditures to gdp (%),thuringia,31,2.18950608014883
@@ -150,5 +119,3 @@ Year,Units,region,GeoCode,Value
 2014,proportion of r&d expenditures to gdp (%),thuringia,31,2.12848585524511
 2015,proportion of r&d expenditures to gdp (%),thuringia,31,2.01208711491091
 2016,proportion of r&d expenditures to gdp (%),thuringia,31,2.05
-2017,proportion of r&d expenditures to gdp (%),thuringia,31,
-2018,proportion of r&d expenditures to gdp (%),thuringia,31,

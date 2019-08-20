@@ -1,13 +1,8 @@
 Year,Units,type of account,Value
-2010,accounts at payment service providers (1 000),,
-2011,accounts at payment service providers (1 000),,
-2012,accounts at payment service providers (1 000),,
-2013,accounts at payment service providers (1 000),,
 2014,accounts at payment service providers (1 000),,145480
 2015,accounts at payment service providers (1 000),,148138
 2016,accounts at payment service providers (1 000),,150051
 2017,accounts at payment service providers (1 000),,150431
-2018,accounts at payment service providers (1 000),,
 2010,accounts at payment service providers (1 000),current accounts,94982
 2011,accounts at payment service providers (1 000),current accounts,95684
 2012,accounts at payment service providers (1 000),current accounts,96858
@@ -16,13 +11,7 @@ Year,Units,type of account,Value
 2015,accounts at payment service providers (1 000),current accounts,101661
 2016,accounts at payment service providers (1 000),current accounts,103175
 2017,accounts at payment service providers (1 000),current accounts,102972
-2018,accounts at payment service providers (1 000),current accounts,
-2010,accounts at payment service providers (1 000),online accounts,
-2011,accounts at payment service providers (1 000),online accounts,
-2012,accounts at payment service providers (1 000),online accounts,
-2013,accounts at payment service providers (1 000),online accounts,
 2014,accounts at payment service providers (1 000),online accounts,78631
 2015,accounts at payment service providers (1 000),online accounts,81488
 2016,accounts at payment service providers (1 000),online accounts,85434
 2017,accounts at payment service providers (1 000),online accounts,88680
-2018,accounts at payment service providers (1 000),online accounts,
