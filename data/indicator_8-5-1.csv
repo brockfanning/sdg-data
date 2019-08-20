@@ -1,37 +1,181 @@
-Year,Units,sex,Value
-2010,average hourly earnings of employees (eur/h),,
-2011,average hourly earnings of employees (eur/h),,
-2012,average hourly earnings of employees (eur/h),,
-2013,average hourly earnings of employees (eur/h),,
-2014,average hourly earnings of employees (eur/h),,17.78
-2015,average hourly earnings of employees (eur/h),,
-2016,average hourly earnings of employees (eur/h),,
-2017,average hourly earnings of employees (eur/h),,
-2018,average hourly earnings of employees (eur/h),,
-2010,gender pay gap (%),,22
-2011,gender pay gap (%),,22
-2012,gender pay gap (%),,23
-2013,gender pay gap (%),,22
-2014,gender pay gap (%),,22
-2015,gender pay gap (%),,22
-2016,gender pay gap (%),,21
-2017,gender pay gap (%),,21
-2018,gender pay gap (%),,21
-2010,average hourly earnings of employees (eur/h),female,14.62
-2011,average hourly earnings of employees (eur/h),female,14.88
-2012,average hourly earnings of employees (eur/h),female,15.18
-2013,average hourly earnings of employees (eur/h),female,15.50
-2014,average hourly earnings of employees (eur/h),female,15.44
-2015,average hourly earnings of employees (eur/h),female,15.80
-2016,average hourly earnings of employees (eur/h),female,16.26
-2017,average hourly earnings of employees (eur/h),female,16.59
-2018,average hourly earnings of employees (eur/h),female,17.09
-2010,average hourly earnings of employees (eur/h),male,18.81
-2011,average hourly earnings of employees (eur/h),male,19.17
-2012,average hourly earnings of employees (eur/h),male,19.63
-2013,average hourly earnings of employees (eur/h),male,19.89
-2014,average hourly earnings of employees (eur/h),male,19.87
-2015,average hourly earnings of employees (eur/h),male,20.25
-2016,average hourly earnings of employees (eur/h),male,20.71
-2017,average hourly earnings of employees (eur/h),male,21.00
-2018,average hourly earnings of employees (eur/h),male,21.60
+Year,Units,sex,region,GeoCode,Value
+2010,average hourly earnings of employees (eur/h),,,,
+2011,average hourly earnings of employees (eur/h),,,,
+2012,average hourly earnings of employees (eur/h),,,,
+2013,average hourly earnings of employees (eur/h),,,,
+2014,average hourly earnings of employees (eur/h),,,,17.78
+2015,average hourly earnings of employees (eur/h),,,,
+2016,average hourly earnings of employees (eur/h),,,,
+2017,average hourly earnings of employees (eur/h),,,,
+2018,average hourly earnings of employees (eur/h),,,,
+2010,gender pay gap (%),,,,22
+2011,gender pay gap (%),,,,22
+2012,gender pay gap (%),,,,23
+2013,gender pay gap (%),,,,22
+2014,gender pay gap (%),,,,22
+2015,gender pay gap (%),,,,22
+2016,gender pay gap (%),,,,21
+2017,gender pay gap (%),,,,21
+2018,gender pay gap (%),,,,21
+2010,average hourly earnings of employees (eur/h),female,,,14.62
+2011,average hourly earnings of employees (eur/h),female,,,14.88
+2012,average hourly earnings of employees (eur/h),female,,,15.18
+2013,average hourly earnings of employees (eur/h),female,,,15.50
+2014,average hourly earnings of employees (eur/h),female,,,15.44
+2015,average hourly earnings of employees (eur/h),female,,,15.80
+2016,average hourly earnings of employees (eur/h),female,,,16.26
+2017,average hourly earnings of employees (eur/h),female,,,16.59
+2018,average hourly earnings of employees (eur/h),female,,,17.09
+2010,average hourly earnings of employees (eur/h),male,,,18.81
+2011,average hourly earnings of employees (eur/h),male,,,19.17
+2012,average hourly earnings of employees (eur/h),male,,,19.63
+2013,average hourly earnings of employees (eur/h),male,,,19.89
+2014,average hourly earnings of employees (eur/h),male,,,19.87
+2015,average hourly earnings of employees (eur/h),male,,,20.25
+2016,average hourly earnings of employees (eur/h),male,,,20.71
+2017,average hourly earnings of employees (eur/h),male,,,21.00
+2018,average hourly earnings of employees (eur/h),male,,,21.60
+2010,gender pay gap (%),,baden-wuerttemberg,2,27
+2011,gender pay gap (%),,baden-wuerttemberg,2,27
+2012,gender pay gap (%),,baden-wuerttemberg,2,27
+2013,gender pay gap (%),,baden-wuerttemberg,2,27
+2014,gender pay gap (%),,baden-wuerttemberg,2,27
+2015,gender pay gap (%),,baden-wuerttemberg,2,27
+2016,gender pay gap (%),,baden-wuerttemberg,2,27
+2017,gender pay gap (%),,baden-wuerttemberg,2,27
+2018,gender pay gap (%),,baden-wuerttemberg,2,
+2010,gender pay gap (%),,bavaria,33,26
+2011,gender pay gap (%),,bavaria,33,25
+2012,gender pay gap (%),,bavaria,33,25
+2013,gender pay gap (%),,bavaria,33,25
+2014,gender pay gap (%),,bavaria,33,25
+2015,gender pay gap (%),,bavaria,33,24
+2016,gender pay gap (%),,bavaria,33,24
+2017,gender pay gap (%),,bavaria,33,24
+2018,gender pay gap (%),,bavaria,33,
+2010,gender pay gap (%),,berlin,11,14
+2011,gender pay gap (%),,berlin,11,15
+2012,gender pay gap (%),,berlin,11,15
+2013,gender pay gap (%),,berlin,11,14
+2014,gender pay gap (%),,berlin,11,14
+2015,gender pay gap (%),,berlin,11,15
+2016,gender pay gap (%),,berlin,11,14
+2017,gender pay gap (%),,berlin,11,13
+2018,gender pay gap (%),,berlin,11,
+2010,gender pay gap (%),,brandenburg,7,7
+2011,gender pay gap (%),,brandenburg,7,6
+2012,gender pay gap (%),,brandenburg,7,7
+2013,gender pay gap (%),,brandenburg,7,5
+2014,gender pay gap (%),,brandenburg,7,7
+2015,gender pay gap (%),,brandenburg,7,4
+2016,gender pay gap (%),,brandenburg,7,4
+2017,gender pay gap (%),,brandenburg,7,3
+2018,gender pay gap (%),,brandenburg,7,
+2010,gender pay gap (%),,bremen,5,24
+2011,gender pay gap (%),,bremen,5,24
+2012,gender pay gap (%),,bremen,5,27
+2013,gender pay gap (%),,bremen,5,25
+2014,gender pay gap (%),,bremen,5,25
+2015,gender pay gap (%),,bremen,5,24
+2016,gender pay gap (%),,bremen,5,23
+2017,gender pay gap (%),,bremen,5,23
+2018,gender pay gap (%),,bremen,5,
+2010,gender pay gap (%),,hamburg,23,23
+2011,gender pay gap (%),,hamburg,23,22
+2012,gender pay gap (%),,hamburg,23,24
+2013,gender pay gap (%),,hamburg,23,23
+2014,gender pay gap (%),,hamburg,23,22
+2015,gender pay gap (%),,hamburg,23,21
+2016,gender pay gap (%),,hamburg,23,20
+2017,gender pay gap (%),,hamburg,23,20
+2018,gender pay gap (%),,hamburg,23,
+2010,gender pay gap (%),,hesse,6,25
+2011,gender pay gap (%),,hesse,6,25
+2012,gender pay gap (%),,hesse,6,24
+2013,gender pay gap (%),,hesse,6,23
+2014,gender pay gap (%),,hesse,6,24
+2015,gender pay gap (%),,hesse,6,24
+2016,gender pay gap (%),,hesse,6,23
+2017,gender pay gap (%),,hesse,6,24
+2018,gender pay gap (%),,hesse,6,
+2010,gender pay gap (%),,lower saxony,8,22
+2011,gender pay gap (%),,lower saxony,8,22
+2012,gender pay gap (%),,lower saxony,8,21
+2013,gender pay gap (%),,lower saxony,8,20
+2014,gender pay gap (%),,lower saxony,8,22
+2015,gender pay gap (%),,lower saxony,8,21
+2016,gender pay gap (%),,lower saxony,8,20
+2017,gender pay gap (%),,lower saxony,8,20
+2018,gender pay gap (%),,lower saxony,8,
+2010,gender pay gap (%),,mecklenburg western pomerania,9,4
+2011,gender pay gap (%),,mecklenburg western pomerania,9,6
+2012,gender pay gap (%),,mecklenburg western pomerania,9,7
+2013,gender pay gap (%),,mecklenburg western pomerania,9,6
+2014,gender pay gap (%),,mecklenburg western pomerania,9,8
+2015,gender pay gap (%),,mecklenburg western pomerania,9,7
+2016,gender pay gap (%),,mecklenburg western pomerania,9,6
+2017,gender pay gap (%),,mecklenburg western pomerania,9,5
+2018,gender pay gap (%),,mecklenburg western pomerania,9,
+2010,gender pay gap (%),,north rhine-westphalia,3,23
+2011,gender pay gap (%),,north rhine-westphalia,3,23
+2012,gender pay gap (%),,north rhine-westphalia,3,24
+2013,gender pay gap (%),,north rhine-westphalia,3,23
+2014,gender pay gap (%),,north rhine-westphalia,3,23
+2015,gender pay gap (%),,north rhine-westphalia,3,23
+2016,gender pay gap (%),,north rhine-westphalia,3,22
+2017,gender pay gap (%),,north rhine-westphalia,3,22
+2018,gender pay gap (%),,north rhine-westphalia,3,
+2010,gender pay gap (%),,rhineland palatinate,10,22
+2011,gender pay gap (%),,rhineland palatinate,10,22
+2012,gender pay gap (%),,rhineland palatinate,10,22
+2013,gender pay gap (%),,rhineland palatinate,10,22
+2014,gender pay gap (%),,rhineland palatinate,10,21
+2015,gender pay gap (%),,rhineland palatinate,10,21
+2016,gender pay gap (%),,rhineland palatinate,10,20
+2017,gender pay gap (%),,rhineland palatinate,10,20
+2018,gender pay gap (%),,rhineland palatinate,10,
+2010,gender pay gap (%),,saarland,1,25
+2011,gender pay gap (%),,saarland,1,25
+2012,gender pay gap (%),,saarland,1,25
+2013,gender pay gap (%),,saarland,1,24
+2014,gender pay gap (%),,saarland,1,23
+2015,gender pay gap (%),,saarland,1,24
+2016,gender pay gap (%),,saarland,1,24
+2017,gender pay gap (%),,saarland,1,23
+2018,gender pay gap (%),,saarland,1,
+2010,gender pay gap (%),,saxony,21,9
+2011,gender pay gap (%),,saxony,21,10
+2012,gender pay gap (%),,saxony,21,11
+2013,gender pay gap (%),,saxony,21,11
+2014,gender pay gap (%),,saxony,21,11
+2015,gender pay gap (%),,saxony,21,11
+2016,gender pay gap (%),,saxony,21,11
+2017,gender pay gap (%),,saxony,21,11
+2018,gender pay gap (%),,saxony,21,
+2010,gender pay gap (%),,saxony-anhalt,22,4
+2011,gender pay gap (%),,saxony-anhalt,22,5
+2012,gender pay gap (%),,saxony-anhalt,22,5
+2013,gender pay gap (%),,saxony-anhalt,22,4
+2014,gender pay gap (%),,saxony-anhalt,22,5
+2015,gender pay gap (%),,saxony-anhalt,22,2
+2016,gender pay gap (%),,saxony-anhalt,22,2
+2017,gender pay gap (%),,saxony-anhalt,22,2
+2018,gender pay gap (%),,saxony-anhalt,22,
+2010,gender pay gap (%),,schleswig-holstein,26,18
+2011,gender pay gap (%),,schleswig-holstein,26,17
+2012,gender pay gap (%),,schleswig-holstein,26,18
+2013,gender pay gap (%),,schleswig-holstein,26,18
+2014,gender pay gap (%),,schleswig-holstein,26,17
+2015,gender pay gap (%),,schleswig-holstein,26,17
+2016,gender pay gap (%),,schleswig-holstein,26,17
+2017,gender pay gap (%),,schleswig-holstein,26,15
+2018,gender pay gap (%),,schleswig-holstein,26,
+2010,gender pay gap (%),,thuringia,31,6
+2011,gender pay gap (%),,thuringia,31,7
+2012,gender pay gap (%),,thuringia,31,8
+2013,gender pay gap (%),,thuringia,31,9
+2014,gender pay gap (%),,thuringia,31,8
+2015,gender pay gap (%),,thuringia,31,10
+2016,gender pay gap (%),,thuringia,31,9
+2017,gender pay gap (%),,thuringia,31,8
+2018,gender pay gap (%),,thuringia,31,
