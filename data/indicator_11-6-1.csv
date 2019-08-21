@@ -1,10 +1,10 @@
-Year,Units,Value
-2016,total municipal solid waste generated (1 000 t),53018
-2010,municipal solid waste regularly collected and treated (%),100
-2011,municipal solid waste regularly collected and treated (%),100
-2012,municipal solid waste regularly collected and treated (%),100
-2013,municipal solid waste regularly collected and treated (%),100
-2014,municipal solid waste regularly collected and treated (%),100
-2015,municipal solid waste regularly collected and treated (%),100
-2016,municipal solid waste regularly collected and treated (%),100
-2017,municipal solid waste regularly collected and treated (%),100
+Year,Units,timeseries,Value
+2016,1 000 t,total municipal solid waste generated,53018
+2010,%,municipal solid waste regularly collected and treated,100
+2011,%,municipal solid waste regularly collected and treated,100
+2012,%,municipal solid waste regularly collected and treated,100
+2013,%,municipal solid waste regularly collected and treated,100
+2014,%,municipal solid waste regularly collected and treated,100
+2015,%,municipal solid waste regularly collected and treated,100
+2016,%,municipal solid waste regularly collected and treated,100
+2017,%,municipal solid waste regularly collected and treated,100

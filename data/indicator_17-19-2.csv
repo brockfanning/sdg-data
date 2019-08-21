@@ -1,28 +1,28 @@
-Year,Units,Value
-2010,a) at least one population and housing census in the last 10 years conducted (number),0
-2011,a) at least one population and housing census in the last 10 years conducted (number),1
-2012,a) at least one population and housing census in the last 10 years conducted (number),1
-2013,a) at least one population and housing census in the last 10 years conducted (number),1
-2014,a) at least one population and housing census in the last 10 years conducted (number),1
-2015,a) at least one population and housing census in the last 10 years conducted (number),1
-2016,a) at least one population and housing census in the last 10 years conducted (number),1
-2017,a) at least one population and housing census in the last 10 years conducted (number),1
-2018,a) at least one population and housing census in the last 10 years conducted (number),1
-2010,b) birth registration (%),100.0
-2011,b) birth registration (%),100.0
-2012,b) birth registration (%),100.0
-2013,b) birth registration (%),100.0
-2014,b) birth registration (%),100.0
-2015,b) birth registration (%),100.0
-2016,b) birth registration (%),100.0
-2017,b) birth registration (%),100.0
-2018,b) birth registration (%),100.0
-2010,c) death registration (%),100.0
-2011,c) death registration (%),100.0
-2012,c) death registration (%),100.0
-2013,c) death registration (%),100.0
-2014,c) death registration (%),100.0
-2015,c) death registration (%),100.0
-2016,c) death registration (%),100.0
-2017,c) death registration (%),100.0
-2018,c) death registration (%),100.0
+Year,Units,timeseries,Value
+2010,number,a) at least one population and housing census in the last 10 years conducted,0.0
+2011,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2012,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2013,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2014,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2015,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2016,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2017,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2018,number,a) at least one population and housing census in the last 10 years conducted,1.0
+2010,%,b) birth registration,100.0
+2011,%,b) birth registration,100.0
+2012,%,b) birth registration,100.0
+2013,%,b) birth registration,100.0
+2014,%,b) birth registration,100.0
+2015,%,b) birth registration,100.0
+2016,%,b) birth registration,100.0
+2017,%,b) birth registration,100.0
+2018,%,b) birth registration,100.0
+2010,%,c) death registration,100.0
+2011,%,c) death registration,100.0
+2012,%,c) death registration,100.0
+2013,%,c) death registration,100.0
+2014,%,c) death registration,100.0
+2015,%,c) death registration,100.0
+2016,%,c) death registration,100.0
+2017,%,c) death registration,100.0
+2018,%,c) death registration,100.0

@@ -1,17 +1,17 @@
-Year,Units,Value
-2010,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",815.4
-2011,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",801.3
-2012,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",819.2
-2013,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",780.5
-2014,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",845.7
-2015,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",947.5
-2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",1000.3
-2017,"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))",1087.5
-2010,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",158.6
-2011,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",145.5
-2012,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",134.3
-2013,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",111.8
-2014,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",65.5
-2015,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",92.5
-2016,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",82.6
-2017,"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))",74.4
+Year,Units,timeseries,Value
+2010,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",815.4
+2011,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",801.3
+2012,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",819.2
+2013,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",780.5
+2014,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",845.7
+2015,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",947.5
+2016,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",1000.3
+2017,2016,"oda (gross disbursements) for imputed student costs (mn usd, constant prices",1087.5
+2010,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",158.6
+2011,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",145.5
+2012,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",134.3
+2013,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",111.8
+2014,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",65.5
+2015,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",92.5
+2016,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",82.6
+2017,2016,"oda (gross disbursements) for scholarships (mn usd, constant prices",74.4

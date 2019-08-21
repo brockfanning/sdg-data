@@ -1,10 +1,10 @@
-Year,Units,Value
-2010,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2011,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2012,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2013,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2014,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2015,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2016,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2017,transboundary basin area with an operational arrangement for water cooperation (%),100.0
-2018,transboundary basin area with an operational arrangement for water cooperation (%),100.0
+Year,Units,timeseries,Value
+2010,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2011,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2012,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2013,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2014,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2015,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2016,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2017,%,transboundary basin area with an operational arrangement for water cooperation,100.0
+2018,%,transboundary basin area with an operational arrangement for water cooperation,100.0

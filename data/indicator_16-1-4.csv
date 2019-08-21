@@ -1,9 +1,9 @@
-Year,Units,Value
-2010,"population not living in an area with crime, violence or vandalism (%)",88.0
-2011,"population not living in an area with crime, violence or vandalism (%)",87.1
-2012,"population not living in an area with crime, violence or vandalism (%)",87.5
-2013,"population not living in an area with crime, violence or vandalism (%)",86.5
-2014,"population not living in an area with crime, violence or vandalism (%)",86.9
-2015,"population not living in an area with crime, violence or vandalism (%)",86.2
-2016,"population not living in an area with crime, violence or vandalism (%)",85.9
-2017,"population not living in an area with crime, violence or vandalism (%)",85.8
+Year,Units,timeseries,Value
+2010,%,"population not living in an area with crime, violence or vandalism",88.0
+2011,%,"population not living in an area with crime, violence or vandalism",87.1
+2012,%,"population not living in an area with crime, violence or vandalism",87.5
+2013,%,"population not living in an area with crime, violence or vandalism",86.5
+2014,%,"population not living in an area with crime, violence or vandalism",86.9
+2015,%,"population not living in an area with crime, violence or vandalism",86.2
+2016,%,"population not living in an area with crime, violence or vandalism",85.9
+2017,%,"population not living in an area with crime, violence or vandalism",85.8

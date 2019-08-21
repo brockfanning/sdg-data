@@ -1,19 +1,19 @@
-Year,Units,Value
-2010,goverment spending on environmental protection (cofog section 5) (bn eur),15.479
-2011,goverment spending on environmental protection (cofog section 5) (bn eur),15.796
-2012,goverment spending on environmental protection (cofog section 5) (bn eur),16.569
-2013,goverment spending on environmental protection (cofog section 5) (bn eur),17.376
-2014,goverment spending on environmental protection (cofog section 5) (bn eur),17.689
-2015,goverment spending on environmental protection (cofog section 5) (bn eur),17.795
-2016,goverment spending on environmental protection (cofog section 5) (bn eur),19.279
-2017,goverment spending on environmental protection (cofog section 5) (bn eur),20.672
-2018,goverment spending on environmental protection (cofog section 5) (bn eur),22.021
-2010,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",20.992
-2011,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",21.550
-2012,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",20.681
-2013,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",29.030
-2014,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",30.520
-2015,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",31.142
-2016,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",32.285
-2017,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",33.277
-2018,"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)",34.961
+Year,Units,timeseries,Value
+2010,bn eur,goverment spending on environmental protection (cofog section 5),15.479000000000001
+2011,bn eur,goverment spending on environmental protection (cofog section 5),15.796
+2012,bn eur,goverment spending on environmental protection (cofog section 5),16.569000000000003
+2013,bn eur,goverment spending on environmental protection (cofog section 5),17.375999999999998
+2014,bn eur,goverment spending on environmental protection (cofog section 5),17.689
+2015,bn eur,goverment spending on environmental protection (cofog section 5),17.795
+2016,bn eur,goverment spending on environmental protection (cofog section 5),19.279
+2017,bn eur,goverment spending on environmental protection (cofog section 5),20.671999999999997
+2018,bn eur,goverment spending on environmental protection (cofog section 5),22.021
+2010,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",20.991999999999997
+2011,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",21.55
+2012,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",20.680999999999997
+2013,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",29.03
+2014,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",30.52
+2015,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",31.142
+2016,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",32.285
+2017,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",33.277
+2018,bn eur,"goverment spending on recreation, culture and religion (cofog section 8)",34.961

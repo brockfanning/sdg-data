@@ -1,17 +1,17 @@
-Year,Units,Value
-2010,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1115.4
-2011,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",974.9
-2012,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",878.6
-2013,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",972.6
-2014,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1275.0
-2015,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1768.3
-2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1413.7
-2017,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",2331.7
-2010,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",821.9
-2011,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",847.9
-2012,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",882.1
-2013,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",954.0
-2014,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1062.0
-2015,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1459.0
-2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1338.5
-2017,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",1673.6
+Year,Units,timeseries,Value
+2010,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1115.4
+2011,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",974.9
+2012,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",878.6
+2013,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",972.6
+2014,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1275.0
+2015,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1768.3
+2016,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1413.7
+2017,2016,"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",2331.7
+2010,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",821.9
+2011,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",847.9
+2012,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",882.1
+2013,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",954.0
+2014,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1062.0
+2015,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1459.0
+2016,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1338.5
+2017,2016,"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices",1673.6

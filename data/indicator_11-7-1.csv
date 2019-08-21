@@ -1,8 +1,8 @@
-Year,Units,Value
-2010,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%),14.9
-2011,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%),15.2
-2012,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%),15.3
-2013,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%),15.4
-2014,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%),15.3
-2015,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%),15.4
-2016,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%),15.4
+Year,Units,timeseries,Value
+2010,%,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants,14.9
+2011,%,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants,15.2
+2012,%,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants,15.3
+2013,%,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants,15.4
+2014,%,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants,15.3
+2015,%,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants,15.4
+2016,%,share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants,15.4

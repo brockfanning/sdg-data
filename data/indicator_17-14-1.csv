@@ -1,10 +1,10 @@
-Year,Units,Value
-2010,national sustainable development strategie (number),1
-2011,national sustainable development strategie (number),1
-2012,national sustainable development strategie (number),1
-2013,national sustainable development strategie (number),1
-2014,national sustainable development strategie (number),1
-2015,national sustainable development strategie (number),1
-2016,national sustainable development strategie (number),1
-2017,national sustainable development strategie (number),1
-2018,national sustainable development strategie (number),1
+Year,Units,timeseries,Value
+2010,number,national sustainable development strategie,1
+2011,number,national sustainable development strategie,1
+2012,number,national sustainable development strategie,1
+2013,number,national sustainable development strategie,1
+2014,number,national sustainable development strategie,1
+2015,number,national sustainable development strategie,1
+2016,number,national sustainable development strategie,1
+2017,number,national sustainable development strategie,1
+2018,number,national sustainable development strategie,1

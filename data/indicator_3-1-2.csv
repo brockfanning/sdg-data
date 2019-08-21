@@ -1,9 +1,9 @@
-Year,Units,Value
-2010,live births in hospitals (%),98.4
-2011,live births in hospitals (%),98.4
-2012,live births in hospitals (%),98.5
-2013,live births in hospitals (%),98.5
-2014,live births in hospitals (%),98.6
-2015,live births in hospitals (%),98.8
-2016,live births in hospitals (%),97.8
-2017,live births in hospitals (%),98.8
+Year,Units,timeseries,Value
+2010,%,live births in hospitals,98.4
+2011,%,live births in hospitals,98.4
+2012,%,live births in hospitals,98.5
+2013,%,live births in hospitals,98.5
+2014,%,live births in hospitals,98.6
+2015,%,live births in hospitals,98.8
+2016,%,live births in hospitals,97.8
+2017,%,live births in hospitals,98.8

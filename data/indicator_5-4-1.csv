@@ -1,17 +1,17 @@
-Year,Units,sex (all age groups),age (male and female),Value
-2012,time spent on unpaid domestic and care work (%),,,13
-2013,time spent on unpaid domestic and care work (%),,,13
-2012,time spent on unpaid domestic and care work (%),female,,16
-2013,time spent on unpaid domestic and care work (%),female,,16
-2012,time spent on unpaid domestic and care work (%),male,,10
-2013,time spent on unpaid domestic and care work (%),male,,10
-2012,time spent on unpaid domestic and care work (%),,15 to under 25 years,6
-2013,time spent on unpaid domestic and care work (%),,15 to under 25 years,6
-2012,time spent on unpaid domestic and care work (%),,25 to under 45 years,14
-2013,time spent on unpaid domestic and care work (%),,25 to under 45 years,14
-2012,time spent on unpaid domestic and care work (%),,45 to under 55 years,14
-2013,time spent on unpaid domestic and care work (%),,45 to under 55 years,14
-2012,time spent on unpaid domestic and care work (%),,55 to under 65 years,14
-2013,time spent on unpaid domestic and care work (%),,55 to under 65 years,14
-2012,time spent on unpaid domestic and care work (%),,65 years and over,17
-2013,time spent on unpaid domestic and care work (%),,65 years and over,17
+Year,Units,timeseries,sex (all age groups),age (male and female),Value
+2012,%,time spent on unpaid domestic and care work,,,13
+2013,%,time spent on unpaid domestic and care work,,,13
+2012,%,time spent on unpaid domestic and care work,female,,16
+2013,%,time spent on unpaid domestic and care work,female,,16
+2012,%,time spent on unpaid domestic and care work,male,,10
+2013,%,time spent on unpaid domestic and care work,male,,10
+2012,%,time spent on unpaid domestic and care work,,15 to under 25 years,6
+2013,%,time spent on unpaid domestic and care work,,15 to under 25 years,6
+2012,%,time spent on unpaid domestic and care work,,25 to under 45 years,14
+2013,%,time spent on unpaid domestic and care work,,25 to under 45 years,14
+2012,%,time spent on unpaid domestic and care work,,45 to under 55 years,14
+2013,%,time spent on unpaid domestic and care work,,45 to under 55 years,14
+2012,%,time spent on unpaid domestic and care work,,55 to under 65 years,14
+2013,%,time spent on unpaid domestic and care work,,55 to under 65 years,14
+2012,%,time spent on unpaid domestic and care work,,65 years and over,17
+2013,%,time spent on unpaid domestic and care work,,65 years and over,17

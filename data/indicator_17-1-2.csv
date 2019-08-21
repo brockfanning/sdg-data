@@ -1,19 +1,19 @@
-Year,Units,Value
-2010,proportion of domestic expenditures funded by national taxes (%),45.3
-2011,proportion of domestic expenditures funded by national taxes (%),49.2
-2012,proportion of domestic expenditures funded by national taxes (%),50.8
-2013,proportion of domestic expenditures funded by national taxes (%),51.2
-2014,proportion of domestic expenditures funded by national taxes (%),51.7
-2015,proportion of domestic expenditures funded by national taxes (%),52.4
-2016,proportion of domestic expenditures funded by national taxes (%),52.8
-2017,proportion of domestic expenditures funded by national taxes (%),53.2
-2018,proportion of domestic expenditures funded by national taxes (%),53.9
-2010,proportion of domestic expenditures funded by national taxes and insurance contributions (%),80.2
-2011,proportion of domestic expenditures funded by national taxes and insurance contributions (%),85.8
-2012,proportion of domestic expenditures funded by national taxes and insurance contributions (%),88.0
-2013,proportion of domestic expenditures funded by national taxes and insurance contributions (%),88.0
-2014,proportion of domestic expenditures funded by national taxes and insurance contributions (%),89.0
-2015,proportion of domestic expenditures funded by national taxes and insurance contributions (%),89.9
-2016,proportion of domestic expenditures funded by national taxes and insurance contributions (%),90.5
-2017,proportion of domestic expenditures funded by national taxes and insurance contributions (%),91.3
-2018,proportion of domestic expenditures funded by national taxes and insurance contributions (%),92.3
+Year,Units,timeseries,Value
+2010,%,proportion of domestic expenditures funded by national taxes,45.3
+2011,%,proportion of domestic expenditures funded by national taxes,49.2
+2012,%,proportion of domestic expenditures funded by national taxes,50.8
+2013,%,proportion of domestic expenditures funded by national taxes,51.2
+2014,%,proportion of domestic expenditures funded by national taxes,51.7
+2015,%,proportion of domestic expenditures funded by national taxes,52.4
+2016,%,proportion of domestic expenditures funded by national taxes,52.8
+2017,%,proportion of domestic expenditures funded by national taxes,53.2
+2018,%,proportion of domestic expenditures funded by national taxes,53.9
+2010,%,proportion of domestic expenditures funded by national taxes and insurance contributions,80.2
+2011,%,proportion of domestic expenditures funded by national taxes and insurance contributions,85.8
+2012,%,proportion of domestic expenditures funded by national taxes and insurance contributions,88.0
+2013,%,proportion of domestic expenditures funded by national taxes and insurance contributions,88.0
+2014,%,proportion of domestic expenditures funded by national taxes and insurance contributions,89.0
+2015,%,proportion of domestic expenditures funded by national taxes and insurance contributions,89.9
+2016,%,proportion of domestic expenditures funded by national taxes and insurance contributions,90.5
+2017,%,proportion of domestic expenditures funded by national taxes and insurance contributions,91.3
+2018,%,proportion of domestic expenditures funded by national taxes and insurance contributions,92.3

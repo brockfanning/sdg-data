@@ -1,17 +1,17 @@
-Year,Units,Value
-2010,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",52.6
-2011,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",97.8
-2012,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",71.9
-2013,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",64.5
-2014,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",65.1
-2015,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",28.1
-2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",25.0
-2017,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",16.8
-2010,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",591.9
-2011,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",678.8
-2012,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",589.6
-2013,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",643.3
-2014,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",855.6
-2015,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",927.4
-2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",923.3
-2017,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))",932.9
+Year,Units,timeseries,Value
+2010,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",52.6
+2011,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",97.8
+2012,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",71.9
+2013,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",64.5
+2014,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",65.1
+2015,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",28.1
+2016,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",25.0
+2017,2016,"b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices",16.8
+2010,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",591.9
+2011,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",678.8
+2012,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",589.6
+2013,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",643.3
+2014,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",855.6
+2015,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",927.4
+2016,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",923.3
+2017,2016,"a) oda (gross disbursements) for water and sanitation (mn usd, constant prices",932.9

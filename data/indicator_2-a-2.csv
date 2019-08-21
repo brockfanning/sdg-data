@@ -1,9 +1,9 @@
-Year,Units,Value
-2010,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",246.8
-2011,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",298.5
-2012,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",258.8
-2013,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",363.2
-2014,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",306.9
-2015,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",543.5
-2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",573.7
-2017,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016))",620.4
+Year,Units,timeseries,Value
+2010,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",246.8
+2011,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",298.5
+2012,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",258.8
+2013,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",363.2
+2014,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",306.9
+2015,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",543.5
+2016,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",573.7
+2017,2016,"oda (gross disbursements) to the agriculture sector (mn usd, constant prices",620.4

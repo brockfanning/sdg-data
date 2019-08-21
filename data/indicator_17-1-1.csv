@@ -1,10 +1,10 @@
-Year,Units,Value
-2010,proportion of total government revenue to gdp (%),43.0
-2011,proportion of total government revenue to gdp (%),43.8
-2012,proportion of total government revenue to gdp (%),44.3
-2013,proportion of total government revenue to gdp (%),44.5
-2014,proportion of total government revenue to gdp (%),44.5
-2015,proportion of total government revenue to gdp (%),44.5
-2016,proportion of total government revenue to gdp (%),44.8
-2017,proportion of total government revenue to gdp (%),45.0
-2018,proportion of total government revenue to gdp (%),45.6
+Year,Units,timeseries,Value
+2010,%,proportion of total government revenue to gdp,43.0
+2011,%,proportion of total government revenue to gdp,43.8
+2012,%,proportion of total government revenue to gdp,44.3
+2013,%,proportion of total government revenue to gdp,44.5
+2014,%,proportion of total government revenue to gdp,44.5
+2015,%,proportion of total government revenue to gdp,44.5
+2016,%,proportion of total government revenue to gdp,44.8
+2017,%,proportion of total government revenue to gdp,45.0
+2018,%,proportion of total government revenue to gdp,45.6

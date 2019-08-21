@@ -1,13 +1,13 @@
-Year,Units,Value
-2010,population connected to the public water supply system (%),99.3
-2013,population connected to the public water supply system (%),99.3
-2016,population connected to the public water supply system (%),99.4
-2010,population using safely managed drinking water services (%),100.0
-2011,population using safely managed drinking water services (%),100.0
-2012,population using safely managed drinking water services (%),100.0
-2013,population using safely managed drinking water services (%),100.0
-2014,population using safely managed drinking water services (%),100.0
-2015,population using safely managed drinking water services (%),100.0
-2016,population using safely managed drinking water services (%),100.0
-2017,population using safely managed drinking water services (%),100.0
-2018,population using safely managed drinking water services (%),100.0
+Year,Units,timeseries,Value
+2010,%,population connected to the public water supply system,99.3
+2013,%,population connected to the public water supply system,99.3
+2016,%,population connected to the public water supply system,99.4
+2010,%,population using safely managed drinking water services,100.0
+2011,%,population using safely managed drinking water services,100.0
+2012,%,population using safely managed drinking water services,100.0
+2013,%,population using safely managed drinking water services,100.0
+2014,%,population using safely managed drinking water services,100.0
+2015,%,population using safely managed drinking water services,100.0
+2016,%,population using safely managed drinking water services,100.0
+2017,%,population using safely managed drinking water services,100.0
+2018,%,population using safely managed drinking water services,100.0

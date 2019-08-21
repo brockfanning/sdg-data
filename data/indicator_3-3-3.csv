@@ -1,10 +1,10 @@
-Year,Units,Value
-2010,malaria incidence (per 1 000 inhabitants),0.01
-2011,malaria incidence (per 1 000 inhabitants),0.01
-2012,malaria incidence (per 1 000 inhabitants),0.01
-2013,malaria incidence (per 1 000 inhabitants),0.01
-2014,malaria incidence (per 1 000 inhabitants),0.01
-2015,malaria incidence (per 1 000 inhabitants),0.01
-2016,malaria incidence (per 1 000 inhabitants),0.01
-2017,malaria incidence (per 1 000 inhabitants),0.01
-2018,malaria incidence (per 1 000 inhabitants),0.01
+Year,Units,timeseries,Value
+2010,per 1 000 inhabitants,malaria incidence,0.01
+2011,per 1 000 inhabitants,malaria incidence,0.01
+2012,per 1 000 inhabitants,malaria incidence,0.01
+2013,per 1 000 inhabitants,malaria incidence,0.01
+2014,per 1 000 inhabitants,malaria incidence,0.01
+2015,per 1 000 inhabitants,malaria incidence,0.01
+2016,per 1 000 inhabitants,malaria incidence,0.01
+2017,per 1 000 inhabitants,malaria incidence,0.01
+2018,per 1 000 inhabitants,malaria incidence,0.01

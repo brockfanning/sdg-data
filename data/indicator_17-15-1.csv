@@ -1,4 +1,4 @@
-Year,Units,Value
-2016,proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%),83
-2016,proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%),55
-2016,proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%),51
+Year,Units,timeseries,Value
+2016,%,proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation,83
+2016,%,proportion of results indicators drawn from country-led results frameworks by providers of development cooperation,55
+2016,%,proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation,51

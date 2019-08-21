@@ -1,10 +1,10 @@
-Year,Units,Value
-2010,public access to information (number),1
-2011,public access to information (number),1
-2012,public access to information (number),1
-2013,public access to information (number),1
-2014,public access to information (number),1
-2015,public access to information (number),1
-2016,public access to information (number),1
-2017,public access to information (number),1
-2018,public access to information (number),1
+Year,Units,timeseries,Value
+2010,number,public access to information,1
+2011,number,public access to information,1
+2012,number,public access to information,1
+2013,number,public access to information,1
+2014,number,public access to information,1
+2015,number,public access to information,1
+2016,number,public access to information,1
+2017,number,public access to information,1
+2018,number,public access to information,1

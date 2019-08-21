@@ -1,4 +1,4 @@
-Year,Units,type of water body,Value
-2014,water bodies with good quality (%),,38.99
-2014,water bodies with good quality (%),open water bodies,72.41
-2014,water bodies with good quality (%),river water bodies,35.08
+Year,Units,timeseries,type of water body,Value
+2014,%,water bodies with good quality,,38.99
+2014,%,water bodies with good quality,open water bodies,72.41
+2014,%,water bodies with good quality,river water bodies,35.08
