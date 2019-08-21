@@ -1,16 +1,16 @@
 Year,Units,timeseries,Value
-2010,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",322.6
-2011,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",302.8
-2012,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",302.9
-2013,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",307.9
-2014,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",287.3
-2015,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",283.5
-2016,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",279.3
-2017,constant 2010,"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur",272.1
-2010,constant 2010,co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur,366.1
-2011,constant 2010,co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur,342.7
-2012,constant 2010,co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur,334.6
-2013,constant 2010,co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur,334.2
-2014,constant 2010,co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur,319.7
-2015,constant 2010,co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur,310.8
-2016,constant 2010,co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur,296.8
+2010,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",322.6
+2011,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",302.8
+2012,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",302.9
+2013,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",307.9
+2014,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",287.3
+2015,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",283.5
+2016,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",279.3
+2017,g/eur (constant 2010),"co2 emission (without land use, land-use change and forestry) per real gdp",272.1
+2010,g/eur (constant 2010),co2 emissions per gross value added (price adjusted) in manufacturing industries,366.1
+2011,g/eur (constant 2010),co2 emissions per gross value added (price adjusted) in manufacturing industries,342.7
+2012,g/eur (constant 2010),co2 emissions per gross value added (price adjusted) in manufacturing industries,334.6
+2013,g/eur (constant 2010),co2 emissions per gross value added (price adjusted) in manufacturing industries,334.2
+2014,g/eur (constant 2010),co2 emissions per gross value added (price adjusted) in manufacturing industries,319.7
+2015,g/eur (constant 2010),co2 emissions per gross value added (price adjusted) in manufacturing industries,310.8
+2016,g/eur (constant 2010),co2 emissions per gross value added (price adjusted) in manufacturing industries,296.8
