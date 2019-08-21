@@ -1,157 +1,157 @@
 Year,Units,timeseries,sex,region,GeoCode,Value
-2014,(eur/h),average hourly earnings of employees,,,,17.78
-2010,(%),gender pay gap,,,,22.0
-2011,(%),gender pay gap,,,,22.0
-2012,(%),gender pay gap,,,,23.0
-2013,(%),gender pay gap,,,,22.0
-2014,(%),gender pay gap,,,,22.0
-2015,(%),gender pay gap,,,,22.0
-2016,(%),gender pay gap,,,,21.0
-2017,(%),gender pay gap,,,,21.0
-2018,(%),gender pay gap,,,,21.0
-2010,(eur/h),average hourly earnings of employees,female,,,14.62
-2011,(eur/h),average hourly earnings of employees,female,,,14.88
-2012,(eur/h),average hourly earnings of employees,female,,,15.18
-2013,(eur/h),average hourly earnings of employees,female,,,15.5
-2014,(eur/h),average hourly earnings of employees,female,,,15.44
-2015,(eur/h),average hourly earnings of employees,female,,,15.8
-2016,(eur/h),average hourly earnings of employees,female,,,16.26
-2017,(eur/h),average hourly earnings of employees,female,,,16.59
-2018,(eur/h),average hourly earnings of employees,female,,,17.09
-2010,(eur/h),average hourly earnings of employees,male,,,18.81
-2011,(eur/h),average hourly earnings of employees,male,,,19.17
-2012,(eur/h),average hourly earnings of employees,male,,,19.63
-2013,(eur/h),average hourly earnings of employees,male,,,19.89
-2014,(eur/h),average hourly earnings of employees,male,,,19.87
-2015,(eur/h),average hourly earnings of employees,male,,,20.25
-2016,(eur/h),average hourly earnings of employees,male,,,20.71
-2017,(eur/h),average hourly earnings of employees,male,,,21.0
-2018,(eur/h),average hourly earnings of employees,male,,,21.6
-2010,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2011,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2012,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2013,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2014,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2015,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2016,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2017,(%),gender pay gap,,baden-wuerttemberg,2.0,27.0
-2010,(%),gender pay gap,,bavaria,33.0,26.0
-2011,(%),gender pay gap,,bavaria,33.0,25.0
-2012,(%),gender pay gap,,bavaria,33.0,25.0
-2013,(%),gender pay gap,,bavaria,33.0,25.0
-2014,(%),gender pay gap,,bavaria,33.0,25.0
-2015,(%),gender pay gap,,bavaria,33.0,24.0
-2016,(%),gender pay gap,,bavaria,33.0,24.0
-2017,(%),gender pay gap,,bavaria,33.0,24.0
-2010,(%),gender pay gap,,berlin,11.0,14.0
-2011,(%),gender pay gap,,berlin,11.0,15.0
-2012,(%),gender pay gap,,berlin,11.0,15.0
-2013,(%),gender pay gap,,berlin,11.0,14.0
-2014,(%),gender pay gap,,berlin,11.0,14.0
-2015,(%),gender pay gap,,berlin,11.0,15.0
-2016,(%),gender pay gap,,berlin,11.0,14.0
-2017,(%),gender pay gap,,berlin,11.0,13.0
-2010,(%),gender pay gap,,brandenburg,7.0,7.0
-2011,(%),gender pay gap,,brandenburg,7.0,6.0
-2012,(%),gender pay gap,,brandenburg,7.0,7.0
-2013,(%),gender pay gap,,brandenburg,7.0,5.0
-2014,(%),gender pay gap,,brandenburg,7.0,7.0
-2015,(%),gender pay gap,,brandenburg,7.0,4.0
-2016,(%),gender pay gap,,brandenburg,7.0,4.0
-2017,(%),gender pay gap,,brandenburg,7.0,3.0
-2010,(%),gender pay gap,,bremen,5.0,24.0
-2011,(%),gender pay gap,,bremen,5.0,24.0
-2012,(%),gender pay gap,,bremen,5.0,27.0
-2013,(%),gender pay gap,,bremen,5.0,25.0
-2014,(%),gender pay gap,,bremen,5.0,25.0
-2015,(%),gender pay gap,,bremen,5.0,24.0
-2016,(%),gender pay gap,,bremen,5.0,23.0
-2017,(%),gender pay gap,,bremen,5.0,23.0
-2010,(%),gender pay gap,,hamburg,23.0,23.0
-2011,(%),gender pay gap,,hamburg,23.0,22.0
-2012,(%),gender pay gap,,hamburg,23.0,24.0
-2013,(%),gender pay gap,,hamburg,23.0,23.0
-2014,(%),gender pay gap,,hamburg,23.0,22.0
-2015,(%),gender pay gap,,hamburg,23.0,21.0
-2016,(%),gender pay gap,,hamburg,23.0,20.0
-2017,(%),gender pay gap,,hamburg,23.0,20.0
-2010,(%),gender pay gap,,hesse,6.0,25.0
-2011,(%),gender pay gap,,hesse,6.0,25.0
-2012,(%),gender pay gap,,hesse,6.0,24.0
-2013,(%),gender pay gap,,hesse,6.0,23.0
-2014,(%),gender pay gap,,hesse,6.0,24.0
-2015,(%),gender pay gap,,hesse,6.0,24.0
-2016,(%),gender pay gap,,hesse,6.0,23.0
-2017,(%),gender pay gap,,hesse,6.0,24.0
-2010,(%),gender pay gap,,lower saxony,8.0,22.0
-2011,(%),gender pay gap,,lower saxony,8.0,22.0
-2012,(%),gender pay gap,,lower saxony,8.0,21.0
-2013,(%),gender pay gap,,lower saxony,8.0,20.0
-2014,(%),gender pay gap,,lower saxony,8.0,22.0
-2015,(%),gender pay gap,,lower saxony,8.0,21.0
-2016,(%),gender pay gap,,lower saxony,8.0,20.0
-2017,(%),gender pay gap,,lower saxony,8.0,20.0
-2010,(%),gender pay gap,,mecklenburg western pomerania,9.0,4.0
-2011,(%),gender pay gap,,mecklenburg western pomerania,9.0,6.0
-2012,(%),gender pay gap,,mecklenburg western pomerania,9.0,7.0
-2013,(%),gender pay gap,,mecklenburg western pomerania,9.0,6.0
-2014,(%),gender pay gap,,mecklenburg western pomerania,9.0,8.0
-2015,(%),gender pay gap,,mecklenburg western pomerania,9.0,7.0
-2016,(%),gender pay gap,,mecklenburg western pomerania,9.0,6.0
-2017,(%),gender pay gap,,mecklenburg western pomerania,9.0,5.0
-2010,(%),gender pay gap,,north rhine-westphalia,3.0,23.0
-2011,(%),gender pay gap,,north rhine-westphalia,3.0,23.0
-2012,(%),gender pay gap,,north rhine-westphalia,3.0,24.0
-2013,(%),gender pay gap,,north rhine-westphalia,3.0,23.0
-2014,(%),gender pay gap,,north rhine-westphalia,3.0,23.0
-2015,(%),gender pay gap,,north rhine-westphalia,3.0,23.0
-2016,(%),gender pay gap,,north rhine-westphalia,3.0,22.0
-2017,(%),gender pay gap,,north rhine-westphalia,3.0,22.0
-2010,(%),gender pay gap,,rhineland palatinate,10.0,22.0
-2011,(%),gender pay gap,,rhineland palatinate,10.0,22.0
-2012,(%),gender pay gap,,rhineland palatinate,10.0,22.0
-2013,(%),gender pay gap,,rhineland palatinate,10.0,22.0
-2014,(%),gender pay gap,,rhineland palatinate,10.0,21.0
-2015,(%),gender pay gap,,rhineland palatinate,10.0,21.0
-2016,(%),gender pay gap,,rhineland palatinate,10.0,20.0
-2017,(%),gender pay gap,,rhineland palatinate,10.0,20.0
-2010,(%),gender pay gap,,saarland,1.0,25.0
-2011,(%),gender pay gap,,saarland,1.0,25.0
-2012,(%),gender pay gap,,saarland,1.0,25.0
-2013,(%),gender pay gap,,saarland,1.0,24.0
-2014,(%),gender pay gap,,saarland,1.0,23.0
-2015,(%),gender pay gap,,saarland,1.0,24.0
-2016,(%),gender pay gap,,saarland,1.0,24.0
-2017,(%),gender pay gap,,saarland,1.0,23.0
-2010,(%),gender pay gap,,saxony,21.0,9.0
-2011,(%),gender pay gap,,saxony,21.0,10.0
-2012,(%),gender pay gap,,saxony,21.0,11.0
-2013,(%),gender pay gap,,saxony,21.0,11.0
-2014,(%),gender pay gap,,saxony,21.0,11.0
-2015,(%),gender pay gap,,saxony,21.0,11.0
-2016,(%),gender pay gap,,saxony,21.0,11.0
-2017,(%),gender pay gap,,saxony,21.0,11.0
-2010,(%),gender pay gap,,saxony-anhalt,22.0,4.0
-2011,(%),gender pay gap,,saxony-anhalt,22.0,5.0
-2012,(%),gender pay gap,,saxony-anhalt,22.0,5.0
-2013,(%),gender pay gap,,saxony-anhalt,22.0,4.0
-2014,(%),gender pay gap,,saxony-anhalt,22.0,5.0
-2015,(%),gender pay gap,,saxony-anhalt,22.0,2.0
-2016,(%),gender pay gap,,saxony-anhalt,22.0,2.0
-2017,(%),gender pay gap,,saxony-anhalt,22.0,2.0
-2010,(%),gender pay gap,,schleswig-holstein,26.0,18.0
-2011,(%),gender pay gap,,schleswig-holstein,26.0,17.0
-2012,(%),gender pay gap,,schleswig-holstein,26.0,18.0
-2013,(%),gender pay gap,,schleswig-holstein,26.0,18.0
-2014,(%),gender pay gap,,schleswig-holstein,26.0,17.0
-2015,(%),gender pay gap,,schleswig-holstein,26.0,17.0
-2016,(%),gender pay gap,,schleswig-holstein,26.0,17.0
-2017,(%),gender pay gap,,schleswig-holstein,26.0,15.0
-2010,(%),gender pay gap,,thuringia,31.0,6.0
-2011,(%),gender pay gap,,thuringia,31.0,7.0
-2012,(%),gender pay gap,,thuringia,31.0,8.0
-2013,(%),gender pay gap,,thuringia,31.0,9.0
-2014,(%),gender pay gap,,thuringia,31.0,8.0
-2015,(%),gender pay gap,,thuringia,31.0,10.0
-2016,(%),gender pay gap,,thuringia,31.0,9.0
-2017,(%),gender pay gap,,thuringia,31.0,8.0
+2014,eur/h,average hourly earnings of employees,,,,17.78
+2010,%,gender pay gap,,total,,22.0
+2011,%,gender pay gap,,total,,22.0
+2012,%,gender pay gap,,total,,23.0
+2013,%,gender pay gap,,total,,22.0
+2014,%,gender pay gap,,total,,22.0
+2015,%,gender pay gap,,total,,22.0
+2016,%,gender pay gap,,total,,21.0
+2017,%,gender pay gap,,total,,21.0
+2018,%,gender pay gap,,total,,21.0
+2010,eur/h,average hourly earnings of employees,female,,,14.62
+2011,eur/h,average hourly earnings of employees,female,,,14.88
+2012,eur/h,average hourly earnings of employees,female,,,15.18
+2013,eur/h,average hourly earnings of employees,female,,,15.5
+2014,eur/h,average hourly earnings of employees,female,,,15.44
+2015,eur/h,average hourly earnings of employees,female,,,15.8
+2016,eur/h,average hourly earnings of employees,female,,,16.26
+2017,eur/h,average hourly earnings of employees,female,,,16.59
+2018,eur/h,average hourly earnings of employees,female,,,17.09
+2010,eur/h,average hourly earnings of employees,male,,,18.81
+2011,eur/h,average hourly earnings of employees,male,,,19.17
+2012,eur/h,average hourly earnings of employees,male,,,19.63
+2013,eur/h,average hourly earnings of employees,male,,,19.89
+2014,eur/h,average hourly earnings of employees,male,,,19.87
+2015,eur/h,average hourly earnings of employees,male,,,20.25
+2016,eur/h,average hourly earnings of employees,male,,,20.71
+2017,eur/h,average hourly earnings of employees,male,,,21.0
+2018,eur/h,average hourly earnings of employees,male,,,21.6
+2010,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2011,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2012,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2013,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2014,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2015,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2016,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2017,%,gender pay gap,,baden-wuerttemberg,2.0,27.0
+2010,%,gender pay gap,,bavaria,33.0,26.0
+2011,%,gender pay gap,,bavaria,33.0,25.0
+2012,%,gender pay gap,,bavaria,33.0,25.0
+2013,%,gender pay gap,,bavaria,33.0,25.0
+2014,%,gender pay gap,,bavaria,33.0,25.0
+2015,%,gender pay gap,,bavaria,33.0,24.0
+2016,%,gender pay gap,,bavaria,33.0,24.0
+2017,%,gender pay gap,,bavaria,33.0,24.0
+2010,%,gender pay gap,,berlin,11.0,14.0
+2011,%,gender pay gap,,berlin,11.0,15.0
+2012,%,gender pay gap,,berlin,11.0,15.0
+2013,%,gender pay gap,,berlin,11.0,14.0
+2014,%,gender pay gap,,berlin,11.0,14.0
+2015,%,gender pay gap,,berlin,11.0,15.0
+2016,%,gender pay gap,,berlin,11.0,14.0
+2017,%,gender pay gap,,berlin,11.0,13.0
+2010,%,gender pay gap,,brandenburg,7.0,7.0
+2011,%,gender pay gap,,brandenburg,7.0,6.0
+2012,%,gender pay gap,,brandenburg,7.0,7.0
+2013,%,gender pay gap,,brandenburg,7.0,5.0
+2014,%,gender pay gap,,brandenburg,7.0,7.0
+2015,%,gender pay gap,,brandenburg,7.0,4.0
+2016,%,gender pay gap,,brandenburg,7.0,4.0
+2017,%,gender pay gap,,brandenburg,7.0,3.0
+2010,%,gender pay gap,,bremen,5.0,24.0
+2011,%,gender pay gap,,bremen,5.0,24.0
+2012,%,gender pay gap,,bremen,5.0,27.0
+2013,%,gender pay gap,,bremen,5.0,25.0
+2014,%,gender pay gap,,bremen,5.0,25.0
+2015,%,gender pay gap,,bremen,5.0,24.0
+2016,%,gender pay gap,,bremen,5.0,23.0
+2017,%,gender pay gap,,bremen,5.0,23.0
+2010,%,gender pay gap,,hamburg,23.0,23.0
+2011,%,gender pay gap,,hamburg,23.0,22.0
+2012,%,gender pay gap,,hamburg,23.0,24.0
+2013,%,gender pay gap,,hamburg,23.0,23.0
+2014,%,gender pay gap,,hamburg,23.0,22.0
+2015,%,gender pay gap,,hamburg,23.0,21.0
+2016,%,gender pay gap,,hamburg,23.0,20.0
+2017,%,gender pay gap,,hamburg,23.0,20.0
+2010,%,gender pay gap,,hesse,6.0,25.0
+2011,%,gender pay gap,,hesse,6.0,25.0
+2012,%,gender pay gap,,hesse,6.0,24.0
+2013,%,gender pay gap,,hesse,6.0,23.0
+2014,%,gender pay gap,,hesse,6.0,24.0
+2015,%,gender pay gap,,hesse,6.0,24.0
+2016,%,gender pay gap,,hesse,6.0,23.0
+2017,%,gender pay gap,,hesse,6.0,24.0
+2010,%,gender pay gap,,lower saxony,8.0,22.0
+2011,%,gender pay gap,,lower saxony,8.0,22.0
+2012,%,gender pay gap,,lower saxony,8.0,21.0
+2013,%,gender pay gap,,lower saxony,8.0,20.0
+2014,%,gender pay gap,,lower saxony,8.0,22.0
+2015,%,gender pay gap,,lower saxony,8.0,21.0
+2016,%,gender pay gap,,lower saxony,8.0,20.0
+2017,%,gender pay gap,,lower saxony,8.0,20.0
+2010,%,gender pay gap,,mecklenburg western pomerania,9.0,4.0
+2011,%,gender pay gap,,mecklenburg western pomerania,9.0,6.0
+2012,%,gender pay gap,,mecklenburg western pomerania,9.0,7.0
+2013,%,gender pay gap,,mecklenburg western pomerania,9.0,6.0
+2014,%,gender pay gap,,mecklenburg western pomerania,9.0,8.0
+2015,%,gender pay gap,,mecklenburg western pomerania,9.0,7.0
+2016,%,gender pay gap,,mecklenburg western pomerania,9.0,6.0
+2017,%,gender pay gap,,mecklenburg western pomerania,9.0,5.0
+2010,%,gender pay gap,,north rhine-westphalia,3.0,23.0
+2011,%,gender pay gap,,north rhine-westphalia,3.0,23.0
+2012,%,gender pay gap,,north rhine-westphalia,3.0,24.0
+2013,%,gender pay gap,,north rhine-westphalia,3.0,23.0
+2014,%,gender pay gap,,north rhine-westphalia,3.0,23.0
+2015,%,gender pay gap,,north rhine-westphalia,3.0,23.0
+2016,%,gender pay gap,,north rhine-westphalia,3.0,22.0
+2017,%,gender pay gap,,north rhine-westphalia,3.0,22.0
+2010,%,gender pay gap,,rhineland palatinate,10.0,22.0
+2011,%,gender pay gap,,rhineland palatinate,10.0,22.0
+2012,%,gender pay gap,,rhineland palatinate,10.0,22.0
+2013,%,gender pay gap,,rhineland palatinate,10.0,22.0
+2014,%,gender pay gap,,rhineland palatinate,10.0,21.0
+2015,%,gender pay gap,,rhineland palatinate,10.0,21.0
+2016,%,gender pay gap,,rhineland palatinate,10.0,20.0
+2017,%,gender pay gap,,rhineland palatinate,10.0,20.0
+2010,%,gender pay gap,,saarland,1.0,25.0
+2011,%,gender pay gap,,saarland,1.0,25.0
+2012,%,gender pay gap,,saarland,1.0,25.0
+2013,%,gender pay gap,,saarland,1.0,24.0
+2014,%,gender pay gap,,saarland,1.0,23.0
+2015,%,gender pay gap,,saarland,1.0,24.0
+2016,%,gender pay gap,,saarland,1.0,24.0
+2017,%,gender pay gap,,saarland,1.0,23.0
+2010,%,gender pay gap,,saxony,21.0,9.0
+2011,%,gender pay gap,,saxony,21.0,10.0
+2012,%,gender pay gap,,saxony,21.0,11.0
+2013,%,gender pay gap,,saxony,21.0,11.0
+2014,%,gender pay gap,,saxony,21.0,11.0
+2015,%,gender pay gap,,saxony,21.0,11.0
+2016,%,gender pay gap,,saxony,21.0,11.0
+2017,%,gender pay gap,,saxony,21.0,11.0
+2010,%,gender pay gap,,saxony-anhalt,22.0,4.0
+2011,%,gender pay gap,,saxony-anhalt,22.0,5.0
+2012,%,gender pay gap,,saxony-anhalt,22.0,5.0
+2013,%,gender pay gap,,saxony-anhalt,22.0,4.0
+2014,%,gender pay gap,,saxony-anhalt,22.0,5.0
+2015,%,gender pay gap,,saxony-anhalt,22.0,2.0
+2016,%,gender pay gap,,saxony-anhalt,22.0,2.0
+2017,%,gender pay gap,,saxony-anhalt,22.0,2.0
+2010,%,gender pay gap,,schleswig-holstein,26.0,18.0
+2011,%,gender pay gap,,schleswig-holstein,26.0,17.0
+2012,%,gender pay gap,,schleswig-holstein,26.0,18.0
+2013,%,gender pay gap,,schleswig-holstein,26.0,18.0
+2014,%,gender pay gap,,schleswig-holstein,26.0,17.0
+2015,%,gender pay gap,,schleswig-holstein,26.0,17.0
+2016,%,gender pay gap,,schleswig-holstein,26.0,17.0
+2017,%,gender pay gap,,schleswig-holstein,26.0,15.0
+2010,%,gender pay gap,,thuringia,31.0,6.0
+2011,%,gender pay gap,,thuringia,31.0,7.0
+2012,%,gender pay gap,,thuringia,31.0,8.0
+2013,%,gender pay gap,,thuringia,31.0,9.0
+2014,%,gender pay gap,,thuringia,31.0,8.0
+2015,%,gender pay gap,,thuringia,31.0,10.0
+2016,%,gender pay gap,,thuringia,31.0,9.0
+2017,%,gender pay gap,,thuringia,31.0,8.0
