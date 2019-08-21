@@ -52,24 +52,24 @@ Year,Units,timeseries,Value
 2016,bn eur,gross fixed capital formation,634.0
 2017,bn eur,gross fixed capital formation,665.7
 2018,bn eur,gross fixed capital formation,703.4
-2010,mn h ,hours worked by employees,47845.0
-2011,mn h ,hours worked by employees,48665.0
-2012,mn h ,hours worked by employees,48776.0
-2013,mn h ,hours worked by employees,48890.0
-2014,mn h ,hours worked by employees,49703.0
-2015,mn h ,hours worked by employees,50454.0
-2016,mn h ,hours worked by employees,51013.0
-2017,mn h ,hours worked by employees,51949.0
-2018,mn h ,hours worked by employees,53002.0
-2010,mn h ,hours worked by persons employed,57013.0
-2011,mn h ,hours worked by persons employed,57909.0
-2012,mn h ,hours worked by persons employed,57835.0
-2013,mn h ,hours worked by persons employed,57668.0
-2014,mn h ,hours worked by persons employed,58327.0
-2015,mn h ,hours worked by persons employed,58997.0
-2016,mn h ,hours worked by persons employed,59477.0
-2017,mn h ,hours worked by persons employed,60222.0
-2018,mn h ,hours worked by persons employed,61068.0
+2010,mn h,hours worked by employees,47845.0
+2011,mn h,hours worked by employees,48665.0
+2012,mn h,hours worked by employees,48776.0
+2013,mn h,hours worked by employees,48890.0
+2014,mn h,hours worked by employees,49703.0
+2015,mn h,hours worked by employees,50454.0
+2016,mn h,hours worked by employees,51013.0
+2017,mn h,hours worked by employees,51949.0
+2018,mn h,hours worked by employees,53002.0
+2010,mn h,hours worked by persons employed,57013.0
+2011,mn h,hours worked by persons employed,57909.0
+2012,mn h,hours worked by persons employed,57835.0
+2013,mn h,hours worked by persons employed,57668.0
+2014,mn h,hours worked by persons employed,58327.0
+2015,mn h,hours worked by persons employed,58997.0
+2016,mn h,hours worked by persons employed,59477.0
+2017,mn h,hours worked by persons employed,60222.0
+2018,mn h,hours worked by persons employed,61068.0
 2010,2010 = 100,labour productivity per hour worked by employee,100.0
 2011,2010 = 100,labour productivity per hour worked by employee,101.9
 2012,2010 = 100,labour productivity per hour worked by employee,102.2
