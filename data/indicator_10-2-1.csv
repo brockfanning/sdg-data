@@ -1,12 +1,12 @@
 Year,Units,timeseries,sex (all age groups),age (male and female),Value
-2010,%,population living below 50% of median income,,,9.2
-2011,%,population living below 50% of median income,,,9.7
-2012,%,population living below 50% of median income,,,9.6
-2013,%,population living below 50% of median income,,,9.4
-2014,%,population living below 50% of median income,,,10.5
-2015,%,population living below 50% of median income,,,10.2
-2016,%,population living below 50% of median income,,,9.7
-2017,%,population living below 50% of median income,,,9.4
+2010,%,population living below 50% of median income,male and female,all age groups,9.2
+2011,%,population living below 50% of median income,male and female,all age groups,9.7
+2012,%,population living below 50% of median income,male and female,all age groups,9.6
+2013,%,population living below 50% of median income,male and female,all age groups,9.4
+2014,%,population living below 50% of median income,male and female,all age groups,10.5
+2015,%,population living below 50% of median income,male and female,all age groups,10.2
+2016,%,population living below 50% of median income,male and female,all age groups,9.7
+2017,%,population living below 50% of median income,male and female,all age groups,9.4
 2010,%,population living below 50% of median income,female,all age groups,9.3
 2011,%,population living below 50% of median income,female,all age groups,9.9
 2012,%,population living below 50% of median income,female,all age groups,10.1
