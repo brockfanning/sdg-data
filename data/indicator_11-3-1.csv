@@ -23,10 +23,10 @@ Year,Units,timeseries,Value
 2015,2010 = 100,proportion of settlement and transport areas to population,100.4
 2016,2010 = 100,proportion of settlement and transport areas to population,100.4
 2017,2010 = 100,proportion of settlement and transport areas to population,100.6
-2011,year-to-year,ratio of land consumption rate to population growth rate,6.8
-2012,year-to-year,ratio of land consumption rate to population growth rate,2.0
-2013,year-to-year,ratio of land consumption rate to population growth rate,1.6
-2014,year-to-year,ratio of land consumption rate to population growth rate,1.1
-2015,year-to-year,ratio of land consumption rate to population growth rate,0.3
-2016,year-to-year,ratio of land consumption rate to population growth rate,0.9
-2017,year-to-year,ratio of land consumption rate to population growth rate,1.6
+2011,/,ratio of land consumption rate to population growth rate,6.8
+2012,/,ratio of land consumption rate to population growth rate,2.0
+2013,/,ratio of land consumption rate to population growth rate,1.6
+2014,/,ratio of land consumption rate to population growth rate,1.1
+2015,/,ratio of land consumption rate to population growth rate,0.3
+2016,/,ratio of land consumption rate to population growth rate,0.9
+2017,/,ratio of land consumption rate to population growth rate,1.6
