@@ -1,14 +1,14 @@
 Year,Units,timeseries,sex,region,GeoCode,Value
 2014,eur/h,average hourly earnings of employees,,,,17.78
-2010,%,gender pay gap,,total,,22.0
-2011,%,gender pay gap,,total,,22.0
-2012,%,gender pay gap,,total,,23.0
-2013,%,gender pay gap,,total,,22.0
-2014,%,gender pay gap,,total,,22.0
-2015,%,gender pay gap,,total,,22.0
-2016,%,gender pay gap,,total,,21.0
-2017,%,gender pay gap,,total,,21.0
-2018,%,gender pay gap,,total,,21.0
+2010,%,gender pay gap,,,,22.0
+2011,%,gender pay gap,,,,22.0
+2012,%,gender pay gap,,,,23.0
+2013,%,gender pay gap,,,,22.0
+2014,%,gender pay gap,,,,22.0
+2015,%,gender pay gap,,,,22.0
+2016,%,gender pay gap,,,,21.0
+2017,%,gender pay gap,,,,21.0
+2018,%,gender pay gap,,,,21.0
 2010,eur/h,average hourly earnings of employees,female,,,14.62
 2011,eur/h,average hourly earnings of employees,female,,,14.88
 2012,eur/h,average hourly earnings of employees,female,,,15.18

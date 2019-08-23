@@ -322,6 +322,19 @@ prose:
             help: Additional link to data source text
             value: "Link to source"
             scope: source_2
+      - name: "source_url_2d"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_2
+      - name: "source_url_text_2d"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_2
       ## Source 3
       - name: source_active_3
         field:

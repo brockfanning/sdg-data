@@ -6,6 +6,7 @@ Year,Units,timeseries,type of disease,Value
 2014,1 000,mortality rate of persons aged 30 to under 70 years attributed to,a) cardiovascular disease,40.0
 2015,1 000,mortality rate of persons aged 30 to under 70 years attributed to,a) cardiovascular disease,42.3
 2016,1 000,mortality rate of persons aged 30 to under 70 years attributed to,a) cardiovascular disease,41.6
+2017,1 000,mortality rate of persons aged 30 to under 70 years attributed to,a) cardiovascular disease,40.9
 2010,1 000,mortality rate of persons aged 30 to under 70 years attributed to,b) cancer,77.9
 2011,1 000,mortality rate of persons aged 30 to under 70 years attributed to,b) cancer,76.9
 2012,1 000,mortality rate of persons aged 30 to under 70 years attributed to,b) cancer,75.0
@@ -13,6 +14,7 @@ Year,Units,timeseries,type of disease,Value
 2014,1 000,mortality rate of persons aged 30 to under 70 years attributed to,b) cancer,73.2
 2015,1 000,mortality rate of persons aged 30 to under 70 years attributed to,b) cancer,74.7
 2016,1 000,mortality rate of persons aged 30 to under 70 years attributed to,b) cancer,76.4
+2017,1 000,mortality rate of persons aged 30 to under 70 years attributed to,b) cancer,75.4
 2010,1 000,mortality rate of persons aged 30 to under 70 years attributed to,c) diabetes mellitus,3.5
 2011,1 000,mortality rate of persons aged 30 to under 70 years attributed to,c) diabetes mellitus,3.4
 2012,1 000,mortality rate of persons aged 30 to under 70 years attributed to,c) diabetes mellitus,3.4
@@ -20,6 +22,7 @@ Year,Units,timeseries,type of disease,Value
 2014,1 000,mortality rate of persons aged 30 to under 70 years attributed to,c) diabetes mellitus,3.3
 2015,1 000,mortality rate of persons aged 30 to under 70 years attributed to,c) diabetes mellitus,3.6
 2016,1 000,mortality rate of persons aged 30 to under 70 years attributed to,c) diabetes mellitus,3.5
+2017,1 000,mortality rate of persons aged 30 to under 70 years attributed to,c) diabetes mellitus,3.8
 2010,1 000,mortality rate of persons aged 30 to under 70 years attributed to,d) chronic respiratory disease,7.4
 2011,1 000,mortality rate of persons aged 30 to under 70 years attributed to,d) chronic respiratory disease,7.5
 2012,1 000,mortality rate of persons aged 30 to under 70 years attributed to,d) chronic respiratory disease,7.1
@@ -27,3 +30,4 @@ Year,Units,timeseries,type of disease,Value
 2014,1 000,mortality rate of persons aged 30 to under 70 years attributed to,d) chronic respiratory disease,7.6
 2015,1 000,mortality rate of persons aged 30 to under 70 years attributed to,d) chronic respiratory disease,8.7
 2016,1 000,mortality rate of persons aged 30 to under 70 years attributed to,d) chronic respiratory disease,8.8
+2017,1 000,mortality rate of persons aged 30 to under 70 years attributed to,d) chronic respiratory disease,9.4
