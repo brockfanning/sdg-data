@@ -1,46 +1,46 @@
 Year,Units,timeseries,sex (all age groups),age (male and female),Value
-2010,%,unemployment rate,male and female,all age groups,7.0
-2011,%,unemployment rate,male and female,all age groups,5.8
-2012,%,unemployment rate,male and female,all age groups,5.4
-2013,%,unemployment rate,male and female,all age groups,5.2
-2014,%,unemployment rate,male and female,all age groups,5.0
-2015,%,unemployment rate,male and female,all age groups,4.6
-2016,%,unemployment rate,male and female,all age groups,4.1
-2017,%,unemployment rate,male and female,all age groups,3.8
-2018,%,unemployment rate,male and female,all age groups,3.4
-2010,%,unemployment rate,male and female,15 to under 25 years,9.8
-2011,%,unemployment rate,male and female,15 to under 25 years,8.5
-2012,%,unemployment rate,male and female,15 to under 25 years,8.0
-2013,%,unemployment rate,male and female,15 to under 25 years,7.8
-2014,%,unemployment rate,male and female,15 to under 25 years,7.7
-2015,%,unemployment rate,male and female,15 to under 25 years,7.2
-2016,%,unemployment rate,male and female,15 to under 25 years,7.1
-2017,%,unemployment rate,male and female,15 to under 25 years,6.8
-2018,%,unemployment rate,male and female,15 to under 25 years,6.2
-2010,%,unemployment rate,male and female,25 to under 75 years,6.6
-2011,%,unemployment rate,male and female,25 to under 75 years,5.5
-2012,%,unemployment rate,male and female,25 to under 75 years,5.1
-2013,%,unemployment rate,male and female,25 to under 75 years,4.9
-2014,%,unemployment rate,male and female,25 to under 75 years,4.7
-2015,%,unemployment rate,male and female,25 to under 75 years,4.4
-2016,%,unemployment rate,male and female,25 to under 75 years,3.8
-2017,%,unemployment rate,male and female,25 to under 75 years,3.4
-2018,%,unemployment rate,male and female,25 to under 75 years,3.1
-2010,%,unemployment rate,female,all age groups,6.5
-2011,%,unemployment rate,female,all age groups,5.6
-2012,%,unemployment rate,female,all age groups,5.2
-2013,%,unemployment rate,female,all age groups,4.9
-2014,%,unemployment rate,female,all age groups,4.6
-2015,%,unemployment rate,female,all age groups,4.2
-2016,%,unemployment rate,female,all age groups,3.8
-2017,%,unemployment rate,female,all age groups,3.3
-2018,%,unemployment rate,female,all age groups,2.9
-2010,%,unemployment rate,male,all age groups,7.4
-2011,%,unemployment rate,male,all age groups,6.1
-2012,%,unemployment rate,male,all age groups,5.6
-2013,%,unemployment rate,male,all age groups,5.5
-2014,%,unemployment rate,male,all age groups,5.3
-2015,%,unemployment rate,male,all age groups,5.0
-2016,%,unemployment rate,male,all age groups,4.5
-2017,%,unemployment rate,male,all age groups,4.1
-2018,%,unemployment rate,male,all age groups,3.8
+2010,%,unemployment rate,1)male and female,1)all age groups,7.0
+2011,%,unemployment rate,1)male and female,1)all age groups,5.8
+2012,%,unemployment rate,1)male and female,1)all age groups,5.4
+2013,%,unemployment rate,1)male and female,1)all age groups,5.2
+2014,%,unemployment rate,1)male and female,1)all age groups,5.0
+2015,%,unemployment rate,1)male and female,1)all age groups,4.6
+2016,%,unemployment rate,1)male and female,1)all age groups,4.1
+2017,%,unemployment rate,1)male and female,1)all age groups,3.8
+2018,%,unemployment rate,1)male and female,1)all age groups,3.4
+2010,%,unemployment rate,1)male and female,15 to under 25 years,9.8
+2011,%,unemployment rate,1)male and female,15 to under 25 years,8.5
+2012,%,unemployment rate,1)male and female,15 to under 25 years,8.0
+2013,%,unemployment rate,1)male and female,15 to under 25 years,7.8
+2014,%,unemployment rate,1)male and female,15 to under 25 years,7.7
+2015,%,unemployment rate,1)male and female,15 to under 25 years,7.2
+2016,%,unemployment rate,1)male and female,15 to under 25 years,7.1
+2017,%,unemployment rate,1)male and female,15 to under 25 years,6.8
+2018,%,unemployment rate,1)male and female,15 to under 25 years,6.2
+2010,%,unemployment rate,1)male and female,25 to under 75 years,6.6
+2011,%,unemployment rate,1)male and female,25 to under 75 years,5.5
+2012,%,unemployment rate,1)male and female,25 to under 75 years,5.1
+2013,%,unemployment rate,1)male and female,25 to under 75 years,4.9
+2014,%,unemployment rate,1)male and female,25 to under 75 years,4.7
+2015,%,unemployment rate,1)male and female,25 to under 75 years,4.4
+2016,%,unemployment rate,1)male and female,25 to under 75 years,3.8
+2017,%,unemployment rate,1)male and female,25 to under 75 years,3.4
+2018,%,unemployment rate,1)male and female,25 to under 75 years,3.1
+2010,%,unemployment rate,female,1)all age groups,6.5
+2011,%,unemployment rate,female,1)all age groups,5.6
+2012,%,unemployment rate,female,1)all age groups,5.2
+2013,%,unemployment rate,female,1)all age groups,4.9
+2014,%,unemployment rate,female,1)all age groups,4.6
+2015,%,unemployment rate,female,1)all age groups,4.2
+2016,%,unemployment rate,female,1)all age groups,3.8
+2017,%,unemployment rate,female,1)all age groups,3.3
+2018,%,unemployment rate,female,1)all age groups,2.9
+2010,%,unemployment rate,male,1)all age groups,7.4
+2011,%,unemployment rate,male,1)all age groups,6.1
+2012,%,unemployment rate,male,1)all age groups,5.6
+2013,%,unemployment rate,male,1)all age groups,5.5
+2014,%,unemployment rate,male,1)all age groups,5.3
+2015,%,unemployment rate,male,1)all age groups,5.0
+2016,%,unemployment rate,male,1)all age groups,4.5
+2017,%,unemployment rate,male,1)all age groups,4.1
+2018,%,unemployment rate,male,1)all age groups,3.8
