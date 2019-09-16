@@ -159,6 +159,15 @@ prose:
             help: Check this box if this indicator does not have numeric data associated with it
             value: false
             scope: data
+
+      - name: copyright
+        field:
+            element: text
+            label: COPYRIGHT
+            help: Footnotes appear under the chart and by data tables
+            scope: data
+
+
       - name: data_footnote
         field:
             element: text
