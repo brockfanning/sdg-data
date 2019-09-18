@@ -1,7 +1,7 @@
-Year,Units,timeseries,Value
-2017,number,animal genetic resources,28
-2018,number,animal genetic resources,28
-2014,number,plant genetic resources,174266
-2016,number,plant genetic resources,174405
-2017,number,plant genetic resources,177387
-2018,number,plant genetic resources,179498
+Year,timeseries,Value
+2017,animal genetic resources (number),28
+2018,animal genetic resources (number),28
+2014,plant genetic resources (number),174266
+2016,plant genetic resources (number),174405
+2017,plant genetic resources (number),177387
+2018,plant genetic resources (number),179498
