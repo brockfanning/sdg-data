@@ -1,12 +1,12 @@
-Year,Units,timeseries,Value
-2011,%,b) population covered by health insurance,99.8
-2015,%,b) population covered by health insurance,99.9
-2010,%,a) unemployed persons with unemployment benefits,95.5
-2011,%,a) unemployed persons with unemployment benefits,94.7
-2012,%,a) unemployed persons with unemployment benefits,95.0
-2013,%,a) unemployed persons with unemployment benefits,95.3
-2014,%,a) unemployed persons with unemployment benefits,95.3
-2015,%,a) unemployed persons with unemployment benefits,95.8
-2016,%,a) unemployed persons with unemployment benefits,95.3
-2017,%,a) unemployed persons with unemployment benefits,95.1
-2018,%,a) unemployed persons with unemployment benefits,95.7
+Year,timeseries,Value
+2011,population covered by health insurance (%),99.8
+2015,population covered by health insurance (%),99.9
+2010,unemployed persons with unemployment benefits (%),95.5
+2011,unemployed persons with unemployment benefits (%),94.7
+2012,unemployed persons with unemployment benefits (%),95.0
+2013,unemployed persons with unemployment benefits (%),95.3
+2014,unemployed persons with unemployment benefits (%),95.3
+2015,unemployed persons with unemployment benefits (%),95.8
+2016,unemployed persons with unemployment benefits (%),95.3
+2017,unemployed persons with unemployment benefits (%),95.1
+2018,unemployed persons with unemployment benefits (%),95.7

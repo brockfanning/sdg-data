@@ -1,57 +1,57 @@
-Year,Units,timeseries,sex (all age groups),age (male and female),Value
-2010,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,19.7
-2011,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,19.9
-2012,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,19.6
-2013,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,20.3
-2014,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,20.6
-2015,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,20.0
-2016,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,19.7
-2017,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,all age groups,19.0
-2010,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,20.9
-2011,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,21.3
-2012,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,21.1
-2013,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,21.9
-2014,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,21.8
-2015,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,21.1
-2016,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,21.2
-2017,%,at-risk-of-poverty or social exclusion (according to eurostat definition),female,all age groups,20.3
-2010,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,18.6
-2011,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,18.5
-2012,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,18.1
-2013,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,18.8
-2014,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,19.5
-2015,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,18.8
-2016,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,18.1
-2017,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male,all age groups,17.6
-2010,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,21.7
-2011,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,19.9
-2012,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,18.4
-2013,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,19.4
-2014,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,19.6
-2015,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,18.5
-2016,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,19.3
-2017,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,17 years and under,18.0
-2010,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,20.8
-2011,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,21.3
-2012,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,21.2
-2013,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,22.0
-2014,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,22.0
-2015,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,21.3
-2016,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,20.2
-2017,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,18 to under 65 years,19.6
-2010,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,14.8
-2011,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,15.3
-2012,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,15.8
-2013,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,16.0
-2014,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,17.4
-2015,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,17.2
-2016,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,18.3
-2017,%,at-risk-of-poverty or social exclusion (according to eurostat definition),male and female,65 years and over,17.7
-2010,%,extensive material deprivation,male and female,all age groups,4.5
-2011,%,extensive material deprivation,male and female,all age groups,5.3
-2012,%,extensive material deprivation,male and female,all age groups,4.9
-2013,%,extensive material deprivation,male and female,all age groups,5.4
-2014,%,extensive material deprivation,male and female,all age groups,5.0
-2015,%,extensive material deprivation,male and female,all age groups,4.4
-2016,%,extensive material deprivation,male and female,all age groups,3.7
-2017,%,extensive material deprivation,male and female,all age groups,3.4
+Year,timeseries,sex (all age groups),age (male and female),Value
+2010,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,19.7
+2011,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,19.9
+2012,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,19.6
+2013,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,20.3
+2014,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,20.6
+2015,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,20.0
+2016,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,19.7
+2017,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,all age groups,19.0
+2010,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,20.9
+2011,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,21.3
+2012,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,21.1
+2013,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,21.9
+2014,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,21.8
+2015,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,21.1
+2016,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,21.2
+2017,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),female,all age groups,20.3
+2010,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,18.6
+2011,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,18.5
+2012,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,18.1
+2013,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,18.8
+2014,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,19.5
+2015,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,18.8
+2016,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,18.1
+2017,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male,all age groups,17.6
+2010,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,21.7
+2011,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,19.9
+2012,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,18.4
+2013,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,19.4
+2014,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,19.6
+2015,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,18.5
+2016,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,19.3
+2017,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,17 years and under,18.0
+2010,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,20.8
+2011,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,21.3
+2012,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,21.2
+2013,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,22.0
+2014,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,22.0
+2015,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,21.3
+2016,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,20.2
+2017,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,18 to under 65 years,19.6
+2010,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,14.8
+2011,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,15.3
+2012,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,15.8
+2013,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,16.0
+2014,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,17.4
+2015,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,17.2
+2016,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,18.3
+2017,at-risk-of-poverty or social exclusion (according to eurostat definition) (%),male and female,65 years and over,17.7
+2010,extensive material deprivation (%),male and female,all age groups,4.5
+2011,extensive material deprivation (%),male and female,all age groups,5.3
+2012,extensive material deprivation (%),male and female,all age groups,4.9
+2013,extensive material deprivation (%),male and female,all age groups,5.4
+2014,extensive material deprivation (%),male and female,all age groups,5.0
+2015,extensive material deprivation (%),male and female,all age groups,4.4
+2016,extensive material deprivation (%),male and female,all age groups,3.7
+2017,extensive material deprivation (%),male and female,all age groups,3.4
