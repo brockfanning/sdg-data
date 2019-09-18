@@ -1,10 +1,10 @@
-Year,Units,timeseries,Value
-2010,per 100 000 inhabitants,fatalities due to road traffic accidents,4.5
-2011,per 100 000 inhabitants,fatalities due to road traffic accidents,5.0
-2012,per 100 000 inhabitants,fatalities due to road traffic accidents,4.5
-2013,per 100 000 inhabitants,fatalities due to road traffic accidents,4.1
-2014,per 100 000 inhabitants,fatalities due to road traffic accidents,4.2
-2015,per 100 000 inhabitants,fatalities due to road traffic accidents,4.2
-2016,per 100 000 inhabitants,fatalities due to road traffic accidents,3.9
-2017,per 100 000 inhabitants,fatalities due to road traffic accidents,3.9
-2018,per 100 000 inhabitants,fatalities due to road traffic accidents,3.9
+Year,timeseries,Value
+2010,fatalities due to road traffic accidents (per 100 000 inhabitants),4.5
+2011,fatalities due to road traffic accidents (per 100 000 inhabitants),5.0
+2012,fatalities due to road traffic accidents (per 100 000 inhabitants),4.5
+2013,fatalities due to road traffic accidents (per 100 000 inhabitants),4.1
+2014,fatalities due to road traffic accidents (per 100 000 inhabitants),4.2
+2015,fatalities due to road traffic accidents (per 100 000 inhabitants),4.2
+2016,fatalities due to road traffic accidents (per 100 000 inhabitants),3.9
+2017,fatalities due to road traffic accidents (per 100 000 inhabitants),3.9
+2018,fatalities due to road traffic accidents (per 100 000 inhabitants),3.9

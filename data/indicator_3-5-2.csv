@@ -1,15 +1,15 @@
-Year,Units,timeseries,Value
-2011,litres of pure alcohol per capita,alcohol consumption (conversion by un factors),11.9
-2012,litres of pure alcohol per capita,alcohol consumption (conversion by un factors),11.8
-2013,litres of pure alcohol per capita,alcohol consumption (conversion by un factors),11.7
-2014,litres of pure alcohol per capita,alcohol consumption (conversion by un factors),11.6
-2015,litres of pure alcohol per capita,alcohol consumption (conversion by un factors),11.5
-2016,litres of pure alcohol per capita,alcohol consumption (conversion by un factors),11.4
-2017,litres of pure alcohol per capita,alcohol consumption (conversion by un factors),11.2
-2011,litres of pure alcohol per capita,alcohol consumption (conversion by national factors),11.4
-2012,litres of pure alcohol per capita,alcohol consumption (conversion by national factors),11.3
-2013,litres of pure alcohol per capita,alcohol consumption (conversion by national factors),11.2
-2014,litres of pure alcohol per capita,alcohol consumption (conversion by national factors),11.1
-2015,litres of pure alcohol per capita,alcohol consumption (conversion by national factors),11.0
-2016,litres of pure alcohol per capita,alcohol consumption (conversion by national factors),10.9
-2017,litres of pure alcohol per capita,alcohol consumption (conversion by national factors),10.7
+Year,timeseries,Value
+2011,alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),11.9
+2012,alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),11.8
+2013,alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),11.7
+2014,alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),11.6
+2015,alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),11.5
+2016,alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),11.4
+2017,alcohol consumption (conversion by un factors) (litres of pure alcohol per capita),11.2
+2011,alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),11.4
+2012,alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),11.3
+2013,alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),11.2
+2014,alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),11.1
+2015,alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),11.0
+2016,alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),10.9
+2017,alcohol consumption (conversion by national factors) (litres of pure alcohol per capita),10.7

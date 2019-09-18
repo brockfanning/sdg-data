@@ -1,10 +1,10 @@
-Year,Units,timeseries,Value
-2010,per 100 000 inhabitants,hepatitis b incidence,0.94
-2011,per 100 000 inhabitants,hepatitis b incidence,0.99
-2012,per 100 000 inhabitants,hepatitis b incidence,0.84
-2013,per 100 000 inhabitants,hepatitis b incidence,0.86
-2014,per 100 000 inhabitants,hepatitis b incidence,0.93
-2015,per 100 000 inhabitants,hepatitis b incidence,2.47
-2016,per 100 000 inhabitants,hepatitis b incidence,3.69
-2017,per 100 000 inhabitants,hepatitis b incidence,4.29
-2018,per 100 000 inhabitants,hepatitis b incidence,5.44
+Year,timeseries,Value
+2010,hepatitis b incidence (per 100 000 inhabitants),0.94
+2011,hepatitis b incidence (per 100 000 inhabitants),0.99
+2012,hepatitis b incidence (per 100 000 inhabitants),0.84
+2013,hepatitis b incidence (per 100 000 inhabitants),0.86
+2014,hepatitis b incidence (per 100 000 inhabitants),0.93
+2015,hepatitis b incidence (per 100 000 inhabitants),2.47
+2016,hepatitis b incidence (per 100 000 inhabitants),3.69
+2017,hepatitis b incidence (per 100 000 inhabitants),4.29
+2018,hepatitis b incidence (per 100 000 inhabitants),5.44

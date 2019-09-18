@@ -1,9 +1,9 @@
-Year,Units,timeseries,Value
-2010,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,170.4
-2011,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,112.9
-2012,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,139.9
-2013,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,209.6
-2014,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,227.4
-2015,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,287.6
-2016,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,343.8
-2017,"mn usd, constant prices (2016)",oda (gross disbursements) to medical research and basic health sectors,413.8
+Year,timeseries,Value
+2010,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",170.4
+2011,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",112.9
+2012,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",139.9
+2013,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",209.6
+2014,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",227.4
+2015,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",287.6
+2016,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",343.8
+2017,"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))",413.8

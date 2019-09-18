@@ -1,6 +1,6 @@
-Year,Units,timeseries,Value
-2010,%,average of 13 ihr core capacity scores,81
-2011,%,average of 13 ihr core capacity scores,86
-2012,%,average of 13 ihr core capacity scores,92
-2014,%,average of 13 ihr core capacity scores,99
-2017,%,average of 13 ihr core capacity scores,97
+Year,timeseries,Value
+2010,average of 13 ihr core capacity scores (%),81
+2011,average of 13 ihr core capacity scores (%),86
+2012,average of 13 ihr core capacity scores (%),92
+2014,average of 13 ihr core capacity scores (%),99
+2017,average of 13 ihr core capacity scores (%),97

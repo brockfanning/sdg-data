@@ -1,25 +1,25 @@
-Year,Units,timeseries,sex,Value
-2010,per 1 000 inhabitants,hiv incidence,,0.03
-2011,per 1 000 inhabitants,hiv incidence,,0.03
-2012,per 1 000 inhabitants,hiv incidence,,0.04
-2013,per 1 000 inhabitants,hiv incidence,,0.04
-2014,per 1 000 inhabitants,hiv incidence,,0.04
-2015,per 1 000 inhabitants,hiv incidence,,0.04
-2016,per 1 000 inhabitants,hiv incidence,,0.04
-2017,per 1 000 inhabitants,hiv incidence,,0.04
-2010,per 1 000 inhabitants,hiv incidence,female,0.01
-2011,per 1 000 inhabitants,hiv incidence,female,0.01
-2012,per 1 000 inhabitants,hiv incidence,female,0.01
-2013,per 1 000 inhabitants,hiv incidence,female,0.01
-2014,per 1 000 inhabitants,hiv incidence,female,0.01
-2015,per 1 000 inhabitants,hiv incidence,female,0.01
-2016,per 1 000 inhabitants,hiv incidence,female,0.02
-2017,per 1 000 inhabitants,hiv incidence,female,0.01
-2010,per 1 000 inhabitants,hiv incidence,male,0.06
-2011,per 1 000 inhabitants,hiv incidence,male,0.06
-2012,per 1 000 inhabitants,hiv incidence,male,0.07
-2013,per 1 000 inhabitants,hiv incidence,male,0.07
-2014,per 1 000 inhabitants,hiv incidence,male,0.07
-2015,per 1 000 inhabitants,hiv incidence,male,0.07
-2016,per 1 000 inhabitants,hiv incidence,male,0.06
-2017,per 1 000 inhabitants,hiv incidence,male,0.06
+Year,timeseries,sex,Value
+2010,hiv incidence (per 1 000 inhabitants),,0.03
+2011,hiv incidence (per 1 000 inhabitants),,0.03
+2012,hiv incidence (per 1 000 inhabitants),,0.04
+2013,hiv incidence (per 1 000 inhabitants),,0.04
+2014,hiv incidence (per 1 000 inhabitants),,0.04
+2015,hiv incidence (per 1 000 inhabitants),,0.04
+2016,hiv incidence (per 1 000 inhabitants),,0.04
+2017,hiv incidence (per 1 000 inhabitants),,0.04
+2010,hiv incidence (per 1 000 inhabitants),female,0.01
+2011,hiv incidence (per 1 000 inhabitants),female,0.01
+2012,hiv incidence (per 1 000 inhabitants),female,0.01
+2013,hiv incidence (per 1 000 inhabitants),female,0.01
+2014,hiv incidence (per 1 000 inhabitants),female,0.01
+2015,hiv incidence (per 1 000 inhabitants),female,0.01
+2016,hiv incidence (per 1 000 inhabitants),female,0.02
+2017,hiv incidence (per 1 000 inhabitants),female,0.01
+2010,hiv incidence (per 1 000 inhabitants),male,0.06
+2011,hiv incidence (per 1 000 inhabitants),male,0.06
+2012,hiv incidence (per 1 000 inhabitants),male,0.07
+2013,hiv incidence (per 1 000 inhabitants),male,0.07
+2014,hiv incidence (per 1 000 inhabitants),male,0.07
+2015,hiv incidence (per 1 000 inhabitants),male,0.07
+2016,hiv incidence (per 1 000 inhabitants),male,0.06
+2017,hiv incidence (per 1 000 inhabitants),male,0.06

@@ -1,9 +1,9 @@
-Year,Units,timeseries,Value
-2010,per 100 000 live births,maternal mortality,5.2
-2011,per 100 000 live births,maternal mortality,4.7
-2012,per 100 000 live births,maternal mortality,4.6
-2013,per 100 000 live births,maternal mortality,4.3
-2014,per 100 000 live births,maternal mortality,4.1
-2015,per 100 000 live births,maternal mortality,3.1
-2016,per 100 000 live births,maternal mortality,2.9
-2017,per 100 000 live births,maternal mortality,2.8
+Year,timeseries,Value
+2010,maternal mortality (per 100 000 live births),5.2
+2011,maternal mortality (per 100 000 live births),4.7
+2012,maternal mortality (per 100 000 live births),4.6
+2013,maternal mortality (per 100 000 live births),4.3
+2014,maternal mortality (per 100 000 live births),4.1
+2015,maternal mortality (per 100 000 live births),3.1
+2016,maternal mortality (per 100 000 live births),2.9
+2017,maternal mortality (per 100 000 live births),2.8
