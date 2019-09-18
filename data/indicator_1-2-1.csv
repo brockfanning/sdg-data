@@ -1,49 +1,49 @@
-Year,Units,timeseries,sex (all age groups),age (male and female),Value
-2010,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,15.6
-2011,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,15.8
-2012,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,16.1
-2013,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,16.1
-2014,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,16.7
-2015,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,16.7
-2016,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,16.5
-2017,%,at-risk-of-poverty rate (according to eurostat definition),male and female,all age groups,16.1
-2010,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,16.4
-2011,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,16.8
-2012,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,17.2
-2013,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,17.2
-2014,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,17.4
-2015,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,17.4
-2016,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,17.8
-2017,%,at-risk-of-poverty rate (according to eurostat definition),female,all age groups,17.1
-2010,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,14.9
-2011,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,14.9
-2012,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,14.9
-2013,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,15.0
-2014,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,15.9
-2015,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,15.9
-2016,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,15.2
-2017,%,at-risk-of-poverty rate (according to eurostat definition),male,all age groups,15.0
-2010,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,17.5
-2011,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,15.6
-2012,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,15.2
-2013,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,14.7
-2014,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,15.1
-2015,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,14.6
-2016,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,15.4
-2017,%,at-risk-of-poverty rate (according to eurostat definition),male and female,17 years and under,15.2
-2010,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,15.6
-2011,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,16.4
-2012,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,16.6
-2013,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,16.9
-2014,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,17.2
-2015,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,17.3
-2016,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,16.4
-2017,%,at-risk-of-poverty rate (according to eurostat definition),male and female,18 to under 65 years,16.0
-2010,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,14.1
-2011,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,14.2
-2012,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,15.0
-2013,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,14.9
-2014,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,16.3
-2015,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,16.5
-2016,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,17.6
-2017,%,at-risk-of-poverty rate (according to eurostat definition),male and female,65 years and over,17.0
+Year,timeseries,sex (all age groups),age (male and female),Value
+2010,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,15.6
+2011,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,15.8
+2012,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,16.1
+2013,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,16.1
+2014,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,16.7
+2015,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,16.7
+2016,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,16.5
+2017,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,all age groups,16.1
+2010,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,16.4
+2011,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,16.8
+2012,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,17.2
+2013,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,17.2
+2014,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,17.4
+2015,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,17.4
+2016,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,17.8
+2017,at-risk-of-poverty rate (according to eurostat definition) (%),female,all age groups,17.1
+2010,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,14.9
+2011,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,14.9
+2012,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,14.9
+2013,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,15.0
+2014,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,15.9
+2015,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,15.9
+2016,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,15.2
+2017,at-risk-of-poverty rate (according to eurostat definition) (%),male,all age groups,15.0
+2010,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,17.5
+2011,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,15.6
+2012,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,15.2
+2013,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,14.7
+2014,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,15.1
+2015,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,14.6
+2016,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,15.4
+2017,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,17 years and under,15.2
+2010,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,15.6
+2011,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,16.4
+2012,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,16.6
+2013,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,16.9
+2014,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,17.2
+2015,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,17.3
+2016,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,16.4
+2017,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,18 to under 65 years,16.0
+2010,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,14.1
+2011,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,14.2
+2012,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,15.0
+2013,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,14.9
+2014,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,16.3
+2015,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,16.5
+2016,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,17.6
+2017,at-risk-of-poverty rate (according to eurostat definition) (%),male and female,65 years and over,17.0
