@@ -1,28 +1,28 @@
-Year,Units,timeseries,Value
-2010,%,government spending on education (cofog section 09),9.2
-2011,%,government spending on education (cofog section 09),9.6
-2012,%,government spending on education (cofog section 09),9.5
-2013,%,government spending on education (cofog section 09),9.6
-2014,%,government spending on education (cofog section 09),9.6
-2015,%,government spending on education (cofog section 09),9.5
-2016,%,government spending on education (cofog section 09),9.4
-2017,%,government spending on education (cofog section 09),9.3
-2018,%,government spending on education (cofog section 09),9.5
-2010,%,government spending on health (cofog section 07),14.7
-2011,%,government spending on health (cofog section 07),15.2
-2012,%,government spending on health (cofog section 07),15.4
-2013,%,government spending on health (cofog section 07),15.7
-2014,%,government spending on health (cofog section 07),16.2
-2015,%,government spending on health (cofog section 07),16.3
-2016,%,government spending on health (cofog section 07),16.2
-2017,%,government spending on health (cofog section 07),16.2
-2018,%,government spending on health (cofog section 07),16.3
-2010,%,government spending on social protection (cofog section 10),42.1
-2011,%,government spending on social protection (cofog section 10),42.0
-2012,%,government spending on social protection (cofog section 10),42.5
-2013,%,government spending on social protection (cofog section 10),42.3
-2014,%,government spending on social protection (cofog section 10),42.6
-2015,%,government spending on social protection (cofog section 10),43.6
-2016,%,government spending on social protection (cofog section 10),43.9
-2017,%,government spending on social protection (cofog section 10),44.1
-2018,%,government spending on social protection (cofog section 10),43.7
+Year,timeseries,Value
+2010,b) government spending on education (cofog section 09) (%),9.2
+2011,b) government spending on education (cofog section 09) (%),9.6
+2012,b) government spending on education (cofog section 09) (%),9.5
+2013,b) government spending on education (cofog section 09) (%),9.6
+2014,b) government spending on education (cofog section 09) (%),9.6
+2015,b) government spending on education (cofog section 09) (%),9.5
+2016,b) government spending on education (cofog section 09) (%),9.4
+2017,b) government spending on education (cofog section 09) (%),9.3
+2018,b) government spending on education (cofog section 09) (%),9.5
+2010,a) government spending on health (cofog section 07) (%),14.7
+2011,a) government spending on health (cofog section 07) (%),15.2
+2012,a) government spending on health (cofog section 07) (%),15.4
+2013,a) government spending on health (cofog section 07) (%),15.7
+2014,a) government spending on health (cofog section 07) (%),16.2
+2015,a) government spending on health (cofog section 07) (%),16.3
+2016,a) government spending on health (cofog section 07) (%),16.2
+2017,a) government spending on health (cofog section 07) (%),16.2
+2018,a) government spending on health (cofog section 07) (%),16.3
+2010,c) government spending on social protection (cofog section 10) (%),42.1
+2011,c) government spending on social protection (cofog section 10) (%),42.0
+2012,c) government spending on social protection (cofog section 10) (%),42.5
+2013,c) government spending on social protection (cofog section 10) (%),42.3
+2014,c) government spending on social protection (cofog section 10) (%),42.6
+2015,c) government spending on social protection (cofog section 10) (%),43.6
+2016,c) government spending on social protection (cofog section 10) (%),43.9
+2017,c) government spending on social protection (cofog section 10) (%),44.1
+2018,c) government spending on social protection (cofog section 10) (%),43.7
