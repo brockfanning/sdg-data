@@ -3,8 +3,8 @@ Year,Units,timeseries,level of risk of extinction,Value
 2013,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,75.0
 2015,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,77.0
 2017,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,77.0
-2015,%,level of risk of extinction (according to fao classification),a) at risk,45.45
-2015,%,level of risk of extinction (according to fao classification),b) not at risk,54.55
+2015,%,level of risk of extinction (according to fao classification),b) at risk,45.45
+2015,%,level of risk of extinction (according to fao classification),a) not at risk,54.55
 2015,%,level of risk of extinction (according to fao classification),c) unknown,0.0
 2011,%,level of risk of extinction (according to national classification),a) not at risk,29.7
 2013,%,level of risk of extinction (according to national classification),a) not at risk,30.7
