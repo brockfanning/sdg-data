@@ -1,16 +1,16 @@
-Year,Units,timeseries,activities,Value
-2015,%,persons (10 years and older) with computer-related activities in the last 12 months,copying or moving of files and folders,75
-2016,%,persons (10 years and older) with computer-related activities in the last 12 months,copying or moving of files and folders,73
-2017,%,persons (10 years and older) with computer-related activities in the last 12 months,copying or moving of files and folders,74
-2015,%,persons (10 years and older) with computer-related activities in the last 12 months,"creating electronic presentations or documents with text, images, tables or charts",44
-2016,%,persons (10 years and older) with computer-related activities in the last 12 months,"creating electronic presentations or documents with text, images, tables or charts",43
-2017,%,persons (10 years and older) with computer-related activities in the last 12 months,"creating electronic presentations or documents with text, images, tables or charts",44
-2015,%,persons (10 years and older) with computer-related activities in the last 12 months,installing software or apps,68
-2016,%,persons (10 years and older) with computer-related activities in the last 12 months,installing software or apps,69
-2017,%,persons (10 years and older) with computer-related activities in the last 12 months,installing software or apps,68
-2015,%,persons (10 years and older) with computer-related activities in the last 12 months,transferring files between a computer or other devices,66
-2016,%,persons (10 years and older) with computer-related activities in the last 12 months,transferring files between a computer or other devices,66
-2017,%,persons (10 years and older) with computer-related activities in the last 12 months,transferring files between a computer or other devices,68
-2015,%,persons (10 years and older) with computer-related activities in the last 12 months,writing a computer program using a programming language,7
-2016,%,persons (10 years and older) with computer-related activities in the last 12 months,writing a computer program using a programming language,6
-2017,%,persons (10 years and older) with computer-related activities in the last 12 months,writing a computer program using a programming language,6
+Year,timeseries,activities,Value
+2015,persons (10 years and older) with computer-related activities in the last 12 months (%),copying or moving of files and folders,75
+2016,persons (10 years and older) with computer-related activities in the last 12 months (%),copying or moving of files and folders,73
+2017,persons (10 years and older) with computer-related activities in the last 12 months (%),copying or moving of files and folders,74
+2015,persons (10 years and older) with computer-related activities in the last 12 months (%),"creating electronic presentations or documents with text, images, tables or charts",44
+2016,persons (10 years and older) with computer-related activities in the last 12 months (%),"creating electronic presentations or documents with text, images, tables or charts",43
+2017,persons (10 years and older) with computer-related activities in the last 12 months (%),"creating electronic presentations or documents with text, images, tables or charts",44
+2015,persons (10 years and older) with computer-related activities in the last 12 months (%),installing software or apps,68
+2016,persons (10 years and older) with computer-related activities in the last 12 months (%),installing software or apps,69
+2017,persons (10 years and older) with computer-related activities in the last 12 months (%),installing software or apps,68
+2015,persons (10 years and older) with computer-related activities in the last 12 months (%),transferring files between a computer or other devices,66
+2016,persons (10 years and older) with computer-related activities in the last 12 months (%),transferring files between a computer or other devices,66
+2017,persons (10 years and older) with computer-related activities in the last 12 months (%),transferring files between a computer or other devices,68
+2015,persons (10 years and older) with computer-related activities in the last 12 months (%),writing a computer program using a programming language,7
+2016,persons (10 years and older) with computer-related activities in the last 12 months (%),writing a computer program using a programming language,6
+2017,persons (10 years and older) with computer-related activities in the last 12 months (%),writing a computer program using a programming language,6

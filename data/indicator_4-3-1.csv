@@ -1,49 +1,49 @@
-Year,Units,timeseries,sex,Value
-2010,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,75.8
-2011,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,76.8
-2012,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,77.9
-2013,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,78.7
-2014,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,78.5
-2015,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,79.8
-2016,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,79.1
-2017,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,,79.6
-2010,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,76.8
-2011,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,77.8
-2012,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,78.1
-2013,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,78.6
-2014,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,78.9
-2015,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,80.1
-2016,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,79.5
-2017,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,female,80.2
-2010,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,75.0
-2011,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,75.8
-2012,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,76.6
-2013,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,77.8
-2014,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,78.1
-2015,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,79.4
-2016,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,78.8
-2017,%,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months,male,79.0
-2010,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,20.5
-2011,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,21.1
-2012,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,19.7
-2013,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,19.6
-2014,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,19.5
-2015,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,20.0
-2016,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,20.6
-2017,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,,19.7
-2010,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,19.8
-2011,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,20.2
-2012,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,19.1
-2013,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,19.0
-2014,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,19.0
-2015,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,19.4
-2016,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,20.0
-2017,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,female,19.2
-2010,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,21.2
-2011,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,21.9
-2012,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,20.4
-2013,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,20.1
-2014,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,19.9
-2015,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,20.5
-2016,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,21.2
-2017,%,participation rate of adults in formal and non-formal education and training in the previous 12 months,male,20.3
+Year,timeseries,sex,Value
+2010,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,75.8
+2011,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,76.8
+2012,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,77.9
+2013,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,78.7
+2014,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,78.5
+2015,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,79.8
+2016,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,79.1
+2017,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),,79.6
+2010,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,76.8
+2011,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,77.8
+2012,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,78.1
+2013,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,78.6
+2014,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,78.9
+2015,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,80.1
+2016,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,79.5
+2017,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),female,80.2
+2010,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,75.0
+2011,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,75.8
+2012,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,76.6
+2013,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,77.8
+2014,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,78.1
+2015,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,79.4
+2016,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,78.8
+2017,participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%),male,79.0
+2010,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,20.5
+2011,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,21.1
+2012,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,19.7
+2013,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,19.6
+2014,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,19.5
+2015,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,20.0
+2016,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,20.6
+2017,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),,19.7
+2010,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,19.8
+2011,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,20.2
+2012,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,19.1
+2013,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,19.0
+2014,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,19.0
+2015,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,19.4
+2016,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,20.0
+2017,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),female,19.2
+2010,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,21.2
+2011,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,21.9
+2012,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,20.4
+2013,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,20.1
+2014,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,19.9
+2015,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,20.5
+2016,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,21.2
+2017,participation rate of adults in formal and non-formal education and training in the previous 12 months (%),male,20.3

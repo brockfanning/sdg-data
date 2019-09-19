@@ -1,5 +1,5 @@
-Year,Units,timeseries,level of proficiency,Value
-2012,%,adult population achieving at least a fixed level of proficiency in functional a) literacy skills:,minimum requirement level i,96.7
-2012,%,adult population achieving at least a fixed level of proficiency in functional a) literacy skills:,minimum requirement level ii,82.5
-2012,%,adult population achieving at least a fixed level of proficiency in functional b) numeracy skills:,minimum requirement level i,95.5
-2012,%,adult population achieving at least a fixed level of proficiency in functional b) numeracy skills:,minimum requirement level ii,81.6
+Year,timeseries,level of proficiency,Value
+2012,adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):,minimum requirement level i,96.7
+2012,adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):,minimum requirement level ii,82.5
+2012,adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):,minimum requirement level i,95.5
+2012,adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):,minimum requirement level ii,81.6
