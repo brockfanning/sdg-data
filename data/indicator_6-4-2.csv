@@ -1,7 +1,7 @@
-Year,Units,timeseries,level of waterstress,Value
-2010,%,level of water stress:,share of withdrawal in renewable water resources,17.3
-2013,%,level of water stress:,share of withdrawal in renewable water resources,13.99
-2016,%,level of water stress:,share of withdrawal in renewable water resources,15.46
-2010,%,level of water stress:,share of withdrawal in renewable water resources (excluding cooling water),4.65
-2013,%,level of water stress:,share of withdrawal in renewable water resources (excluding cooling water),4.83
-2016,%,level of water stress:,share of withdrawal in renewable water resources (excluding cooling water),4.96
+Year,timeseries,level of waterstress,Value
+2010,level of water stress (%):,share of withdrawal in renewable water resources,17.3
+2013,level of water stress (%):,share of withdrawal in renewable water resources,13.99
+2016,level of water stress (%):,share of withdrawal in renewable water resources,15.46
+2010,level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),4.65
+2013,level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),4.83
+2016,level of water stress (%):,share of withdrawal in renewable water resources (excluding cooling water),4.96
