@@ -1,10 +1,10 @@
-Year,Units,timeseries,Value
-2010,%,annual growth rate of real gdp per employed person,3.8
-2011,%,annual growth rate of real gdp per employed person,2.3
-2012,%,annual growth rate of real gdp per employed person,-0.7
-2013,%,annual growth rate of real gdp per employed person,-0.1
-2014,%,annual growth rate of real gdp per employed person,1.4
-2015,%,annual growth rate of real gdp per employed person,0.8
-2016,%,annual growth rate of real gdp per employed person,0.9
-2017,%,annual growth rate of real gdp per employed person,0.7
-2018,%,annual growth rate of real gdp per employed person,0.1
+Year,timeseries,Value
+2010,annual growth rate of real gdp per employed person (%),3.8
+2011,annual growth rate of real gdp per employed person (%),2.3
+2012,annual growth rate of real gdp per employed person (%),-0.7
+2013,annual growth rate of real gdp per employed person (%),-0.1
+2014,annual growth rate of real gdp per employed person (%),1.4
+2015,annual growth rate of real gdp per employed person (%),0.8
+2016,annual growth rate of real gdp per employed person (%),0.9
+2017,annual growth rate of real gdp per employed person (%),0.7
+2018,annual growth rate of real gdp per employed person (%),0.1

@@ -1,28 +1,28 @@
-Year,Units,timeseries,sex,Value
-2010,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,8.3
-2011,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,7.5
-2012,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,7.1
-2013,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,6.3
-2014,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,6.4
-2015,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,6.2
-2016,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,6.7
-2017,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,6.3
-2018,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),,5.9
-2010,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,9.0
-2011,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,8.3
-2012,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,7.9
-2013,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,7.0
-2014,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,7.2
-2015,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,7.0
-2016,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,7.4
-2017,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,6.7
-2018,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),female,6.5
-2010,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,7.6
-2011,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,6.7
-2012,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,6.3
-2013,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,5.6
-2014,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,5.5
-2015,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,5.4
-2016,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,6.1
-2017,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,5.8
-2018,%,young people (15 to under 25 years) neither in employment nor in education and training  (neet rates),male,5.4
+Year,timeseries,sex,Value
+2010,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,8.3
+2011,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,7.5
+2012,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,7.1
+2013,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,6.3
+2014,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,6.4
+2015,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,6.2
+2016,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,6.7
+2017,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,6.3
+2018,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),,5.9
+2010,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,9.0
+2011,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,8.3
+2012,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,7.9
+2013,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,7.0
+2014,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,7.2
+2015,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,7.0
+2016,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,7.4
+2017,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,6.7
+2018,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),female,6.5
+2010,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,7.6
+2011,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,6.7
+2012,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,6.3
+2013,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,5.6
+2014,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,5.5
+2015,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,5.4
+2016,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,6.1
+2017,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,5.8
+2018,young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%),male,5.4

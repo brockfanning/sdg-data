@@ -1,17 +1,17 @@
-Year,Units,timeseries,Value
-2010,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),4218.3
-2011,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),3409.1
-2012,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),3369.6
-2013,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),4459.6
-2014,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),6709.1
-2015,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),5788.5
-2016,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),6042.9
-2017,"mn usd, constant prices (2016)",aid for trade commitments (oda and oof),5503.4
-2010,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),3088.3
-2011,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),2835.5
-2012,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),2553.2
-2013,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),3197.4
-2014,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),4006.6
-2015,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),5161.9
-2016,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),4621.2
-2017,"mn usd, constant prices (2016)",aid for trade gross disbursements (oda and oof),4369.0
+Year,timeseries,Value
+2010,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",4218.3
+2011,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",3409.1
+2012,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",3369.6
+2013,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",4459.6
+2014,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",6709.1
+2015,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",5788.5
+2016,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",6042.9
+2017,"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",5503.4
+2010,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",3088.3
+2011,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",2835.5
+2012,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",2553.2
+2013,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",3197.4
+2014,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",4006.6
+2015,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",5161.9
+2016,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",4621.2
+2017,"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",4369.0

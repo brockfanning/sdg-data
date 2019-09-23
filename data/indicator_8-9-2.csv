@@ -1,11 +1,11 @@
-Year,Units,timeseries,Value
-2010,1 000,persons employed in accommodation,1895
-2011,1 000,persons employed in accommodation,1979
-2012,1 000,persons employed in accommodation,1989
-2013,1 000,persons employed in accommodation,1898
-2014,1 000,persons employed in accommodation,2085
-2015,1 000,persons employed in accommodation,2173
-2016,1 000,persons employed in accommodation,2301
-2017,1 000,persons employed in accommodation,2374
-2010,1 000,persons employed in tourism industries,2859
-2015,1 000,persons employed in tourism industries,2919
+Year,timeseries,Value
+2010,persons employed in accommodation (1 000),1895
+2011,persons employed in accommodation (1 000),1979
+2012,persons employed in accommodation (1 000),1989
+2013,persons employed in accommodation (1 000),1898
+2014,persons employed in accommodation (1 000),2085
+2015,persons employed in accommodation (1 000),2173
+2016,persons employed in accommodation (1 000),2301
+2017,persons employed in accommodation (1 000),2374
+2010,persons employed in tourism industries (1 000),2859
+2015,persons employed in tourism industries (1 000),2919
