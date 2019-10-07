@@ -1,83 +1,83 @@
 Year,Units,timeseries,sex (all age groups),age (male and female),Value
-2012,%,population subjected to physical violence,male and female,all age groups,2.7
-2017,%,population subjected to physical violence,male and female,all age groups,3.0
-2010,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2011,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2012,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2013,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2014,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2015,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2016,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2017,%,population who were victims of criminal offences,male and female,all age groups,1.2
-2010,number,victims of criminal offences,male and female,all age groups,932126.0
-2011,number,victims of criminal offences,male and female,all age groups,964945.0
-2012,number,victims of criminal offences,male and female,all age groups,976090.0
-2013,number,victims of criminal offences,male and female,all age groups,955737.0
-2014,number,victims of criminal offences,male and female,all age groups,947568.0
-2015,number,victims of criminal offences,male and female,all age groups,946133.0
-2016,number,victims of criminal offences,male and female,all age groups,1017602.0
-2017,number,victims of criminal offences,male and female,all age groups,1008510.0
-2018,number,victims of criminal offences,male and female,all age groups,1025241.0
-2010,number,victims of criminal offences,female,all age groups,382263.0
-2011,number,victims of criminal offences,female,all age groups,384661.0
-2012,number,victims of criminal offences,female,all age groups,391566.0
-2013,number,victims of criminal offences,female,all age groups,388258.0
-2014,number,victims of criminal offences,female,all age groups,384786.0
-2015,number,victims of criminal offences,female,all age groups,381892.0
-2016,number,victims of criminal offences,female,all age groups,403500.0
-2017,number,victims of criminal offences,female,all age groups,404035.0
-2018,number,victims of criminal offences,female,all age groups,414147.0
-2010,number,victims of criminal offences,male,all age groups,549863.0
-2011,number,victims of criminal offences,male,all age groups,580284.0
-2012,number,victims of criminal offences,male,all age groups,584524.0
-2013,number,victims of criminal offences,male,all age groups,567479.0
-2014,number,victims of criminal offences,male,all age groups,562782.0
-2015,number,victims of criminal offences,male,all age groups,564241.0
-2016,number,victims of criminal offences,male,all age groups,614102.0
-2017,number,victims of criminal offences,male,all age groups,604475.0
-2018,number,victims of criminal offences,male,all age groups,611094.0
-2010,number,victims of criminal offences,male and female,13 years and under,72232.0
-2011,number,victims of criminal offences,male and female,13 years and under,70429.0
-2012,number,victims of criminal offences,male and female,13 years and under,67579.0
-2013,number,victims of criminal offences,male and female,13 years and under,65334.0
-2014,number,victims of criminal offences,male and female,13 years and under,64584.0
-2015,number,victims of criminal offences,male and female,13 years and under,62342.0
-2016,number,victims of criminal offences,male and female,13 years and under,67519.0
-2017,number,victims of criminal offences,male and female,13 years and under,68820.0
-2018,number,victims of criminal offences,male and female,13 years and under,70590.0
-2010,number,victims of criminal offences,male and female,14 to under 18 years,99135.0
-2011,number,victims of criminal offences,male and female,14 to under 18 years,92128.0
-2012,number,victims of criminal offences,male and female,14 to under 18 years,88020.0
-2013,number,victims of criminal offences,male and female,14 to under 18 years,81633.0
-2014,number,victims of criminal offences,male and female,14 to under 18 years,77948.0
-2015,number,victims of criminal offences,male and female,14 to under 18 years,74650.0
-2016,number,victims of criminal offences,male and female,14 to under 18 years,82930.0
-2017,number,victims of criminal offences,male and female,14 to under 18 years,84071.0
-2018,number,victims of criminal offences,male and female,14 to under 18 years,84175.0
-2010,number,victims of criminal offences,male and female,18 to under 21 years,109139.0
-2011,number,victims of criminal offences,male and female,18 to under 21 years,104427.0
-2012,number,victims of criminal offences,male and female,18 to under 21 years,99541.0
-2013,number,victims of criminal offences,male and female,18 to under 21 years,89880.0
-2014,number,victims of criminal offences,male and female,18 to under 21 years,83802.0
-2015,number,victims of criminal offences,male and female,18 to under 21 years,80941.0
-2016,number,victims of criminal offences,male and female,18 to under 21 years,88459.0
-2017,number,victims of criminal offences,male and female,18 to under 21 years,88834.0
-2018,number,victims of criminal offences,male and female,18 to under 21 years,89688.0
-2010,number,victims of criminal offences,male and female,21 to under 60 years,600019.0
-2011,number,victims of criminal offences,male and female,21 to under 60 years,644770.0
-2012,number,victims of criminal offences,male and female,21 to under 60 years,666152.0
-2013,number,victims of criminal offences,male and female,21 to under 60 years,662202.0
-2014,number,victims of criminal offences,male and female,21 to under 60 years,663253.0
-2015,number,victims of criminal offences,male and female,21 to under 60 years,668823.0
-2016,number,victims of criminal offences,male and female,21 to under 60 years,716502.0
-2017,number,victims of criminal offences,male and female,21 to under 60 years,704139.0
-2018,number,victims of criminal offences,male and female,21 to under 60 years,715629.0
-2010,number,victims of criminal offences,male and female,60 years and over,51601.0
-2011,number,victims of criminal offences,male and female,60 years and over,53191.0
-2012,number,victims of criminal offences,male and female,60 years and over,54798.0
-2013,number,victims of criminal offences,male and female,60 years and over,56688.0
-2014,number,victims of criminal offences,male and female,60 years and over,57981.0
-2015,number,victims of criminal offences,male and female,60 years and over,59377.0
-2016,number,victims of criminal offences,male and female,60 years and over,62192.0
-2017,number,victims of criminal offences,male and female,60 years and over,62646.0
-2018,number,victims of criminal offences,male and female,60 years and over,65159.0
+2012,%,population subjected to physical violence,,,2.7
+2017,%,population subjected to physical violence,,,3.0
+2010,%,population who were victims of criminal offences,,,1.2
+2011,%,population who were victims of criminal offences,,,1.2
+2012,%,population who were victims of criminal offences,,,1.2
+2013,%,population who were victims of criminal offences,,,1.2
+2014,%,population who were victims of criminal offences,,,1.2
+2015,%,population who were victims of criminal offences,,,1.2
+2016,%,population who were victims of criminal offences,,,1.2
+2017,%,population who were victims of criminal offences,,,1.2
+2010,number,victims of criminal offences,,,932126.0
+2011,number,victims of criminal offences,,,964945.0
+2012,number,victims of criminal offences,,,976090.0
+2013,number,victims of criminal offences,,,955737.0
+2014,number,victims of criminal offences,,,947568.0
+2015,number,victims of criminal offences,,,946133.0
+2016,number,victims of criminal offences,,,1017602.0
+2017,number,victims of criminal offences,,,1008510.0
+2018,number,victims of criminal offences,,,1025241.0
+2010,number,victims of criminal offences,female,,382263.0
+2011,number,victims of criminal offences,female,,384661.0
+2012,number,victims of criminal offences,female,,391566.0
+2013,number,victims of criminal offences,female,,388258.0
+2014,number,victims of criminal offences,female,,384786.0
+2015,number,victims of criminal offences,female,,381892.0
+2016,number,victims of criminal offences,female,,403500.0
+2017,number,victims of criminal offences,female,,404035.0
+2018,number,victims of criminal offences,female,,414147.0
+2010,number,victims of criminal offences,male,,549863.0
+2011,number,victims of criminal offences,male,,580284.0
+2012,number,victims of criminal offences,male,,584524.0
+2013,number,victims of criminal offences,male,,567479.0
+2014,number,victims of criminal offences,male,,562782.0
+2015,number,victims of criminal offences,male,,564241.0
+2016,number,victims of criminal offences,male,,614102.0
+2017,number,victims of criminal offences,male,,604475.0
+2018,number,victims of criminal offences,male,,611094.0
+2010,number,victims of criminal offences,,13 years and under,72232.0
+2011,number,victims of criminal offences,,13 years and under,70429.0
+2012,number,victims of criminal offences,,13 years and under,67579.0
+2013,number,victims of criminal offences,,13 years and under,65334.0
+2014,number,victims of criminal offences,,13 years and under,64584.0
+2015,number,victims of criminal offences,,13 years and under,62342.0
+2016,number,victims of criminal offences,,13 years and under,67519.0
+2017,number,victims of criminal offences,,13 years and under,68820.0
+2018,number,victims of criminal offences,,13 years and under,70590.0
+2010,number,victims of criminal offences,,14 to under 18 years,99135.0
+2011,number,victims of criminal offences,,14 to under 18 years,92128.0
+2012,number,victims of criminal offences,,14 to under 18 years,88020.0
+2013,number,victims of criminal offences,,14 to under 18 years,81633.0
+2014,number,victims of criminal offences,,14 to under 18 years,77948.0
+2015,number,victims of criminal offences,,14 to under 18 years,74650.0
+2016,number,victims of criminal offences,,14 to under 18 years,82930.0
+2017,number,victims of criminal offences,,14 to under 18 years,84071.0
+2018,number,victims of criminal offences,,14 to under 18 years,84175.0
+2010,number,victims of criminal offences,,18 to under 21 years,109139.0
+2011,number,victims of criminal offences,,18 to under 21 years,104427.0
+2012,number,victims of criminal offences,,18 to under 21 years,99541.0
+2013,number,victims of criminal offences,,18 to under 21 years,89880.0
+2014,number,victims of criminal offences,,18 to under 21 years,83802.0
+2015,number,victims of criminal offences,,18 to under 21 years,80941.0
+2016,number,victims of criminal offences,,18 to under 21 years,88459.0
+2017,number,victims of criminal offences,,18 to under 21 years,88834.0
+2018,number,victims of criminal offences,,18 to under 21 years,89688.0
+2010,number,victims of criminal offences,,21 to under 60 years,600019.0
+2011,number,victims of criminal offences,,21 to under 60 years,644770.0
+2012,number,victims of criminal offences,,21 to under 60 years,666152.0
+2013,number,victims of criminal offences,,21 to under 60 years,662202.0
+2014,number,victims of criminal offences,,21 to under 60 years,663253.0
+2015,number,victims of criminal offences,,21 to under 60 years,668823.0
+2016,number,victims of criminal offences,,21 to under 60 years,716502.0
+2017,number,victims of criminal offences,,21 to under 60 years,704139.0
+2018,number,victims of criminal offences,,21 to under 60 years,715629.0
+2010,number,victims of criminal offences,,60 years and over,51601.0
+2011,number,victims of criminal offences,,60 years and over,53191.0
+2012,number,victims of criminal offences,,60 years and over,54798.0
+2013,number,victims of criminal offences,,60 years and over,56688.0
+2014,number,victims of criminal offences,,60 years and over,57981.0
+2015,number,victims of criminal offences,,60 years and over,59377.0
+2016,number,victims of criminal offences,,60 years and over,62192.0
+2017,number,victims of criminal offences,,60 years and over,62646.0
+2018,number,victims of criminal offences,,60 years and over,65159.0
