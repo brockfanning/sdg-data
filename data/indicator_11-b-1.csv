@@ -1,9 +1,9 @@
-Year,Units,timeseries,Value
-2010,number,strategy for adaptation to climate change,1
-2011,number,strategy for adaptation to climate change,1
-2012,number,strategy for adaptation to climate change,1
-2013,number,strategy for adaptation to climate change,1
-2014,number,strategy for adaptation to climate change,1
-2015,number,strategy for adaptation to climate change,1
-2016,number,strategy for adaptation to climate change,1
-2017,number,strategy for adaptation to climate change,1
+Year,timeseries,Value
+2010,strategy for adaptation to climate change (number),1
+2011,strategy for adaptation to climate change (number),1
+2012,strategy for adaptation to climate change (number),1
+2013,strategy for adaptation to climate change (number),1
+2014,strategy for adaptation to climate change (number),1
+2015,strategy for adaptation to climate change (number),1
+2016,strategy for adaptation to climate change (number),1
+2017,strategy for adaptation to climate change (number),1
