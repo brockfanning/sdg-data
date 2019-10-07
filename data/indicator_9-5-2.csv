@@ -1,9 +1,9 @@
-Year,Units,timeseries,Value
-2010,per 1 mn inhabitants,researchers in full-time equivalents,4012
-2011,per 1 mn inhabitants,researchers in full-time equivalents,4216
-2012,per 1 mn inhabitants,researchers in full-time equivalents,4377
-2013,per 1 mn inhabitants,researchers in full-time equivalents,4389
-2014,per 1 mn inhabitants,researchers in full-time equivalents,4334
-2015,per 1 mn inhabitants,researchers in full-time equivalents,4721
-2016,per 1 mn inhabitants,researchers in full-time equivalents,4842
-2017,per 1 mn inhabitants,researchers in full-time equivalents,5007
+Year,timeseries,Value
+2010,researchers in full-time equivalents (per 1 mn inhabitants),4012
+2011,researchers in full-time equivalents (per 1 mn inhabitants),4216
+2012,researchers in full-time equivalents (per 1 mn inhabitants),4377
+2013,researchers in full-time equivalents (per 1 mn inhabitants),4389
+2014,researchers in full-time equivalents (per 1 mn inhabitants),4334
+2015,researchers in full-time equivalents (per 1 mn inhabitants),4721
+2016,researchers in full-time equivalents (per 1 mn inhabitants),4842
+2017,researchers in full-time equivalents (per 1 mn inhabitants),5007
