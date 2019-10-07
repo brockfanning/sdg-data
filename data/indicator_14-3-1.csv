@@ -1,8 +1,8 @@
-Year,Units,timeseries,Value
-2010,ph-value,average ph-concentration in the german bight,8.126
-2011,ph-value,average ph-concentration in the german bight,8.138
-2012,ph-value,average ph-concentration in the german bight,8.113999999999999
-2013,ph-value,average ph-concentration in the german bight,8.127
-2014,ph-value,average ph-concentration in the german bight,8.131
-2015,ph-value,average ph-concentration in the german bight,8.113999999999999
-2017,ph-value,average ph-concentration in the german bight,8.149
+Year,timeseries,Value
+2010,average ph-concentration in the german bight (ph-value),8.126
+2011,average ph-concentration in the german bight (ph-value),8.138
+2012,average ph-concentration in the german bight (ph-value),8.113999999999999
+2013,average ph-concentration in the german bight (ph-value),8.127
+2014,average ph-concentration in the german bight (ph-value),8.131
+2015,average ph-concentration in the german bight (ph-value),8.113999999999999
+2017,average ph-concentration in the german bight (ph-value),8.149
