@@ -1,4 +1,4 @@
-Year,Units;timeseries,region,GeoCode,Value
+Year,Units,timeseries,region,GeoCode,Value
 2013,%,seats held by women in national parliament (%),,,36.3
 2017,%,seats held by women in national parliament (%),,,30.7
 2011,%,"seats held by women in the parliament of (%):",baden-wuerttemberg,"code08",18.1
