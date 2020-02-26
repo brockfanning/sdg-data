@@ -15,17 +15,17 @@ Year,timeseries,type of dependence,bound,Value
 2015,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,,153
 2016,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,,150
 2017,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,,147
-2010,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,lower bound,214
-2011,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,lower bound,229
-2012,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,lower bound,217
-2013,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,lower bound,213
-2014,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,lower bound,229
-2015,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,lower bound,224
-2016,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,lower bound,223
-2010,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,upper bound,40
-2011,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,upper bound,43
-2012,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,upper bound,41
-2013,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,upper bound,40
-2014,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,upper bound,43
-2015,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,upper bound,42
-2016,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years(lower bound)",,upper bound,42
+2010,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,lower bound,214
+2011,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,lower bound,229
+2012,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,lower bound,217
+2013,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,lower bound,213
+2014,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,lower bound,229
+2015,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,lower bound,224
+2016,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,lower bound,223
+2010,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,upper bound,40
+2011,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,upper bound,43
+2012,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,upper bound,41
+2013,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,upper bound,40
+2014,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,upper bound,43
+2015,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,upper bound,42
+2016,"treatment demand in facilities for addiction support (substances opioids, cocaine and stimulants) of the age group 18 to under 65 years",,upper bound,42
