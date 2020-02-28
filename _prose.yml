@@ -77,9 +77,9 @@ prose:
         field:
           element: text
           label: "Additional Information"
-          scope: addInfo
+          scope: add_info
       ###---#x---------------------------------
-      
+
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
