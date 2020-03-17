@@ -1,22 +1,25 @@
 Year,Units,timeseries,Value
-2010,mn t,dmc (abiotic and biotic material),1267.0
-2011,mn t,dmc (abiotic and biotic material),1368.0
-2012,mn t,dmc (abiotic and biotic material),1323.0
-2013,mn t,dmc (abiotic and biotic material),1314.0
-2014,mn t,dmc (abiotic and biotic material),1363.0
-2015,mn t,dmc (abiotic and biotic material),1278.0
-2016,mn t,dmc (abiotic and biotic material),1294.0
-2010,t per capita,dmc per capita,15.8
+2010,mn t,dmc (abiotic and biotic material),1263
+2011,mn t,dmc (abiotic and biotic material),1363
+2012,mn t,dmc (abiotic and biotic material),1318
+2013,mn t,dmc (abiotic and biotic material),1311
+2014,mn t,dmc (abiotic and biotic material),1373
+2015,mn t,dmc (abiotic and biotic material),1293
+2016,mn t,dmc (abiotic and biotic material),1304
+2017,mn t,dmc (abiotic and biotic material),1296
+2010,t per capita,dmc per capita,15.7
 2011,t per capita,dmc per capita,17.0
 2012,t per capita,dmc per capita,16.4
 2013,t per capita,dmc per capita,16.3
-2014,t per capita,dmc per capita,16.8
-2015,t per capita,dmc per capita,15.6
-2016,t per capita,dmc per capita,15.7
+2014,t per capita,dmc per capita,17.0
+2015,t per capita,dmc per capita,15.8
+2016,t per capita,dmc per capita,15.8
+2017,t per capita,dmc per capita,15.7
 2010,2010 = 100,dmc per real gdp,100.0
-2011,2010 = 100,dmc per real gdp,104.2
-2012,2010 = 100,dmc per real gdp,100.2
-2013,2010 = 100,dmc per real gdp,99.1
-2014,2010 = 100,dmc per real gdp,100.6
-2015,2010 = 100,dmc per real gdp,92.7
-2016,2010 = 100,dmc per real gdp,91.8
+2011,2010 = 100,dmc per real gdp,103.9
+2012,2010 = 100,dmc per real gdp,100.0
+2013,2010 = 100,dmc per real gdp,99.0
+2014,2010 = 100,dmc per real gdp,101.4
+2015,2010 = 100,dmc per real gdp,93.9
+2016,2010 = 100,dmc per real gdp,92.7
+2017,2010 = 100,dmc per real gdp,89.9
