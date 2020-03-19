@@ -25,6 +25,16 @@ prose:
             label: "Layout"
             scope: page
     ######### Global Metadata #########
+      - name: "target"
+        field:
+            element: text
+            label: "Target name"
+            scope: global
+      - name: "target_id"
+        field:
+            element: hidden
+            label: "Target number"
+            scope: global
       - name: "indicator_name"
         field:
             element: text
@@ -37,18 +47,8 @@ prose:
             scope: global
       - name: "indicator_sort_order"
         field:
-            element: text
+            element: hidden
             label: "Indicator display order (within Goal page)"
-            scope: global
-      - name: "target"
-        field:
-            element: text
-            label: "Target name"
-            scope: global
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target number"
             scope: global
       - name: "un_designated_tier"
         field:
