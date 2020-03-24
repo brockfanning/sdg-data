@@ -71,6 +71,17 @@ prose:
             label: "Link to UN metadata text"
             value: "UN metadata"
             scope: global
+      - name: "goal_meta_2_link"
+        field:
+            element: text
+            label: ""
+            scope: global
+      - name: "goal_meta_2_link_text"
+        field:
+            element: text
+            label: ""
+            value: "UN metadata"
+            scope: global
       ###---#22 additionalDataAsEmbedded---start------------------------------
       ######### additional #######################
       - name: "additional_information"
