@@ -1,39 +1,44 @@
 Year,timeseries,profession,Value
-2012,health workers - practising concept (per 10 000 inhabitants),,351.0
-2013,health workers - practising concept (per 10 000 inhabitants),,360.8
-2014,health workers - practising concept (per 10 000 inhabitants),,367.3
-2015,health workers - practising concept (per 10 000 inhabitants),,370.2
-2016,health workers - practising concept (per 10 000 inhabitants),,376.8
-2017,health workers - practising concept (per 10 000 inhabitants),,383.0
-2010,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.28
+2012,health workers - practising concept (per 10 000 inhabitants),,350.95
+2013,health workers - practising concept (per 10 000 inhabitants),,360.79
+2014,health workers - practising concept (per 10 000 inhabitants),,367.25
+2015,health workers - practising concept (per 10 000 inhabitants),,370.18
+2016,health workers - practising concept (per 10 000 inhabitants),,376.83
+2017,health workers - practising concept (per 10 000 inhabitants),,383.01
+2018,health workers - practising concept (per 10 000 inhabitants),,388.24
+2010,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.07
 2011,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.34
-2012,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.42
-2013,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.46
-2014,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.52
-2015,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.51
-2016,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.52
-2017,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.51
-2010,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,120.12
-2011,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,121.34
-2012,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,122.13
-2013,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,126.0
-2014,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,127.92
-2015,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,128.54
+2012,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.44
+2013,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.42
+2014,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.50
+2015,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.52
+2016,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.54
+2017,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.55
+2018,health workers - practising concept (per 10 000 inhabitants),b) dentists,8.56
+2010,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,117.92
+2011,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,121.348
+2012,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,122.20
+2013,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,125.92
+2014,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,127.96
+2015,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,128.51
 2016,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,130.87
-2017,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,132.01
-2010,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.31
-2011,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.31
-2012,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.27
-2013,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.37
-2014,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.4
-2015,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.4
-2016,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.35
+2017,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,133.95
+2018,health workers - practising concept (per 10 000 inhabitants),c) nursing and midwifery personnel,134.91
+2010,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.24
+2011,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.35
+2012,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.21
+2013,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.31
+2014,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.40
+2015,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.45
+2016,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.30
 2017,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.46
-2010,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,37.85
-2011,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,38.74
-2012,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,39.42
-2013,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,40.29
-2014,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,40.97
-2015,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,41.15
+2018,health workers - practising concept (per 10 000 inhabitants),d) pharmacists,6.56
+2010,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,37.19
+2011,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,38.72
+2012,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,39.37
+2013,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,40.24
+2014,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,41.01
+2015,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,41.13
 2016,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,41.78
 2017,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,42.42
+2018,health workers - practising concept (per 10 000 inhabitants),a) medical doctors,43.05

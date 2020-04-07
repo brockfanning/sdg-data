@@ -8,6 +8,7 @@ Year,timeseries,sex,Value
 2016,children in child day care at the age of 5 (%),,95.9
 2017,children in child day care at the age of 5 (%),,96.4
 2018,children in child day care at the age of 5 (%),,95.3
+2019,children in child day care at the age of 5 (%),,95.8
 2010,children in child day care at the age of 5 (%),female,95.5
 2011,children in child day care at the age of 5 (%),female,95.7
 2012,children in child day care at the age of 5 (%),female,96.6
@@ -17,6 +18,7 @@ Year,timeseries,sex,Value
 2016,children in child day care at the age of 5 (%),female,96.3
 2017,children in child day care at the age of 5 (%),female,96.5
 2018,children in child day care at the age of 5 (%),female,95.5
+2019,children in child day care at the age of 5 (%),female,96.3
 2010,children in child day care at the age of 5 (%),male,95.4
 2011,children in child day care at the age of 5 (%),male,95.2
 2012,children in child day care at the age of 5 (%),male,96.2
@@ -26,3 +28,4 @@ Year,timeseries,sex,Value
 2016,children in child day care at the age of 5 (%),male,95.6
 2017,children in child day care at the age of 5 (%),male,96.3
 2018,children in child day care at the age of 5 (%),male,95.1
+2019,children in child day care at the age of 5 (%),male,95.4
