@@ -1,10 +1,10 @@
-Year,timeseries,Value
-2010,export refunds (eur),29872803
-2011,export refunds (eur),18944934
-2012,export refunds (eur),5781374
-2013,export refunds (eur),1396385
-2014,export refunds (eur),533798
-2015,export refunds (eur),50637
-2016,export refunds (eur),30454
-2017,export refunds (eur),26662
-2018,export refunds (eur),44145
+Year,Value
+2010,29872803
+2011,18944934
+2012,5781374
+2013,1396385
+2014,533798
+2015,50637
+2016,30454
+2017,26662
+2018,44145
