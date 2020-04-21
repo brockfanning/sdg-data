@@ -1,26 +1,26 @@
-Year,timeseries,indicator,Value
-2010,gender parity index of,sdg indicator 4-2-2,1.0
-2011,gender parity index of,sdg indicator 4-2-2,1.01
-2012,gender parity index of,sdg indicator 4-2-2,1.0
-2013,gender parity index of,sdg indicator 4-2-2,1.01
-2014,gender parity index of,sdg indicator 4-2-2,1.01
-2015,gender parity index of,sdg indicator 4-2-2,1.01
-2016,gender parity index of,sdg indicator 4-2-2,1.01
-2017,gender parity index of,sdg indicator 4-2-2,1.0
-2018,gender parity index of,sdg indicator 4-2-2,1.0
-2010,gender parity index of,sdg indicator 4-3-1 (adults),0.93
-2011,gender parity index of,sdg indicator 4-3-1 (adults),0.92
-2012,gender parity index of,sdg indicator 4-3-1 (adults),0.94
-2013,gender parity index of,sdg indicator 4-3-1 (adults),0.95
-2014,gender parity index of,sdg indicator 4-3-1 (adults),0.95
-2015,gender parity index of,sdg indicator 4-3-1 (adults),0.95
-2016,gender parity index of,sdg indicator 4-3-1 (adults),0.94
-2017,gender parity index of,sdg indicator 4-3-1 (adults),0.95
-2010,gender parity index of,sdg indicator 4-3-1 (youth),1.02
-2011,gender parity index of,sdg indicator 4-3-1 (youth),1.03
-2012,gender parity index of,sdg indicator 4-3-1 (youth),1.02
-2013,gender parity index of,sdg indicator 4-3-1 (youth),1.01
-2014,gender parity index of,sdg indicator 4-3-1 (youth),1.01
-2015,gender parity index of,sdg indicator 4-3-1 (youth),1.01
-2016,gender parity index of,sdg indicator 4-3-1 (youth),1.01
-2017,gender parity index of,sdg indicator 4-3-1 (youth),1.02
+Year,indicator,Value
+2010,sdg indicator 4-2-2,1.0
+2011,sdg indicator 4-2-2,1.01
+2012,sdg indicator 4-2-2,1.0
+2013,sdg indicator 4-2-2,1.01
+2014,sdg indicator 4-2-2,1.01
+2015,sdg indicator 4-2-2,1.01
+2016,sdg indicator 4-2-2,1.01
+2017,sdg indicator 4-2-2,1.0
+2018,sdg indicator 4-2-2,1.0
+2010,sdg indicator 4-3-1 (adults),0.93
+2011,sdg indicator 4-3-1 (adults),0.92
+2012,sdg indicator 4-3-1 (adults),0.94
+2013,sdg indicator 4-3-1 (adults),0.95
+2014,sdg indicator 4-3-1 (adults),0.95
+2015,sdg indicator 4-3-1 (adults),0.95
+2016,sdg indicator 4-3-1 (adults),0.94
+2017,sdg indicator 4-3-1 (adults),0.95
+2010,sdg indicator 4-3-1 (youth),1.02
+2011,sdg indicator 4-3-1 (youth),1.03
+2012,sdg indicator 4-3-1 (youth),1.02
+2013,sdg indicator 4-3-1 (youth),1.01
+2014,sdg indicator 4-3-1 (youth),1.01
+2015,sdg indicator 4-3-1 (youth),1.01
+2016,sdg indicator 4-3-1 (youth),1.01
+2017,sdg indicator 4-3-1 (youth),1.02
