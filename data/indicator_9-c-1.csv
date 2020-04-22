@@ -1,17 +1,17 @@
-Year,timeseries,technology,Value
-2010,households covered by (%):,3g,86.6
-2011,households covered by (%):,3g,88.5
-2012,households covered by (%):,3g,90.4
-2013,households covered by (%):,3g,92.2
-2014,households covered by (%):,3g,92.5
-2015,households covered by (%):,3g,91.9
-2016,households covered by (%):,3g,91.4
-2017,households covered by (%):,3g,90.6
-2010,households covered by (%):,lte,2.1
-2011,households covered by (%):,lte,21.5
-2012,households covered by (%):,lte,51.7
-2013,households covered by (%):,lte,81.0
-2014,households covered by (%):,lte,92.1
-2015,households covered by (%):,lte,95.7
-2016,households covered by (%):,lte,96.2
-2017,households covered by (%):,lte,96.2
+Year,technology,Value
+2010,3g,86.6
+2011,3g,88.5
+2012,3g,90.4
+2013,3g,92.2
+2014,3g,92.5
+2015,3g,91.9
+2016,3g,91.4
+2017,3g,90.6
+2010,lte,2.1
+2011,lte,21.5
+2012,lte,51.7
+2013,lte,81.0
+2014,lte,92.1
+2015,lte,95.7
+2016,lte,96.2
+2017,lte,96.2

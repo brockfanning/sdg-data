@@ -1,25 +1,25 @@
-Year,Units,timeseries,Value
-2010,%,married girls under 18 years,0.0
-2011,%,married girls under 18 years,0.0
-2012,%,married girls under 18 years,0.0
-2013,%,married girls under 18 years,0.0
-2014,%,married girls under 18 years,0.0
-2015,%,married girls under 18 years,0.0
-2016,%,married girls under 18 years,0.0
-2017,%,married girls under 18 years,0.0
-2010,%,married girls under 15 years,0.0
-2011,%,married girls under 15 years,0.0
-2012,%,married girls under 15 years,0.0
-2013,%,married girls under 15 years,0.0
-2014,%,married girls under 15 years,0.0
-2015,%,married girls under 15 years,0.0
-2016,%,married girls under 15 years,0.0
-2017,%,married girls under 15 years,0.0
-2010,number,married girls under 18 years,225.0
-2011,number,married girls under 18 years,213.0
-2012,number,married girls under 18 years,214.0
-2013,number,married girls under 18 years,245.0
-2014,number,married girls under 18 years,321.0
-2015,number,married girls under 18 years,880.0
-2016,number,married girls under 18 years,700.0
-2017,number,married girls under 18 years,318.0
+Year,Units,age,Value
+2010,%,under 18 years,0.0
+2011,%,under 18 years,0.0
+2012,%,under 18 years,0.0
+2013,%,under 18 years,0.0
+2014,%,under 18 years,0.0
+2015,%,under 18 years,0.0
+2016,%,under 18 years,0.0
+2017,%,under 18 years,0.0
+2010,%,under 15 years,0.0
+2011,%,under 15 years,0.0
+2012,%,under 15 years,0.0
+2013,%,under 15 years,0.0
+2014,%,under 15 years,0.0
+2015,%,under 15 years,0.0
+2016,%,under 15 years,0.0
+2017,%,under 15 years,0.0
+2010,number,under 18 years,225.0
+2011,number,under 18 years,213.0
+2012,number,under 18 years,214.0
+2013,number,under 18 years,245.0
+2014,number,under 18 years,321.0
+2015,number,under 18 years,880.0
+2016,number,under 18 years,700.0
+2017,number,under 18 years,318.0
