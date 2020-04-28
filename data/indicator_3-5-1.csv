@@ -1,17 +1,50 @@
-Year,timeseries,type of dependence,Value
-2010,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,220
-2011,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,220
-2012,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,223
-2013,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,226
-2014,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,226
-2015,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,219
-2016,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,215
-2017,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),total,210
-2010,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,155
-2011,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,157
-2012,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,161
-2013,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,161
-2014,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,160
-2015,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,153
-2016,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,150
-2017,inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),inpatient treatment of alcohol dependence,147
+Year,substance,sex,Value
+2010,drugs,,37107
+2011,drugs,,36848
+2012,drugs,,36166
+2013,drugs,,40556
+2014,drugs,,49795
+2015,drugs,,51919
+2016,drugs,,52621
+2017,drugs,,51806
+2010,drugs,male,26656
+2011,drugs,male,26241
+2012,drugs,male,25566
+2013,drugs,male,29266
+2014,drugs,male,36515
+2015,drugs,male,38689
+2016,drugs,male,39318
+2017,drugs,male,38925
+2010,drugs,female,10451
+2011,drugs,female,10607
+2012,drugs,female,10600
+2013,drugs,female,11290
+2014,drugs,female,13280
+2015,drugs,female,13230
+2016,drugs,female,13303
+2017,drugs,female,12881
+2010,alcohol and other psychoactive substances,,191512
+2011,alcohol and other psychoactive substances,,192159
+2012,alcohol and other psychoactive substances,,195976
+2013,alcohol and other psychoactive substances,,194412
+2014,alcohol and other psychoactive substances,,185305
+2015,alcohol and other psychoactive substances,,176185
+2016,alcohol and other psychoactive substances,,170467
+2017,alcohol and other psychoactive substances,,165834
+2010,alcohol and other psychoactive substances,male,142376
+2011,alcohol and other psychoactive substances,male,141363
+2012,alcohol and other psychoactive substances,male,143488
+2013,alcohol and other psychoactive substances,male,143201
+2014,alcohol and other psychoactive substances,male,135845
+2015,alcohol and other psychoactive substances,male,129808
+2016,alcohol and other psychoactive substances,male,125878
+2017,alcohol and other psychoactive substances,male,122260
+2010,alcohol and other psychoactive substances,female,49139
+2011,alcohol and other psychoactive substances,female,50796
+2012,alcohol and other psychoactive substances,female,52487
+2013,alcohol and other psychoactive substances,female,51211
+2014,alcohol and other psychoactive substances,female,49460
+2015,alcohol and other psychoactive substances,female,46377
+2016,alcohol and other psychoactive substances,female,44589
+2017,alcohol and other psychoactive substances,female,43574
+2012,alcohol and other psychoactive substances,unknown,142376
