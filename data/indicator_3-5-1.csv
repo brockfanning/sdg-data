@@ -31,7 +31,7 @@ Year,substance,sex,Value
 2015,b) alcohol and other psychoactive substances (total),,176185
 2016,b) alcohol and other psychoactive substances (total),,170467
 2017,b) alcohol and other psychoactive substances (total),,165834
-2010,b) alcohol and other psychoactive substances (total),male,142376
+2010,b) alcohol and other psychoactive substances (total),male,142373
 2011,b) alcohol and other psychoactive substances (total),male,141363
 2012,b) alcohol and other psychoactive substances (total),male,143488
 2013,b) alcohol and other psychoactive substances (total),male,143201
@@ -72,7 +72,6 @@ Year,substance,sex,Value
 2015,d) alcohol and other psychoactive substances (other psychoactive substances),male,14012
 2016,d) alcohol and other psychoactive substances (other psychoactive substances),male,12868
 2017,d) alcohol and other psychoactive substances (other psychoactive substances),male,11283
-2012,d) alcohol and other psychoactive substances (other psychoactive substances),unknown,1
 2010,c) alcohol and other psychoactive substances (alcohol),,160852
 2011,c) alcohol and other psychoactive substances (alcohol),,162989
 2012,c) alcohol and other psychoactive substances (alcohol),,166872
@@ -97,3 +96,4 @@ Year,substance,sex,Value
 2015,c) alcohol and other psychoactive substances (alcohol),male,115796
 2016,c) alcohol and other psychoactive substances (alcohol),male,113010
 2017,c) alcohol and other psychoactive substances (alcohol),male,110977
+2012,c) alcohol and other psychoactive substances (alcohol),unknown,1
