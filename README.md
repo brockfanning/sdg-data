@@ -9,7 +9,6 @@ This repository holds the German data for SDG reporting. The data is served via 
 # Servers
 
 The develop branch serves from the `gh-pages` branch on this repository. This is for staging.
-
 The master branch serves from the main deployment org and is for prod.
 
 # Routes:
