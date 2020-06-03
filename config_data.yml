@@ -66,7 +66,7 @@ inputs:
 translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
-    source: https://github.com/JustusCas/sdg-translations.git
+    source: https://github.com/G205SDGs/sdg-translations.git
     tag: master
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
